@@ -56,7 +56,7 @@
     <td>Fall 2022</td>
   </tr>
 </table>
-<h2> Cornell Math Courses
+  <h2> Cornell Math Courses</h2>
 <table>
   <tr>
     <th>Course</th>
