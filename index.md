@@ -5,7 +5,7 @@
 <body>
 <h1>Overview</h1>
 <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:172.8px;height:259.2px;" tyle="text-align:center;">
-<p>Hello! My name is <b>Mitchell</b> (any pronouns are fine), an engineer turned mathematician. I am currently a second year Master's student in Computational and Applied Mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning systems that arise in inverse problems like medical imaging. When I am not working on math, I enjoy reading fiction and running.</p>
+<p>Hello! My name is <b>Mitchell</b> (most pronouns are fine), an engineer turned mathematician. I am currently a second year Master's student in Computational and Applied Mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning systems that arise in inverse problems like medical imaging. When I am not working on math, I enjoy reading fiction and running.</p>
 <h1>About me</h1>
 <h2>Past</h2>
 <p> I started at Cornell University. Finally, I graduated during the height of the COVID-19 pandemic.</p>
