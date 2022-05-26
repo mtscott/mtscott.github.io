@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>Overview</h1>
-<img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:17.28px;height:25.92px;" style="text-align:center;">
+<img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:172.8px;height:259.2px;" style="text-align:center;">
 <p>Hello! My name is <b>Mitchell</b>, or <b>Mitch</b> (most pronouns are fine), an engineer turned mathematician. I am currently a second year master's student in computational and applied mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning systems that arise in inverse problems like medical imaging. When I am not working on math, I enjoy reading contemporary fiction and running.</p>
 <h1>About me</h1>
 <h2>Past</h2>
@@ -17,8 +17,83 @@
 "People who wish to analyze nature without using mathematics must settle for a reduced understanding." -Richard Feynman 
 </blockquote>
 
-<h1>Curriculum Vitae</h1>
-<p>This is my CV.</p>
+<h1>Curriculum Vitae and Math Courses</h1>
+<h2>Tufts Math Courses </h2>
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Professor</th>
+    <th>Semester</th>
+  </tr>
+  <tr>
+    <td>Math 87 - Math modelling</td>
+    <td>Prof. Arkadz Kirschtein</td>
+    <td>Fall 2021</td>
+  </tr>
+  <tr>
+    <td>Math 135 - Real Analysis I</td>
+    <td>Prof. Patricia Garmirian</td>
+    <td>Fall 2021</td>
+  </tr>
+  <tr>
+    <td>Math 145 - Abstract Algebra I</td>
+    <td>Prof. Sebastian Bozlee</td>
+    <td>Fall 2021</td>
+  </tr>
+  <tr>
+    <td>Math 136 - Real Analysis II</td>
+    <td>Prof. Todd Quinto</td>
+    <td>Spring 2022</td>
+  </tr>
+  <tr>
+    <td>Math 225 - Numerical Analysis</td>
+    <td>Prof. Misha Kilmer</td>
+    <td>Spring 2022</td>
+  </tr>
+  <tr>
+    <td>Math 235 - Analysis I</td>
+    <td>Prof. Kasso Okoudjou</td>
+    <td>Fall 2022</td>
+  </tr>
+</table>
+<h2> Cornell Math Courses
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Professor</th>
+    <th>Semester</th>
+  </tr>
+  <tr>
+    <td>Math 1920 - Multivariate Calculus for Engineers</td>
+    <td>Prof. Kelly Delp</td>
+    <td>Spring 2017</td>
+  </tr>
+  <tr>
+    <td>Math 2930 - Differential Equations for Engineers</td>
+    <td>Prof. Richard Rand</td>
+    <td>Fall 2017</td>
+  </tr>
+  <tr>
+    <td>Math 2940 - Linear Algebra for Engineers</td>
+    <td>Prof. Damek Davis</td>
+    <td>Spring 2018</td>
+  </tr>
+  <tr>
+    <td>Math 3320 - Into to Number Theory</td>
+    <td>Prof. Brian Hwang</td>
+    <td>Fall 2018</td>
+  </tr>
+  <tr>
+    <td>Math  4280 - Intro to PDEs</td>
+    <td>Prof. Gennady Uraltsev</td>
+    <td>Spring 2019</td>
+  </tr>
+  <tr>
+    <td>Math 4210 - Dynamics and Chaos</td>
+    <td>Prof. Lionel Levine</td>
+    <td>Spring 2020</td>
+  </tr>
+</table>
 <h1>Publications and Research</h1>
 <p>This is my CV.</p>
 <h1>Blog</h1>
