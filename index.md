@@ -94,8 +94,28 @@ th, td {
     <td>Spring 2019</td>
   </tr>
   <tr>
-    <td>Math 4210 - Dynamics and Chaos</td>
+    <td>Math  4220 - Applied Complex Analysis</td>
+    <td>Prof. Richard Rand</td>
+    <td>Fall 2019</td>
+  </tr>
+  <tr>
+    <td>Math  4370 - Computational Algebra</td>
+    <td>Prof. Karola Meszaros</td>
+    <td>Fall 2019</td>
+  </tr>
+  <tr>
+    <td>Math 4250 - Numerical Differential Equations</td>
+    <td>Prof. Alexander Vladimirsky</td>
+    <td>Fall 2019</td>
+  </tr>
+  <tr>
+    <td>Math 4210 - Nonlinear Dynamics and Chaos</td>
     <td>Prof. Lionel Levine</td>
+    <td>Spring 2020</td>
+  </tr>
+  <tr>
+    <td>Math 4260 - Numerical Linear and Nonlinear Equations</td>
+    <td>Prof. David Bindel</td>
     <td>Spring 2020</td>
   </tr>
 </table>
