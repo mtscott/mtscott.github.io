@@ -60,6 +60,11 @@ th, td {
     <td>Prof. Kasso Okoudjou</td>
     <td>Fall 2022</td>
   </tr>
+  <tr>
+    <td>Math 225 - Partial Differential Equations</td>
+    <td>Prof. James Adler</td>
+    <td>Fall 2022</td>
+  </tr>
 </table>
 <h3> Cornell Math Courses</h3>
 <table>
