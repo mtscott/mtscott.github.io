@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
 <head>
 <title>M.T. Scott (academic portfolio)</title>
