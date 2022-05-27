@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en-US">
 <head>
 <title>M.T. Scott (academic portfolio)</title>
@@ -8,21 +9,6 @@ th, td {
 </style>
 </head>
 <body>
-<header>
-<nav id="table-of-contents" role="doc-toc">
-<h1>Table of Contents</h1>
-<div id="text-table-of-contents" role="doc-toc">
-<ul>
-<li><a href="#sec:about-me" class="outline-nav-selected">About me</a></li>
-<li><a href="#sec:research-interests" class="">Research interests</a></li>
-<li><a href="#sec:publications" class="">Publications</a></li>
-<li><a href="#sec:talks-travel" class="">Talks and travel</a></li>
-<li><a href="#sec:teaching" class="">Teaching</a></li>
-<li><a href="#sec:cv">CV</a></li>
-</ul>
-</div>
-</nav>
-</header>
 <h1>Overview</h1>
 <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:172.8px;height:259.2px;" style="text-align:center;">
 <p>Hello! My name is <b>Mitchell</b>, or <b>Mitch</b> (most pronouns are fine), an engineer turned mathematician. I am currently a second year master's student in computational and applied mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning systems that arise in inverse problems like medical imaging. When I am not working on math, I enjoy reading contemporary fiction and running.</p>
@@ -38,7 +24,7 @@ th, td {
 </blockquote>
 
 <h1>Curriculum Vitae and Math Courses</h1>
-<h2>Tufts Math Courses </h2>
+<h3>Tufts Math Courses </h3>
 <table>
   <tr>
     <th>Course</th>
@@ -76,7 +62,7 @@ th, td {
     <td>Fall 2022</td>
   </tr>
 </table>
-<h2> Cornell Math Courses</h2>
+<h3> Cornell Math Courses</h3>
 <table>
   <tr>
     <th>Course</th>
