@@ -125,10 +125,10 @@ th, td {
     <td>Spring 2020</td>
   </tr>
 </table>
-<h1>Research<, Reading Groups, and Note Sets/h1>
+<h1>Research, Reading Groups, and Note Sets</h1>
 <p>This is my CV.</p>
-<h1>Blog</h1>
-<p>This is my blog about higher ed.</p>
+<h1>Math blog and blog about math </h1>
+<p>This is my blog about high</p>
 <h1>Hobbies</h1>
 <p>This is my list of hobbies and personal stuff.</p>
 <h1>Contact Information</h1>
