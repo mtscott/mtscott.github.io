@@ -5,13 +5,41 @@
 th, td {
   border-style: none;
 }
+nav {
+  float: left;
+  width: 30%;
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
 </style>
 </head>
 <body>
-<h1>Overview</h1>
+  <section>
+  <nav>
+    <ul>
+      <li><a href="#Home">Home</a></li>
+      <li><a href="#About-me">About Me</a></li>
+      <li><a href="#CV-and-Math">Curriculum Vitae and Math Courses</a></li>
+      <li><a href="#Research-and-Notes">Research and Notes</a></li>
+      <li><a href="#Math-Blog">Math Blog</a></li>
+      <li><a href="#Hobbies">Hobbies</a></li>
+      <li><a href="#Contacts">Contact Information</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>Overview</h1>
 <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:172.8px;height:259.2px;" style="text-align:center;">
 <p>Hello! My name is <b>Mitchell</b>, or <b>Mitch</b> (most pronouns are fine), an engineer turned mathematician. I am currently a second year master's student in computational and applied mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning systems that arise in inverse problems like medical imaging. When I am not working on math, I enjoy reading contemporary fiction and running.</p>
-<h1>About me</h1>
+  </article>
+  <article>
+    <h1>About me</h1>
 <h3>Past</h3>
 <p> I started at Cornell University in 2016 as a biology student. However, the more math courses I took, the more I was hooked. By my junior year, I had switched to biological engineering, but that wasn't enough math, so I added minors in pure math and applied math. I always knew I wanted to continue my education past a bachelor's degree, but I thought the additional math would help in some sort of biochemical engineering modelling, and it wasn't until my senior spring that I realized I should study math in its own right. Taking a course on linear and nonlinear scientific computing as well as my senior design thesis, using computational fluid dynamics to model the reaction defusion equation in a human organ, caused me to see that this was what I wanted to do for the rest of my life.  </p>
 <h3>Present</h3>
@@ -23,7 +51,9 @@ th, td {
 </blockquote>
 <p>While my research is very important to me, another goal of graduate school is to become a better conveyor of information. I have often felt overwhelmed in large classrooms and too self-conscious to ask questions, so I want to look into how to present information and a culture of inclusion so that anyone can ask the questions that they need to ask to learn.</p>
 
-<h1>Curriculum Vitae and Math Courses</h1>
+  </article>
+  <article>
+    <h1>Curriculum Vitae and Math Courses</h1>
 <h3>Tufts Math Courses </h3>
 <table>
   <tr>
@@ -125,17 +155,32 @@ th, td {
     <td>Spring 2020</td>
   </tr>
 </table>
-<h1>Research, Reading Groups, and Note Sets</h1>
+  </article>
+  <article>
+    <h1>Research, Reading Groups, and Note Sets</h1>
 <p>This is my CV.</p>
-<h1>Math blog and blog about math </h1>
+  </article>
+  <article>
+    <h1>Math blog and blog about math </h1>
 <p>This is my blog about high</p>
-<h1>Hobbies</h1>
+  </article>
+  <article>
+    <h1>Hobbies</h1>
 <p>This is my list of hobbies and personal stuff.</p>
-<h1>Contact Information</h1>
+  </article>
+  <article>
+    <h1>Contact Information</h1>
 <p> This is my 
 <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn.</a></p>
 <p> This is my academic
 <a href="https://twitter.com/mitchmatician" target="_blank"> twitter.</a></p>
 <p> This is the best way to contact me via <a href="mailto:mitchell.scott@tufts.edu">email</a></p>
+  </article>
+</section>
+  
+  <footer>
+  <p>Footer</p>
+</footer>
+
 </body>
 </html>
