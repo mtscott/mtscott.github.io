@@ -40,7 +40,7 @@ body {
 <body>
   <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
+  <a href="html/about.html">About Me/a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
