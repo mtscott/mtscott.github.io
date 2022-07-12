@@ -200,9 +200,9 @@ body {
 <p> This is the best way to contact me via <a href="mailto:mitchell.scott@tufts.edu">email</a></p>
   </article>
 </section>
-  
- <footer>
-  <p>Last updated: July 12, 2022</p>
+
+<footer>
+  Last Updated: July 12, 2022
 </footer>
 
 </body>
