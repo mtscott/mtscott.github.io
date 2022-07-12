@@ -114,6 +114,11 @@ body {
     <td>Prof. James Adler</td>
     <td>Fall 2022</td>
   </tr>
+  <tr>
+    <td>Math 295 - Master's Thesis I</td>
+    <td>Prof. Xiaozhe Hu</td>
+    <td>Fall 2022</td>
+  </tr>
 </table>
 <h3> Cornell Math Courses</h3>
 <table>
