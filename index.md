@@ -201,8 +201,8 @@ body {
   </article>
 </section>
   
-  <footer>
-  <p>Footer</p>
+ <footer>
+  <p>Last updated: July 12, 2022</p>
 </footer>
 
 </body>
