@@ -183,7 +183,7 @@ body {
     <h1>Invited Talks, Publications, and Note Sets</h1>
     <h3> Invited Talks</h3>
       <ul>
-        <li> <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a> for Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings.</a> </li>
+        <li> <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a> for Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings</a>. </li>
       </ul>
     <h3> Selected Projects</h3>
     <h3> Note Sets</h3>
@@ -203,15 +203,15 @@ body {
   <article>
     <h1>Contact Information</h1>
 <p> This is my 
-<a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn.</a></p>
+<a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>.</p>
 <p> This is my academic
-<a href="https://twitter.com/mitchmatician" target="_blank"> twitter.</a></p>
-<p> This is the best way to contact me via <a href="mailto:mitchell.scott@tufts.edu">email</a></p>
+<a href="https://twitter.com/mitchmatician" target="_blank"> twitter</a>.</p>
+<p> This is the best way to contact me via <a href="mailto:mitchell.scott@tufts.edu">email</a>.</p>
   </article>
 </section>
 
 <footer>
-  Last Updated: July 12, 2022
+  Last Updated: September 14, 2022
 </footer>
 
 </body>
