@@ -181,11 +181,15 @@ body {
   </article>
   <article>
     <h1>Research, Reading Groups, and Note Sets</h1>
-<p>This is my CV.</p>
+<ol>
+  <li  href = "EminarNotes.pdf" >Tufts Math Research Meeting</li>
+  <li>Quantum Reading Group Ch. 7 notes</li>
+  <li>Quantum Reading Group Ch. 5 notes</li>
+</ol>
   </article>
   <article>
-    <h1>Math blog and blog about math </h1>
-<p>This is my blog about high</p>
+    <h1>Math blog </h1>
+<p>This is my blog about math.</p>
   </article>
   <article>
     <h1>Hobbies</h1>
