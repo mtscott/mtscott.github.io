@@ -116,7 +116,7 @@ body {
   </tr>
   <tr>
     <td>Math 295 - Master's Thesis I</td>
-    <td>Prof. Xiaozhe Hu</td>
+    <td>Prof. Xiaozhe Hu, Prof. Misha Kilmer</td>
     <td>Fall 2022</td>
   </tr>
 </table>
@@ -182,7 +182,7 @@ body {
   <article>
     <h1>Research, Reading Groups, and Note Sets</h1>
 <ol>
-  <li  href = "EminarNotes.pdf" >Tufts Math Research Meeting</li>
+  <li> <a  href = "EminarNotes.pdf" >Tufts Math Research Meeting</a> </li>
   <li>Quantum Reading Group Ch. 7 notes</li>
   <li>Quantum Reading Group Ch. 5 notes</li>
 </ol>
