@@ -180,12 +180,17 @@ body {
 </table>
   </article>
   <article>
-    <h1>Research, Reading Groups, and Note Sets</h1>
-<ol>
-  <li> <a  href = "EminarNotes.pdf" >Tufts Math Research Meeting</a> </li>
-  <li>Quantum Reading Group Ch. 7 notes</li>
-  <li>Quantum Reading Group Ch. 5 notes</li>
-</ol>
+    <h1>Invited Talks, Publications, and Note Sets</h1>
+    <h3> Invited Talks</h3>
+      <ul>
+        <li> <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a> for Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings.</a> </li>
+      </ul>
+    <h3> Selected Projects</h3>
+    <h3> Note Sets</h3>
+      <ul>
+        <li>Quantum Reading Group Ch. 7 notes</li>
+        <li>Quantum Reading Group Ch. 5 notes</li>
+      </ul>
   </article>
   <article>
     <h1>Math blog </h1>
