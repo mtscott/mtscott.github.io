@@ -10,6 +10,7 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+  </head>
 
   <body>
   <section>
@@ -152,8 +153,8 @@ body {
     <h3> Selected Projects</h3>
     <h3> Note Sets</h3>
       <ul>
-        <li>Quantum Reading Group Ch. 7 notes</li>
-        <li>Quantum Reading Group Ch. 5 notes</li>
+        <li> <a  href = "LiptonQCReadingGroupCh7Notes.pdf"> Quantum Reading Group Ch. 7 notes </a></li>
+        <li><a  href = "LiptonQCReadingGroupCh5Notes.pdf"> Quantum Reading Group Ch. 5 notes </a></li>
       </ul>
   </article>
   <article>
