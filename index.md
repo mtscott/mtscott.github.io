@@ -10,9 +10,10 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-  </head>
+  </style>
+</head>
 
-  <body>
+<body>
   <section>
   
   <article>
