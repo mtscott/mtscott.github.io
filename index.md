@@ -149,7 +149,7 @@ body {
     <h1>Invited Talks, Publications, and Note Sets</h1>
     <h3> Invited Talks</h3>
       <ul>
-        <li> <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition" </a> for the <a href = "https://www.jointmathematicsmeetings.org//jmm"> Joint Mathematics Meetings 2023</a>.
+        <li> <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition" </a> for the <a href = "https://www.jointmathematicsmeetings.org//jmm"> Joint Mathematics Meetings 2023</a>. </li>
         <li> <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a> for Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings</a>. </li>
       </ul>
     <h3> Selected Projects</h3>
