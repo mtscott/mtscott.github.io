@@ -19,7 +19,7 @@ body {
   <article>
     <h1>Overview</h1>
 <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:172.8px;height:259.2px;" style="text-align:center;">
-<p>Hello! My name is <b>Mitchell</b>, or <b>Mitch</b> (most pronouns are fine), an engineer turned mathematician. I am currently a second year master's student in computational and applied mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning systems that arise in inverse problems like medical imaging. When I am not working on math, I enjoy reading contemporary fiction and running.</p>
+<p>Hello! My name is <b>Mitchell</b>, or <b>Mitch</b> (most pronouns are fine), an engineer turned mathematician. I am currently a second year master's student in computational and applied mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning fractional PDEs that show up in financial modeling, turbulent fluid mechanics, and continuum mechanics. When I am not working on math, I enjoy reading contemporary fiction and running. I am currently training for my first marathon!</p>
   </article>
   <article>
     <h1>About me</h1>
@@ -149,6 +149,7 @@ body {
     <h1>Invited Talks, Publications, and Note Sets</h1>
     <h3> Invited Talks</h3>
       <ul>
+        <li> <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition" </a> for the <a href = "https://www.jointmathematicsmeetings.org//jmm"> Joint Mathematics Meetings 2023</a>.
         <li> <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a> for Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings</a>. </li>
       </ul>
     <h3> Selected Projects</h3>
