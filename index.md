@@ -174,11 +174,11 @@ body {
   </article>
   <article>
     <h1>Math blog </h1>
-<p>This is my blog about math.</p>
+<p>[Coming Soon] I hope to start a blog about mathematics that I think are interesting, that either come up in my own research, or just popular sources. I am also thinking about using this blog as a way of expressing some of my thoughts on issues that arise in PWIs that are perpetuating an exclusive mathematical community. </p>
   </article>
   <article>
     <h1>Hobbies</h1>
-<p>This is my list of hobbies and personal stuff.</p>
+<p>[Coming Soon] As I mentioned above, I love reading books and running. I have been reading a lot of Kazuo Ishiguro recently. I am always open to book recommendations. I am also training for a marathon soon, so please send podcast recommendations for my Saturday Long Runs!</p>
   </article>
   <article>
     <h1>Contact Information</h1>
