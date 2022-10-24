@@ -12,7 +12,11 @@
       <li><a href="https://guraltsev.github.io/research" title="Research"><span>Research</span></a></li>
       <li><a href="https://guraltsev.github.io/publications" title="Publications"><span>Publications</span></a></li>
       <li><a href="https://guraltsev.github.io/talks-travel" title="Talks and travel"><span>Talks and travel</span></a></li>
-      <li><a href="https://guraltsev.github.io/teaching" title="Teaching"><span>Teaching</span></a></li></ul></nav></header>
+      <li><a href="https://guraltsev.github.io/teaching" title="Teaching"><span>Teaching</span></a></li>
+    </ul>
+  </nav>
+  </header>
+  
 <body role = "document">
   
 
