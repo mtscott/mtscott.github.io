@@ -42,11 +42,11 @@ body {
  <div class= "topnav">
     <h2> Navigation Menu</h2>
     <a href="mtscott.github.io/index.md">Home</a>
-  <a href="about.html">About Me</a>
-  <a href="talks.html">Talks</a>
-   <a href="blog.html">Blog</a>
-  <a href="hobbies.html">Hobbies</a>
-   <a href="contact.html">Contact</a>
+  <a href="mtscott.github.io/about">About Me</a>
+  <a href="talks">Talks</a>
+   <a href="blog">Blog</a>
+  <a href="hobbies">Hobbies</a>
+   <a href="contact">Contact</a>
  </div>
 
   <section>
