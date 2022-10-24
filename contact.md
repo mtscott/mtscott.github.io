@@ -52,14 +52,14 @@ body {
  </div>
 
 <section>
- 
+<article> 
     <h1>Contact Information</h1>
 <p> This is my 
 <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>.</p>
 <p> This is my academic
 <a href="https://twitter.com/mitchmatician" target="_blank"> twitter</a>. You can also find it by the twitter handle, @Mitchmatician. </p>
 <p> This is the best way to contact me via <a href="mailto:mitchell.scott@tufts.edu">email</a>. You can also email me at [first name] dot [last name] at tufts dot edu.</p>
-  </article>
+ </article>
 </section>
 
 
