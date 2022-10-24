@@ -39,7 +39,7 @@ body {
 </head>
 <body>
   
- <div class= "topnav", style="padding-left:16px">
+ <div class= "topnav">
     <h2>Top Navigation Example</h2>
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="about.html">About Me</a>
