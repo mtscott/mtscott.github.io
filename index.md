@@ -58,7 +58,7 @@ body {
 <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:86.4px;height:129.6px;" style="text-align:center;">
 <p>Hello! My name is <b>Mitchell</b>, or <b>Mitch</b> (most pronouns are fine), a biological engineer turned mathematician. I am currently a second year master's student in computational and applied mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning fractional PDEs that show up in financial modeling, turbulent fluid dynamics, and continuum mechanics. When I am not working on math, I enjoy reading contemporary fiction and running. I am currently training for my first marathon!</p>
   </article>
-
+<article>
     <h1>Contact Information</h1>
     <p> This is my 
       <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>.
