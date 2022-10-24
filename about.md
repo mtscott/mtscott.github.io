@@ -38,14 +38,12 @@ body {
 </style>
 </head>
 <body>
-  <div class="topnav">
   
-</div>
   
   <div class= "topnav">
     <h2>Top Navigation Example</h2>
     <a href="mtscott.github.io/index.md">Home</a>
-  <a href="about.html">About Me</a>
+  <a href="about.md">About Me</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
   </div>
