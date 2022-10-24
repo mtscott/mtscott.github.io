@@ -37,7 +37,7 @@ body {
 
 </style>
 </head>
-<body>
+<body role = "document">
   
 
   
@@ -50,12 +50,12 @@ body {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand " href="/~bindel/">David Bindel</a>
+          <a class="navbar-brand " href="mtscott.github.io">Mitchell Scott</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="active">
-              <a href="/~bindel/index.html">
+              <a href="mtscott.github.io">
                 Home</a>
             </li>
             <li>
@@ -71,32 +71,17 @@ body {
                 Teaching</a>
             </li>
             <li>
-              <a href="/~bindel/pubs.html">
-                Publications</a>
-            </li>
-            <li>
               <a href="/~bindel/talks.html">
                 Talks</a>
             </li>
-            <li>
-              <a href="/~bindel/software.html">
-                Software</a>
-            </li>
-            <li>
-              <a href="/~bindel/students.html">
-                Students</a>
-            </li>
+           
             <li>
               <a href="/~bindel/sermons.html">
                 Sermons</a>
             </li>
-            <li>
-              <a href="/~bindel/links.html">
-                Links</a>
-            </li>
-            <!-- <li><a href="http://www.dbindel.net/">Blog</a></li> -->
-            <li><a href="https://github.com/dbindel/"><i class="fab fa-github"></i></a></li>
-            <li><a href="https://twitter.com/DavidBindel"><i class="fab fa-twitter"></i></a></li>
+            
+            <li><a href="https://github.com/mtscott/"><i class="fab fa-github"></i></a></li>
+            <li><a href="https://twitter.com/Mitchmatician"><i class="fab fa-twitter"></i></a></li>
           </ul>
         </div>
         <!--/.nav-collapse -->
