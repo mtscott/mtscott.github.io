@@ -58,7 +58,7 @@ body {
     <h1>Math blog </h1>
 <p>[Coming Soon] I hope to start a blog about mathematics that I think are interesting, that either come up in my own research, or just popular sources. I am also thinking about using this blog as a way of expressing some of my thoughts on issues that arise in PWIs that are perpetuating an exclusive mathematical community. </p>
   </article>
-
+</section>
 
 </body>
 </html>
