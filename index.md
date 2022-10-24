@@ -20,9 +20,9 @@ body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 20px 30px;
+  padding: 28px 32px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
 }
 
 .topnav a:hover {
@@ -44,7 +44,7 @@ body {
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="about.html">About Me</a>
   <a href="talks.html">Talks</a>
-   <a href="blog.html">Math Blog</a>
+   <a href="blog.html">Blog</a>
   <a href="hobbies.html">Hobbies</a>
    <a href="contact.html">Contact</a>
  </div>
