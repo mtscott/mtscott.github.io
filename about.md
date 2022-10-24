@@ -39,15 +39,69 @@ body {
 </head>
 <body>
   
- <div class= "topnav">
-    <h2> Navigation Menu</h2>
-    <a href="mtscott.github.io/index.md">Home</a>
-  <a href="about.html">About Me</a>
-  <a href="talks.html">Talks</a>
-   <a href="blog.html">Blog</a>
-  <a href="hobbies.html">Hobbies</a>
-   <a href="contact.html">Contact</a>
- </div>
+
+  
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand " href="/~bindel/">David Bindel</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active">
+              <a href="/~bindel/index.html">
+                Home</a>
+            </li>
+            <li>
+              <a href="/~bindel/vita.html">
+                CV</a>
+            </li>
+            <li>
+              <a href="/~bindel/research.html">
+                Research</a>
+            </li>
+            <li>
+              <a href="/~bindel/teaching.html">
+                Teaching</a>
+            </li>
+            <li>
+              <a href="/~bindel/pubs.html">
+                Publications</a>
+            </li>
+            <li>
+              <a href="/~bindel/talks.html">
+                Talks</a>
+            </li>
+            <li>
+              <a href="/~bindel/software.html">
+                Software</a>
+            </li>
+            <li>
+              <a href="/~bindel/students.html">
+                Students</a>
+            </li>
+            <li>
+              <a href="/~bindel/sermons.html">
+                Sermons</a>
+            </li>
+            <li>
+              <a href="/~bindel/links.html">
+                Links</a>
+            </li>
+            <!-- <li><a href="http://www.dbindel.net/">Blog</a></li> -->
+            <li><a href="https://github.com/dbindel/"><i class="fab fa-github"></i></a></li>
+            <li><a href="https://twitter.com/DavidBindel"><i class="fab fa-twitter"></i></a></li>
+          </ul>
+        </div>
+        <!--/.nav-collapse -->
+      </div>
+    </nav>
 
   <section>
   
