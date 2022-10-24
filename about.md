@@ -1,92 +1,20 @@
 <html lang="en-US">
-<head>
-<title>M.T. Scott (academic portfolio)</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-th, td {
-  border-style: none;
 
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-}
-
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 28px 32px;
-  text-decoration: none;
-  font-size: 20px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #04AA6D;
-  color: white;
-}
-
-</style>
-</head>
+<header class="header">
+  <nav class="nav">
+    <div class="logo">
+      <a href="https://guraltsev.github.io/" accesskey="h" title="Gennady Uraltsev (Alt + H)">
+        <img src="https://guraltsev.github.io/img/guraltsev-2glasses_huca12ac1d5e0827344f4bfaa3755b7525_80921_0x48_resize_q75_box.jpg" alt="" aria-label="logo" height="48">Gennady Uraltsev</a>
+      <div class="logo-switches">
+      </div>
+    </div>
+    <ul id="menu">
+      <li><a href="https://guraltsev.github.io/research" title="Research"><span>Research</span></a></li>
+      <li><a href="https://guraltsev.github.io/publications" title="Publications"><span>Publications</span></a></li>
+      <li><a href="https://guraltsev.github.io/talks-travel" title="Talks and travel"><span>Talks and travel</span></a></li>
+      <li><a href="https://guraltsev.github.io/teaching" title="Teaching"><span>Teaching</span></a></li></ul></nav></header>
 <body role = "document">
   
-
-  
-  <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand " href="mtscott.github.io">Mitchell Scott</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="active">
-              <a href="mtscott.github.io">
-                Home</a>
-            </li>
-            <li>
-              <a href="/~bindel/vita.html">
-                CV</a>
-            </li>
-            <li>
-              <a href="/~bindel/research.html">
-                Research</a>
-            </li>
-            <li>
-              <a href="/~bindel/teaching.html">
-                Teaching</a>
-            </li>
-            <li>
-              <a href="/~bindel/talks.html">
-                Talks</a>
-            </li>
-           
-            <li>
-              <a href="/~bindel/sermons.html">
-                Sermons</a>
-            </li>
-            
-            <li><a href="https://github.com/mtscott/"><i class="fab fa-github"></i></a></li>
-            <li><a href="https://twitter.com/Mitchmatician"><i class="fab fa-twitter"></i></a></li>
-          </ul>
-        </div>
-        <!--/.nav-collapse -->
-      </div>
-    </nav>
 
   <section>
   
