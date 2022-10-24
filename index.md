@@ -12,6 +12,21 @@ body {
 }
   </style>
 </head>
+  
+<!-- This is where I added the nav menu. Delete here if it doesn't work-->
+  
+<nav>
+  <ul>
+    <li><strong>Home</strong></li>
+    <li><a href="about.html">About Us</a></li>
+    <li><a href="clients.html">Our Clients</a></li>
+    <li><a href="products.html">Our Products</a></li>
+    <li><a href="services.html">Our Services</a></li>
+    <li><a href="contact.html">Contact Us</a></li>
+  </ul>
+</nav>
+  
+<!-- Delete above if it doesn't work-->
 
 <body>
   <section>
