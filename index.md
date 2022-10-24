@@ -40,7 +40,7 @@ body {
 <body>
   
  <div class= "topnav">
-    <h2> Navigation Menu</h2>
+    <h2> Mitchell Scott</h2>
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="/about.html">About Me</a>
   <a href="/vita.html">CV</a>
@@ -56,10 +56,14 @@ body {
   <article>
     <h1>Overview</h1>
 <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:86.4px;height:129.6px;" style="text-align:center;">
-<p>Hello! My name is <b>Mitchell</b>, or <b>Mitch</b> (most pronouns are fine), a biological engineer turned mathematician. I am currently a second year master's student in computational and applied mathematics at Tufts University. On top of finishing up my coursework, I am working on my thesis, focusing on tensor decompositions and preconditioning fractional PDEs that show up in financial modeling, turbulent fluid dynamics, and continuum mechanics. When I am not working on math, I enjoy reading contemporary fiction and running. I am currently training for my first marathon!</p>
+<p>Mitchell Scott received a BS degree (2020) in biological engineering for Cornell University, COllege of Engineering, with minors in pure and applied math. Currently, he is working towards his MS degree (expected 2023) in mathematics from Tufts University, with a concentration in computational and applied mathematics. His research focus is numerical linear algebra and scientific computing, currently working on his master's thesis on tensor-based decompositions of matrices arising from fractional partial differential equations to make low-rank approximations of them. He is the recipient of the Fuertes communication award. He is currently applying to PhD programs to continue studying numerical linear algebra. When he is not working, Mitchell enjoys reading contemporary fiction over a cappucino or long distance running. </p>
   </article>
 <article>
-    <h1>Contact Information</h1>
+<h2>Contact Information</h2>
+    <p> Joyce Cumming Center
+        Dept of Mathematics
+        Tufts University
+      Medford, MA 02153</p>
     <p> This is my 
       <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>.
     </p>
