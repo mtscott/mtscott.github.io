@@ -40,7 +40,7 @@ body {
 <body>
   
  <div class= "topnav">
-    <h2>Top Navigation Example</h2>
+    <h2> Navigation Menu</h2>
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="about.html">About Me</a>
   <a href="talks.html">Talks</a>
