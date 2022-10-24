@@ -1,7 +1,5 @@
 <html lang="en-US">
-<head>
-<title>M.T. Scott (academic portfolio)</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 th, td {
   border-style: none;
@@ -40,7 +38,7 @@ body {
 <body>
   
  <div class= "topnav">
-    <h2> Navigation Menu</h2>
+    <h2> Mitchell Scott</h2>
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="/about.html">About Me</a>
   <a href="/vita.html">CV</a>
