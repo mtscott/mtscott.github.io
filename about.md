@@ -67,7 +67,7 @@ body {
 <p>While my research is very important to me, another goal of mine is to become a better conveyor of information. I was spoiled to grow up watching Grant Sanderson (3Blue1Brown) and Numberphile on Youtube. I have often felt overwhelmed in large classrooms and too self-conscious to ask questions, so I want to look into how to present information and a culture of inclusion so that anyone can feel comfortable to ask the questions that they need to ask to learn. Math is intimidating enough, so anyone who wishes to study it should have all the support needed for them to prosper.</p>
 
  </article>
-
+</section>
 
 </body>
 </html>
