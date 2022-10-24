@@ -10,9 +10,7 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-  </style>
-</head>
-  
+
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -40,20 +38,17 @@ body {
 </style>
 </head>
 <body>
-  <div class="topnav">
   
-</div>
-  
-  <div class= "topnav", style="padding-left:16px">
+ <div class= "topnav", style="padding-left:16px">
     <h2>Top Navigation Example</h2>
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="about.html">About Me</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-  </div>
+  <a href="talks.html">Talks</a>
+   <a href="blog.html">Math Blog</a>
+  <a href="hobbies.html">Hobbies</a>
+   <a href="contact.html">Contact</a>
+ </div>
 
-
-<body>
   <section>
   
   <article>
