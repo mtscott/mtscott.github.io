@@ -58,6 +58,11 @@ body {
     <h2> Education</h2>
     <table>
       <tr>
+    <th>Year</th>
+    <th>Experience</th>
+    <th>Location</th>
+  </tr>
+      <tr>
     <td>2021-2023</td>
     <td>MS in Math</td>
     <td>Tufts University</td>
