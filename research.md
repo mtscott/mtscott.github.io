@@ -54,7 +54,19 @@ body {
   <section>
   
   <article>
-    <h1>Overview</h1>
+    <h1>Research</h1>
+    <p> My research interest lie in the area of scientific computing, especially in the realm of discretized partial differential equations and numerical linear algebra. These are applied to problems in fluid dynamics, finacial mathematics, and anywhere where a highly structured matrix can be found.
+    <h3> Numerical Linear Algebra</h3>
+    <p> 
+    <h3> Numerical Partial Differential Equations </h3>
+    <p> My interest in numerical PDEs came to light from working on my senior thesis in computational biological engineering at Cornell. For the thesis, I was investigating how cryoprotectants, chemicals necessary to allow safe freezing and thawing of organs  </p>
+    
+    <h2> Publications </h2>
+    <h3> Theses </h3>
+    <ul>
+      
+    </ul>
+    
 </article>
 
 </section>
