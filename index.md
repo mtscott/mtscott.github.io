@@ -60,26 +60,21 @@ body {
   </article>
 <article>
 <h2>Contact Information</h2>
-    <p> Joyce Cumming Center
-        Dept of Mathematics
-        Tufts University
+    <p> Joyce Cumming Center<br>
+        Dept of Mathematics<br>
+        Tufts University<br>
       Medford, MA 02153</p>
-    <p> This is my 
-      <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>.
+    <p> <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>: Mitchell-T-Scott
     </p>
-    <p> This is my academic
-      <a href="https://twitter.com/mitchmatician" target="_blank"> twitter</a>.
-      You can also find it by the twitter handle, @Mitchmatician. 
+    <p> <a href="https://twitter.com/mitchmatician" target="_blank"> Twitter</a>: @ Mitchmatician
     </p>
-    <p> This is the best way to contact me via 
-      <a href="mailto:mitchell.scott@tufts.edu">email</a>.
-      You can also email me at [first name] dot [last name] at tufts dot edu.
+    <p> <a href="mailto:mitchell.scott@tufts.edu">Email</a>: [first name] dot [last name] at tufts dot edu.
     </p>
   </article>
 </section>
 
 <footer>
-  Last Updated: October 25, 2022
+  Last Updated: October 30, 2022
 </footer>
 
 </body>
