@@ -36,11 +36,8 @@ body {
 }
 
 </style>
-</head>
-<body>
-  
- <div class= "topnav">
-    <h2> Navigation Menu</h2>
+  <div class= "topnav">
+    <h2> Mitchell Scott</h2>
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="/about.html">About Me</a>
   <a href="/vita.html">CV</a>
@@ -50,6 +47,10 @@ body {
   <a href="/hobbies.html">Hobbies</a>
    <a href="/contact.html">Contact</a>
  </div>
+</head>
+<body>
+  
+ 
 
   <section>
   
@@ -57,15 +58,18 @@ body {
     <h1>Research</h1>
     <p> My research interest lie in the area of scientific computing, especially in the realm of discretized partial differential equations and numerical linear algebra. These are applied to problems in fluid dynamics, finacial mathematics, and anywhere where a highly structured matrix can be found.
     <h3> Numerical Linear Algebra</h3>
-    <p> 
+    <p> After taking my senior thesis and Numerical Analysis: Linear and Nonlinear problems, I fell in love with numerical linear algebra and all of the applications to applied mathematics. That is why I am currently studying NLA and multilinear algebra.</p>
     <h3> Numerical Partial Differential Equations </h3>
     <p> My interest in numerical PDEs came to light from working on my senior thesis in computational biological engineering at Cornell. For the thesis, I was investigating how cryoprotectants, chemicals necessary to allow safe freezing and thawing of organs  </p>
     
     <h2> Publications </h2>
     <h3> Theses </h3>
-    <ul>
-      
-    </ul>
+    <ol>
+      <li><i>Masters Thesis</i><b> Tentative Title: Recursive Tensor Decompositions for Hierarchical Matrices</b> <br>
+        Advisor: <a href = "https://mkilme01.pages.tufts.edu/"> Prof. Misha Kilmer</a></li>
+      <li><i>Bachelor Thesis</i><b> <a href = "mtscott.github.io/ScottSeniorThesis.pdf">Designing and Optimizing a Protocol for Whole-Ovary Vitrification</a></b><br> 
+        Advisor: <a href = "https://cals.cornell.edu/ashim-k-datta"> Prof. Ashim Datta</a></li>
+    </ol>
     
 </article>
 
