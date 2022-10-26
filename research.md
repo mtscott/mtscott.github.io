@@ -54,15 +54,21 @@ body {
  
 
   <section>
-  
+    <article>
     <h1>Research</h1>
     <p> My research interest lie in the area of scientific computing, especially in the realm of discretized partial differential equations and numerical linear algebra. These are applied to problems in fluid dynamics, finacial mathematics, and anywhere where a highly structured matrix can be found.
+    </article>
+    <article>
     <h3> Numerical Linear Algebra</h3>
     <p> After taking my senior thesis and Numerical Analysis: Linear and Nonlinear problems, I fell in love with numerical linear algebra and all of the applications to applied mathematics. That is why I am currently studying NLA and multilinear algebra.</p>
     <h3> Numerical Partial Differential Equations </h3>
     <p> My interest in numerical PDEs came to light from working on my senior thesis in computational biological engineering at Cornell. For the thesis, I was investigating how cryoprotectants, chemicals necessary to allow safe freezing and thawing of organs  </p>
+      </article>
+    <article>
     
     <h2> Publications </h2>
+      </article>
+    <article>
     <h3> Theses </h3>
     <ol>
       <li><i>Masters Thesis</i><b> Tentative Title: Recursive Tensor Decompositions for Hierarchical Matrices</b> <br>
@@ -70,9 +76,7 @@ body {
       <li><i>Bachelor Thesis</i><b> <a href = "mtscott.github.io/ScottSeniorThesis.pdf">Designing and Optimizing a Protocol for Whole-Ovary Vitrification</a></b><br> 
         Advisor: <a href = "https://cals.cornell.edu/ashim-k-datta"> Prof. Ashim Datta</a></li>
     </ol>
-    
-
-
+    </article>
 </section>
 
 
