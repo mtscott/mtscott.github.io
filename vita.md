@@ -40,7 +40,7 @@ body {
 <body>
   
  <div class= "topnav">
-    <h2> Navigation Menu</h2>
+    <h2> Mitchell Scott</h2>
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="/about.html">About Me</a>
   <a href="/vita.html">CV</a>
@@ -55,7 +55,25 @@ body {
   <article>
     <h1>Curriculum Vitae</h1>
     <p> Here is my <a  href = "MitchellTScott(CV).pdf"> CV</a>. </p>
-<h3>Tufts Math Courses </h3>
+    <h2> Education</h2>
+    <table>
+      <tr>
+    <td>2021-2023</td>
+    <td>MS in Math</td>
+    <td>Tufts University</td>
+  </tr>
+  <tr>
+    <td>2016-2020</td>
+    <td>BS in Biological Engineering</td>
+    <td>Cornell University</td>
+  </tr>
+    </table>
+    <h2> Conferences, Workshops, and Talks</h2>
+    <h2> Teaching Experience</h2>
+    <h2> Honors and Awards</h2>
+    <h2> Memberships</h2>
+    <h2> Relevant Coursework</h2>
+<h4>Tufts Math Courses </h4>
 <table>
   <tr>
     <th>Course</th>
@@ -113,7 +131,7 @@ body {
     <td>Spring 2023</td>
   </tr> 
 </table>
-<h3> Cornell Math Courses</h3>
+<h4> Cornell Math Courses</h4>
 <table>
   <tr>
     <th>Course</th>
