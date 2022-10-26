@@ -64,7 +64,7 @@ body {
   </tr>
       <tr>
     <td>2021-2023</td>
-    <td>MS in Math</td>
+    <td>MS in Mathematics</td>
     <td>Tufts University</td>
   </tr>
   <tr>
