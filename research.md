@@ -48,13 +48,13 @@ body {
    <a href="/contact.html">Contact</a>
  </div>
 </head>
+  
 <body>
   
  
 
   <section>
   
-  <article>
     <h1>Research</h1>
     <p> My research interest lie in the area of scientific computing, especially in the realm of discretized partial differential equations and numerical linear algebra. These are applied to problems in fluid dynamics, finacial mathematics, and anywhere where a highly structured matrix can be found.
     <h3> Numerical Linear Algebra</h3>
@@ -71,7 +71,7 @@ body {
         Advisor: <a href = "https://cals.cornell.edu/ashim-k-datta"> Prof. Ashim Datta</a></li>
     </ol>
     
-</article>
+
 
 </section>
 
