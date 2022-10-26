@@ -1,5 +1,5 @@
 <html lang="en-US">
-
+<head>
 <style>
 th, td {
   border-style: none;
