@@ -52,11 +52,20 @@ body {
  </div>
 
   <section>
+    <article>
+      <h1>Note Sets</h1>
+      <p>Math can be too gatekeepy sometimes, so throughout the course of my academic career, I plan to upload note sets here that I have made as study materials, with the hope that it will help other people as well. </p>
+    </article>
+    <article>
+      <h1>Selected Projects</h1>
+      <p>Sometimes I need a break from the math I should be doing, with some math that I want to be doing. This spawns little projects that I find interesting, and I will upload them here, hoping you also find them interesting.</p>
+    </article>
   
   <article>
     <h1>Hobbies</h1>
-<p>[Coming Soon] As I mentioned above, I love reading books and running. I have been reading a lot of Kazuo Ishiguro recently. I am always open to book recommendations. I am also training for a marathon soon, so please send podcast recommendations for my Saturday Long Runs!</p>
+<p>[Coming Soon] As I mentioned above, I love reading books and running. I have been reading a lot of Kazuo Ishiguro recently. I am always open to book recommendations. I am also training for a marathon soon, so please send podcast recommendations for my Saturday Long Runs! Lastly, I am getting into web programming (I mean you are reading this because of this new hobby), and I have taught myself HTML just for this website. Any advise or ways you think this website can be improved, please reach out to me.</p>
   </article>
+    
 
 </section>
 
