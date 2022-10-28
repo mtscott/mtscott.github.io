@@ -56,13 +56,13 @@ body {
   <section>
     <article>
     <h1>Research</h1>
-    <p> My research interest lie in the area of scientific computing, especially in the realm of discretized partial differential equations and numerical linear algebra. These are applied to problems in fluid dynamics, finacial mathematics, and anywhere where a highly structured matrix can be found.</p>
+    <p> My research interest lie in the area of scientific computing, especially in the realm of discretized partial differential equations and numerical linear algebra. These are applied to problems in fluid dynamics, finacial mathematics, and anywhere a highly structured matrix can be found.</p>
     </article>
     <article>
     <h3> Numerical Linear Algebra</h3>
-    <p> After taking my senior thesis and Numerical Analysis: Linear and Nonlinear problems, I fell in love with numerical linear algebra and all of the applications to applied mathematics. That is why I am currently studying NLA and multilinear algebra.</p>
+    <p> There are a lot of problems that require some sort of matrix - whether it is a covariance matrix in statistics, stochastic matrix in graph theory, or my favorite linear systems of discretized partial differential equations. All of these have some sort of structure in them, and using these properties, we can find ways to speed up problems that use them.</p>
     <h3> Numerical Partial Differential Equations </h3>
-    <p> My interest in numerical PDEs came to light from working on my senior thesis in computational biological engineering at Cornell. For the thesis, I was investigating how cryoprotectants, chemicals necessary to allow safe freezing and thawing of organs  </p>
+    <p> When you look at all the possible Partial Differential Equations (PDEs) that are used to mode nature, the vast majority don't have an analytic solution. These harder to solve problems are the ones resulting from more detailed process, and should be solved. That is where numerical PDEs come in. We are finding ways to get started on solving problems that are of real world interest without waiting around for a closed form solution to be found.  </p>
       </article>
     <article>
     
