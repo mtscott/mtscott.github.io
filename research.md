@@ -44,7 +44,7 @@ body {
    <a href="/research.html">Research</a>
   <a href="/talks.html">Talks</a>
    <a href="/blog.html">Blog</a>
-  <a href="/Misc.html">Misc</a>
+  <a href="/misc.html">Misc</a>
    <a href="/contact.html">Contact</a>
  </div>
 </head>
