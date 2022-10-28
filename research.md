@@ -73,7 +73,7 @@ body {
     <ol>
       <li><i>Masters Thesis</i><b> Tentative Title: Recursive Tensor Decompositions for Hierarchical Matrices</b> <br>
         Advisor: <a href = "https://mkilme01.pages.tufts.edu/"> Prof. Misha Kilmer</a></li>
-      <li><i>Bachelor Thesis</i><b> <a href = "mtscott.github.io/ScottSeniorThesis.pdf">Designing and Optimizing a Protocol for Whole-Ovary Vitrification</a></b><br> 
+      <li><i>Bachelor Thesis</i><b> <a href = "/ScottSeniorThesis.pdf">Designing and Optimizing a Protocol for Whole-Ovary Vitrification</a></b><br> 
         Advisor: <a href = "https://cals.cornell.edu/ashim-k-datta"> Prof. Ashim Datta</a></li>
     </ol>
     </article>
