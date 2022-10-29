@@ -96,6 +96,9 @@ body {
     </ul>
 
     <h2> Honors and Awards</h2>
+    <ul> 
+      <li> <a href = "https://www.engineering.cornell.edu/students/undergraduate-students/curriculum/engineering-communications-program/engineering-cup#The%20Fuertes%20Medal%20Memorial%20Prize%20for%20Public%20Speaking"> The Fuertes Medal Memorial Prize for Public Speaking</a> </li>
+    </ul>
     <h2> Memberships</h2>
     <ul> 
       <li> <a href = "www.ams.org">American Mathematical Society (AMS)</a></li>
