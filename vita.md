@@ -81,7 +81,7 @@ body {
       <ul>
         <li>Introduction to Mathematical Control Theory (Fall 2022)</li>
       </ul>
-      <li> Course Assistant <?li>
+      <li> Course Assistant </li>
       <ul>
         <li>Math 125 - Numerical Analysis (Fall 2022)</li>
         <li>Math 32 - Calculus I (Spring 2022)</li>
@@ -97,6 +97,11 @@ body {
 
     <h2> Honors and Awards</h2>
     <h2> Memberships</h2>
+    <ul> 
+      <li> <a href = "www.ams.org">American Mathematical Society (AMS)</a></li>
+      <li> <a href = "www.siam.org"> Society of Industrial and Applied Mathematics (SIAM)</a></li>
+      <li> Spectra</li>
+    </ul>
     <h2> Relevant Coursework</h2>
 <h4>Tufts Math Courses </h4>
 <table>
