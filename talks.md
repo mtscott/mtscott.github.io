@@ -56,16 +56,16 @@ body {
 
 
   <article>
-    <h1>Invited Talks and Note Sets</h1>
+    <h1>Talks and Presentations</h1>
     <h3> Invited Talks</h3>
       <ul>
-        <li> <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition" </a> for the <a href = "https://www.jointmathematicsmeetings.org//jmm"> Joint Mathematics Meetings 2023</a>. </li>
-        <li> <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a> for Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings</a>. </li>
+        <li> 2023 - 01: <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition" </a>, <a href = "https://www.jointmathematicsmeetings.org//jmm"> SIAM mini-symposium on Numerical Linear Algebra, Joint Mathematics Meetings</a>. </li>
+        <li> 2022 - 09: <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a>. Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings</a>. </li>
       </ul>
-    <h3> Note Sets</h3>
+    <h3> Presentations</h3>
       <ul>
-        <li> <a  href = "LiptonQCReadingGroupCh7Notes.pdf"> Quantum Reading Group Ch. 7 notes </a></li>
-        <li><a  href = "LiptonQCReadingGroupCh5Notes.pdf"> Quantum Reading Group Ch. 5 notes </a></li>
+        <li> 2022 - 04:<a  href = "LiptonQCReadingGroupCh7Notes.pdf"> Quantum Computing Reading Group Ch. 7 notes </a></li>
+        <li> 2022 - 02:<a  href = "LiptonQCReadingGroupCh5Notes.pdf"> Quantum Computing Reading Group Ch. 5 notes </a></li>
       </ul>
   </article>
 
