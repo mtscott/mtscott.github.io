@@ -75,6 +75,26 @@ body {
     </table>
     <h2> Conferences, Workshops, and Talks</h2>
     <h2> Teaching Experience</h2>
+    <h4> Tufts University </h4>
+    <ul>
+      <li>Directed Reading Program Mentor</li>
+      <ul>
+        <li>Introduction to Mathematical Control Theory (Fall 2022)</li>
+      </ul>
+      <li> Course Assistant <?li>
+      <ul>
+        <li>Math 125 - Numerical Analysis (Fall 2022)</li>
+        <li>Math 32 - Calculus I (Spring 2022)</li>
+      </ul>
+    </ul>
+    <h4> Cornell University </h4>
+    <ul>
+        <li> Undergraduate Teaching Assistant</li>
+        <ul>
+            <li>BEE 2600 - Introduction to Biological Engineering (Fall 2018)</li>
+        </ul>
+    </ul>
+
     <h2> Honors and Awards</h2>
     <h2> Memberships</h2>
     <h2> Relevant Coursework</h2>
