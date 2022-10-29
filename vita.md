@@ -101,8 +101,8 @@ body {
     </ul>
     <h2> Memberships</h2>
     <ul> 
-      <li> <a href = "www.ams.org">American Mathematical Society (AMS)</a></li>
-      <li> <a href = "www.siam.org"> Society of Industrial and Applied Mathematics (SIAM)</a></li>
+      <li> <a href = "https://www.ams.org/home/page">American Mathematical Society (AMS)</a></li>
+      <li> <a href = "https://www.siam.org/"> Society for Industrial and Applied Mathematics (SIAM)</a></li>
       <li> Spectra</li>
     </ul>
     <h2> Relevant Coursework</h2>
