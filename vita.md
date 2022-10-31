@@ -187,7 +187,7 @@ body {
     <td>Spring 2018</td>
   </tr>
   <tr>
-    <td>Math 3320 - Into to Number Theory</td>
+    <td>Math 3320 - Intro to Number Theory</td>
     <td>Prof. Brian Hwang</td>
     <td>Fall 2018</td>
   </tr>
