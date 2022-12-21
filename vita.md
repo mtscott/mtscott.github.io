@@ -54,7 +54,7 @@ body {
   <section>
   <article>
     <h1>Curriculum Vitae</h1>
-    <p> Here is a downloadable .pdf copy of my <a  href = "MitchellScott_CV.pdf"> CV</a>. </p>
+    <p> Here is a downloadable .pdf copy of my <a  href = "MitchellScott(CVweb).pdf"> CV</a>. </p>
     <h2> Education</h2>
     <table>
       <tr>
@@ -77,6 +77,10 @@ body {
     <h2> Teaching Experience</h2>
     <h4> Tufts University </h4>
     <ul>
+      <li>Teaching Assistant </li>
+      <ul>
+        <li>Math 126 - Numerical Linear Algebra (Spring 2023)</li>
+      </ul>
       <li>Directed Reading Program Mentor</li>
       <ul>
         <li>Introduction to Mathematical Control Theory (Fall 2022)</li>
