@@ -59,7 +59,7 @@ body {
     <h1>Talks and Presentations</h1>
     <h3> Invited Talks</h3>
       <ul>
-        <li> 2023 - 01: <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition" </a>, <a href = "https://www.jointmathematicsmeetings.org//jmm"> SIAM mini-symposium on Numerical Linear Algebra, Joint Mathematics Meetings</a>. <a href = "JMM2023.pdf"> [slides] </a>
+        <li> 2023 - 01: <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition" </a>, SIAM mini-symposium on Numerical Linear Algebra, Joint Mathematics Meetings. <a href = "JMM2023.pdf"> [slides] </a>
         </li>
         <li> 2022 - 09: <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a>. Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings</a>. </li>
       </ul>
