@@ -55,7 +55,7 @@ body {
   
   <article>
     <h1>Overview</h1>
-<img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:86.4px;height:129.6px;" style="text-align:center;">
+<img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:43.2px;height:64.8px;" style="text-align:center;">
 <p>Mitchell Scott received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math. Currently, he is working towards his MS degree (expected 2023) in mathematics from Tufts University, with a concentration in computational and applied mathematics. His research focus is numerical linear algebra and scientific computing, currently working on his master's thesis on tensor-based decompositions of matrices arising from fractional partial differential equations to make low-rank approximations of them. He is the recipient of the Fuertes communication award. He is currently applying to PhD programs to continue studying numerical linear algebra. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
   </article>
 <article>
@@ -74,7 +74,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: December 22, 2022
+  Last Updated: January 5, 2023
 </footer>
 
 </body>
