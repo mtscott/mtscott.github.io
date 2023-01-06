@@ -20,9 +20,9 @@ body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 42px 48px;
+  padding: 28px 32px;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .topnav a:hover {
