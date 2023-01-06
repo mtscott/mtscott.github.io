@@ -20,9 +20,9 @@ body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 28px 32px;
+  padding: 42px 48px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .topnav a:hover {
@@ -59,7 +59,7 @@ body {
     <h1>Talks and Presentations</h1>
     <h3> Invited Talks</h3>
       <ul>
-        <li> 2023 - 01: <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition", </a> SIAM mini-symposium on Numerical Linear Algebra, Joint Mathematics Meetings 2023. <a href = "JMM2023.pdf"> [slides] </a>
+        <li> 2023 - 01: <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition", </a> SIAM mini-symposium on Numerical Linear Algebra, Joint Mathematics Meetings 2023. [<a href = "JMM2023.pdf"> slides] </a>]
         </li>
         <li> 2022 - 09: <a  href = "EminarNotes.pdf">"It's Tensor Time!"</a>. Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meetings</a>. </li>
       </ul>
