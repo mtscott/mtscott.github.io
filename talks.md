@@ -20,7 +20,7 @@ body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 28px 32px;
+  padding: 280px 320px;
   text-decoration: none;
   font-size: 20px;
 }
