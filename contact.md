@@ -62,7 +62,7 @@ body {
     </p>
     <p> <a href="https://twitter.com/mitchmatician" target="_blank"> Twitter</a>: @ Mitchmatician
     </p>
-    <p> <a href="mailto:mitchell.scott@tufts.edu">Email</a>: mitchell [dot] scott [at] tufts [dot] edu.
+    <p> <a href="mailto:mitchell.scott@tufts.edu">Email</a>: mitchell [dot] scott [at] tufts [dot] edu
     </p>
   </article>
 </section>
