@@ -49,14 +49,18 @@ body {
    <a href="/contact.html">Contact</a>
  </div>
 
-  <section>
+<section>
+     <h1>Note Sets and Selected Projects</h1>
+    <article>
+      <h2>Note Sets</h2>
+      <p>Math can be too gatekeepy sometimes, so throughout the course of my academic career, I plan to upload note sets here that I have made as study materials, with the hope that it will help other people as well. </p>
+    </article>
+    <article>
+      <h2>Selected Projects</h2>
+      <p>Sometimes I need a break from the math I should be doing, with some math that I want to be doing. This spawns little projects that I find interesting, and I will upload them here, hoping you also find them interesting.</p>
+    </article>
   
-
-  <article>
-    <h1>Math blog </h1>
-<p>[Coming Soon] I hope to start a blog about mathematics that I think are interesting, that either come up in my own research, or just popular sources. I am also thinking about using this blog as a way of expressing my thoughts and ideas on how we can make math, and maybe academia, more inclusive of everyone. </p>
-  </article>
-</section>
+  </section>
 
 </body>
 </html>
