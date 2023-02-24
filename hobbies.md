@@ -50,18 +50,8 @@ body {
   <a href="/hobbies.html">Hobbies</a>
    <a href="/contact.html">Contact</a>
  </div>
-
-
-  <section>
-     <h1>Note Sets</h1>
-    <article>
-      <h2>Note Sets</h2>
-      <p>Math can be too gatekeepy sometimes, so throughout the course of my academic career, I plan to upload note sets here that I have made as study materials, with the hope that it will help other people as well. </p>
-    </article>
-    <article>
-      <h2>Selected Projects</h2>
-      <p>Sometimes I need a break from the math I should be doing, with some math that I want to be doing. This spawns little projects that I find interesting, and I will upload them here, hoping you also find them interesting.</p>
-    </article>
+  
+<section>
   
   <article>
     <h2>Hobbies</h2>
