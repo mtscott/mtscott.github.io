@@ -44,10 +44,11 @@ body {
   <a href="/vita.html">CV</a>
    <a href="/research.html">Research</a>
   <a href="/talks.html">Talks</a>
-   <a href="/blog.html">Blog</a>
-  <a href="/misc.html">Misc</a>
+   <a href="/projects.html">Notes and Projects</a>
+  <a href="/hobbies.html">Hobbies</a>
    <a href="/contact.html">Contact</a>
  </div>
+
 
   <section>
   
