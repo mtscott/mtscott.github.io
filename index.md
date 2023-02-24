@@ -75,7 +75,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: January 9, 2023
+  Last Updated: February 25, 2023
 </footer>
 
 </body>
