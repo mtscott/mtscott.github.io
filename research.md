@@ -43,7 +43,7 @@ body {
   <a href="/vita.html">CV</a>
    <a href="/research.html">Research</a>
   <a href="/talks.html">Talks</a>
-   <a href="/projects.html">Notes and Projects</a>
+   <a href="/projects.html">Projects</a>
   <a href="/hobbies.html">Hobbies</a>
    <a href="/contact.html">Contact</a>
  </div>
