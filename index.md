@@ -9,36 +9,41 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
+.nav {
+    background-color: #d2d2d2;
+    overflow: hidden;
 }
 
-.topnav a {
+.nav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#home {
   float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 28px 32px;
-  text-decoration: none;
-  font-size: 20px;
 }
 
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
+.nav a:hover {
+    background-color: salmon;
+    color: black;
 }
 
-.topnav a.active {
-  background-color: #04AA6D;
-  color: white;
+.nav a.active {
+    background-color: #add8e6;
+    color: darkblue;
 }
-
+  
 </style>
 </head>
 <body>
   
+  
  <div class= "topnav">
-    <a href="mtscott.github.io/index.md">Home</a>
+    <a id="home" class="active left"  href="mtscott.github.io/index.md">Home</a>
   <a href="/about.html">About Me</a>
   <a href="/vita.html">CV</a>
    <a href="/research.html">Research</a>
