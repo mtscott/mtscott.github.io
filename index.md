@@ -9,34 +9,30 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.nav {
-    background-color: #d2d2d2;
-    overflow: hidden;
+.topnav {
+  overflow: hidden;
+  background-color: #333;
 }
 
-.nav a {
-    float: right;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-#home {
+.topnav a {
   float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 280px 320px;
+  text-decoration: none;
+  font-size: 20px;
 }
 
-.nav a:hover {
-    background-color: salmon;
-    color: black;
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
-.nav a.active {
-    background-color: #add8e6;
-    color: darkblue;
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
 }
-  
+
 </style>
 </head>
 <body>
