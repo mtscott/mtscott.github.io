@@ -11,45 +11,59 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.topnav {
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
   background-color: #333;
 }
 
-.topnav a {
+li {
   float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 28px 32px;
-  text-decoration: none;
-  font-size: 20px;
 }
 
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #04AA6D;
+li a {
+  display: block;
   color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+  /* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+.active {
+  background-color: #04AA6D;
+}
+  li {
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
 }
 
 </style>
 </head>
 <body>
   
- <div class= "topnav">
-    <h2> Mitchell Scott</h2>
-    <a href="mtscott.github.io/index.md">Home</a>
-  <a href="/about.html">About Me</a>
-  <a href="/vita.html">CV</a>
-   <a href="/research.html">Research</a>
-  <a href="/talks.html">Talks</a>
-   <a href="/projects.html">Projects</a>
-  <a href="/hobbies.html">Hobbies</a>
-   <a href="/contact.html">Contact</a>
- </div>
+ <ul>
+   <li style="float:right">Mitchell Scott</li>
+   <li><a href="mtscott.github.io/index.md">Home</a></li>
+   <li><a href="/about.html">About Me</a></li>
+   <li><a href="/vita.html">CV</a></lui>
+   <li><a href="/research.html">Research</a><.li>
+   <li><a href="/talks.html">Talks</a></li>
+   <li><a href="/projects.html">Projects</a></li>
+   <li><a href="/hobbies.html">Hobbies</a></li>
+   <li><a href="/contact.html">Contact</a></li>
+ </ul>
 
 
   <section>
