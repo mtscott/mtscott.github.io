@@ -58,7 +58,7 @@ li:last-child {
    <li><a href="mtscott.github.io/index.md">Home</a></li>
    <li><a href="/about.html">About Me</a></li>
    <li><a href="/vita.html">CV</a></lui>
-   <li><a href="/research.html">Research</a><.li>
+   <li><a href="/research.html">Research</a></li>
    <li><a href="/talks.html">Talks</a></li>
    <li><a href="/projects.html">Projects</a></li>
    <li><a href="/hobbies.html">Hobbies</a></li>
