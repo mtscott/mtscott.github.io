@@ -17,9 +17,10 @@ body {
 .topnav a {
   float: left;
   color: #f2f2f2;
+  display:block;
   text-align: center;
   padding: 280px 320px;
-  text-decoration: none;
+	text-decoration:none;
   font-size: 20px;
 }
 
