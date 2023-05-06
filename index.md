@@ -39,14 +39,14 @@ body {
   
   
  <div class= "topnav">
-    <a id="home" class="active left"  href="mtscott.github.io/index.md">Home</a>
-  <a href="/about.html">About Me</a>
-  <a href="/vita.html">CV</a>
-   <a href="/research.html">Research</a>
-  <a href="/talks.html">Talks</a>
-   <a href="/projects.html">Projects</a>
-  <a href="/hobbies.html">Hobbies</a>
-   <a href="/contact.html">Contact</a>
+    <a style = "color: black; font-size: 46px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
+  <a style = "color: black; font-size: 46px; text-decoration: none;" href="/about.html">About Me</a>
+  <a style = "color: black; font-size: 46px; text-decoration: none;" href="/vita.html">CV</a>
+   <a style = "color: black; font-size: 46px; text-decoration: none;" href="/research.html">Research</a>
+  <a style = "color: black; font-size: 46px; text-decoration: none;" href="/talks.html">Talks</a>
+   <a style = "color: black; font-size: 46px; text-decoration: none;" href="/projects.html">Projects</a>
+  <a style = "color: black; font-size: 46px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
+   <a style = "color: black; font-size: 46px; text-decoration: none;" href="/contact.html">Contact</a>
  </div>
 
   <section>
