@@ -40,7 +40,6 @@ body {
 <body>
   
   <div class= "topnav">
-    <h2> Mitchell Scott</h2>
     <a href="mtscott.github.io/index.md">Home</a>
   <a href="/about.html">About Me</a>
   <a href="/vita.html">CV</a>
@@ -62,6 +61,16 @@ body {
     <th>Year</th>
     <th>Experience</th>
     <th>Location</th>
+  </tr>
+      <tr>
+    <td>2023-2028</td>
+    <td>PhD in Mathematics</td>
+    <td>Emory University</td>
+  </tr>
+      <tr>
+    <td>2023-2025</td>
+    <td>MS in Computer Science</td>
+    <td>Emory University</td>
   </tr>
       <tr>
     <td>2021-2023</td>
