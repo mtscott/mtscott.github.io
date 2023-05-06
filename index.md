@@ -54,10 +54,10 @@ li:last-child {
 <body>
   
  <ul>
-   <li style="float:right">Mitchell Scott</li>
+   <li style="float:left">Mitchell Scott</li>
    <li><a href="mtscott.github.io/index.md">Home</a></li>
    <li><a href="/about.html">About Me</a></li>
-   <li><a href="/vita.html">CV</a></lui>
+   <li><a href="/vita.html">CV</a></li>
    <li><a href="/research.html">Research</a></li>
    <li><a href="/talks.html">Talks</a></li>
    <li><a href="/projects.html">Projects</a></li>
@@ -89,7 +89,7 @@ li:last-child {
 </section>
 
 <footer>
-  Last Updated: February 25, 2023
+  Last Updated: May 8, 2023
 </footer>
 
 </body>
