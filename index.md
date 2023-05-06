@@ -42,7 +42,6 @@ body {
  <div class= "topnav">
     <h2> Mitchell Scott</h2>
     <a href="mtscott.github.io/index.md">Home</a>
-   <button type="button">Home</button></a>
   <a href="/about.html">About Me</a>
   <a href="/vita.html">CV</a>
    <a href="/research.html">Research</a>
