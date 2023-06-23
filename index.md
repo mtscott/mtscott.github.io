@@ -39,14 +39,14 @@ body {
   
   
  <div class= "topnav">
-    <a style = "color: black; font-size: 46px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
-  <a style = "color: black; font-size: 46px; text-decoration: none;" href="/about.html">About Me</a>
-  <a style = "color: black; font-size: 46px; text-decoration: none;" href="/vita.html">CV</a>
-   <a style = "color: black; font-size: 46px; text-decoration: none;" href="/research.html">Research</a>
-  <a style = "color: black; font-size: 46px; text-decoration: none;" href="/talks.html">Talks</a>
-   <a style = "color: black; font-size: 46px; text-decoration: none;" href="/projects.html">Projects</a>
-  <a style = "color: black; font-size: 46px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
-   <a style = "color: black; font-size: 46px; text-decoration: none;" href="/contact.html">Contact</a>
+  <a style = "color: black; font-size: 24px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
+  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/about.html">About Me</a>
+  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/vita.html">CV</a>
+  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/research.html">Research</a>
+  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/talks.html">Talks</a>
+  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/projects.html">Projects</a>
+  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
+   <a style = "color: black; font-size: 24px; text-decoration: none;" href="/contact.html">Contact</a>
  </div>
 
   <section>
@@ -54,8 +54,16 @@ body {
   <article>
     <h1>Overview</h1>
 <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:43.2px;height:64.8px;" style="text-align:center;">
-<p>Mitchell Scott received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math. Currently, he is working towards his MS degree (expected 2023) in mathematics from Tufts University, with a concentration in computational and applied mathematics. His research focus is numerical linear algebra and scientific computing, currently working on his master's thesis on tensor-based decompositions of matrices arising from fractional partial differential equations to make low-rank approximations of them. He is the recipient of the Fuertes communication award. He is currently applying to PhD programs to continue studying numerical linear algebra. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
+<p>Mitchell Scott received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math and an MS degree (2023) in applied and computationa; mathematics from Tufts University, Graduate School of Arts and Sciences. Currently, he is working towards his Ph.D. (expected 2028) in mathematics from Emory University, with a concentration in computational mathematics. His research focus is numerical linear algebra, high performance computing, and scientific computing. He is the recipient of the Fuertes communication award. He is currently applying to summer research opportunities to continue applying numerical linear algebra to different fields. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
   </article>
+<article>
+  <h3>
+    <u>Upcoming Travels</u>
+  </h3>
+  <p>
+    <a href="https://icerm.brown.edu/topical_workshops/tw-23-aem/" target="_blank"> Accelerator and Extrapolation Methods, ICERM, July 24-28 </a>:
+  </p>
+</article>
 <article>
 <h2>Contact Information</h2>
     <p> Joyce Cumming Center<br>
@@ -72,7 +80,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: May 8, 2023
+  Last Updated: July 1, 2023
 </footer>
 
 </body>
