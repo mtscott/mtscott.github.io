@@ -39,14 +39,14 @@ body {
   
   
  <div class= "topnav">
-  <a style = "color: black; font-size: 24px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
-  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/about.html">About Me</a>
-  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/vita.html">CV</a>
-  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/research.html">Research</a>
-  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/talks.html">Talks</a>
-  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/projects.html">Projects</a>
-  <a style = "color: black; font-size: 24px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
-   <a style = "color: black; font-size: 24px; text-decoration: none;" href="/contact.html">Contact</a>
+  <a style = "color: black; font-size: 24px; border: 2px solid black; margin: 20px; padding: 20px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
+  <a style = "color: black; font-size: 24px; border: 2px solid black; margin: 20px; padding: 20px; text-decoration: none;" href="/about.html">About Me</a>
+  <a style = "color: black; font-size: 24px; border: 2px solid black; margin: 20px; padding: 20px; text-decoration: none;" href="/vita.html">CV</a>
+  <a style = "color: black; font-size: 24px; border: 2px solid black; margin: 20px; padding: 20px; text-decoration: none;" href="/research.html">Research</a>
+  <a style = "color: black; font-size: 24px; border: 2px solid black; margin: 20px; padding: 20px; text-decoration: none;" href="/talks.html">Talks</a>
+  <a style = "color: black; font-size: 24px; border: 2px solid black; margin: 20px; padding: 20px; text-decoration: none;" href="/projects.html">Projects</a>
+  <a style = "color: black; font-size: 24px; border: 2px solid black; margin: 20px; padding: 20px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
+  <a style = "color: black; font-size: 24px; border: 2px solid black; margin: 20px; padding: 20px; text-decoration: none;" href="/contact.html">Contact</a>
  </div>
 
   <section>
@@ -61,7 +61,7 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    <a href="https://icerm.brown.edu/topical_workshops/tw-23-aem/" target="_blank"> Accelerator and Extrapolation Methods, ICERM, July 24-28 </a>:
+    <a href="https://icerm.brown.edu/topical_workshops/tw-23-aem/" target="_blank"> Accelerator and Extrapolation Methods, ICERM, July 24-28 </a>
   </p>
 </article>
 <article>
