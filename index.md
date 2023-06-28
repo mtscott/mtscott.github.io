@@ -70,7 +70,7 @@ body {
         Dept of Mathematics<br>
         Math and Science Center<br>
         400 Dowman Dr<br>
-        Atlanta, GA 3030</p>
+        Atlanta, GA 30322</p>
     <p> <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>: Mitchell-T-Scott
     </p>
     <p> <a href="https://twitter.com/mitchmatician" target="_blank"> Twitter</a>: @ Mitchmatician
