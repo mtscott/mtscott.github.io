@@ -53,15 +53,16 @@ body {
 <section>
 <article>
 <h2>Contact Information</h2>
-    <p> Joyce Cumming Center<br>
+    <p> Emory University<br>
         Dept of Mathematics<br>
-        Tufts University<br>
-      Medford, MA 02153</p>
+        Math and Science Center<br>
+        400 Dowman Dr<br>
+        Atlanta, GA 3030</p>
     <p> <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>: Mitchell-T-Scott
     </p>
     <p> <a href="https://twitter.com/mitchmatician" target="_blank"> Twitter</a>: @ Mitchmatician
     </p>
-    <p> <a href="mailto:mitchell.scott@tufts.edu">Email</a>: mitchell [dot] scott [at] tufts [dot] edu
+    <p> <a href="mailto:mitchell.scott@emory.edu">Email</a>: mitchell [dot] scott [at] emory [dot] edu
     </p>
   </article>
 </section>
