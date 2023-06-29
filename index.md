@@ -39,7 +39,7 @@ body {
   
   
  <div class= "topnav">
-  <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 10px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
+  <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
   <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 10px; text-decoration: none;" href="/about.html">About Me</a>
   <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 10px; text-decoration: none;" href="/vita.html">CV</a>
   <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 10px; text-decoration: none;" href="/research.html">Research</a>
