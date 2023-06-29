@@ -9,7 +9,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.topnav {
+<!.topnav {
   overflow: hidden;
   background-color: #333;
 }
@@ -31,7 +31,7 @@ body {
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
-}
+}>
 
 </style>
 </head>
