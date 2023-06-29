@@ -9,16 +9,16 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-<!.topnav {
+.topnav {
   overflow: hidden;
   background-color: #333;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
   text-align: center;
-  padding: 280px 320px;
+  border:2px solid #E69F0A;
+  padding:10px 20px;
   text-decoration:none;
   font-size: 20px;
 }
@@ -31,15 +31,15 @@ body {
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
-}>
+}
 
 </style>
 </head>
 <body>
-  
+ 
   
  <div class= "topnav">
-  <a style = "color: black; font-size: 20px; border: 2px solid black; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
+  <a href="mtscott.github.io/index.md">Home</a>
   <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="/about.html">About Me</a>
   <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="/vita.html">CV</a>
   <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="/research.html">Research</a>
