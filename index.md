@@ -40,14 +40,14 @@ body {
  
   
  <div class= "topnav">
-  <a href="mtscott.github.io/index.md">Home</a>
-  <a href="/about.html">About Me</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/about.html">About Me</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/vita.html">CV</a>
-  <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="/research.html">Research</a>
-  <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="/talks.html">Talks</a>
-  <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="/projects.html">Projects</a>
-  <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
-  <a style = "color: black; font-size: 20px; border: 2px solid black; padding: 5px; text-decoration: none;" href="/contact.html">Contact</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/research.html">Research</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/talks.html">Talks</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/projects.html">Projects</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/contact.html">Contact</a>
  </div>
 
   <section>
