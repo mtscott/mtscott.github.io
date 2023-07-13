@@ -62,7 +62,7 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    <a href="https://icerm.brown.edu/topical_workshops/tw-23-aem/" target="_blank"> Accelerator and Extrapolation Methods, ICERM, July 24-28 </a>
+    <a href="https://icerm.brown.edu/topical_workshops/tw-23-aem/" target="_blank"> Acceleration and Extrapolation Methods, ICERM, July 24-28 </a>
   </p>
 </article>
 <article>
@@ -82,7 +82,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: July 1, 2023
+  Last Updated: July 20, 2023
 </footer>
 
 </body>
