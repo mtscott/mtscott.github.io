@@ -50,7 +50,6 @@ body {
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/contact.html">Contact</a>
  </div>
 
-
   <section>
   <article>
     <h1>Curriculum Vitae</h1>
