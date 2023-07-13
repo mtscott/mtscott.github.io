@@ -16,11 +16,12 @@ body {
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #0E315F;
+  border:2px solid #E69F0A;
   text-align: center;
-  padding: 28px 32px;
+  padding: 20px 24px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 .topnav a:hover {
@@ -36,19 +37,19 @@ body {
 </style>
 </head>
 <body>
+ 
   
  <div class= "topnav">
-    <a href="mtscott.github.io/index.md">Home</a>
-  <a href="/about.html">About Me</a>
-  <a href="/vita.html">CV</a>
-   <a href="/research.html">Research</a>
-  <a href="/talks.html">Talks</a>
-   <a href="/projects.html">Projects</a>
-  <a href="/hobbies.html">Hobbies</a>
-   <a href="/contact.html">Contact</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="mtscott.github.io/index.md">Home</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/about.html">About Me</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/vita.html">CV</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/research.html">Research</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/talks.html">Talks</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/projects.html">Projects</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/contact.html">Contact</a>
  </div>
-
-
+ 
   <section>
   
   <article>
