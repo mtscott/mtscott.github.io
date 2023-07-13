@@ -54,7 +54,7 @@ body {
   <section>
   <article>
     <h1>Curriculum Vitae</h1>
-    <p> Here is a downloadable .pdf copy of my <a  href = "MitchellScott(CVweb).pdf"> CV</a>. </p>
+    <p> Here is a downloadable .pdf copy of my <a  href = "MitchellScott_CV.pdf"> CV</a>. </p>
     <h2> Education</h2>
     <table>
       <tr>
@@ -117,7 +117,7 @@ body {
     <ul> 
       <li> <a href = "https://www.ams.org/home/page">American Mathematical Society (AMS)</a></li>
       <li> <a href = "https://www.siam.org/"> Society for Industrial and Applied Mathematics (SIAM)</a></li>
-      <li> Spectra</li>
+      <li> <a href = "http://lgbtmath.org/"> Spectra</a></li>
     </ul>
     <h2> Relevant Coursework</h2>
 <h4>Tufts Math Courses </h4>
