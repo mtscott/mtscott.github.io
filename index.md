@@ -19,7 +19,7 @@ body {
   color: #0E315F;
   border:2px solid #E69F0A;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 24px;
   text-decoration: none;
   font-size: 17px;
 }
