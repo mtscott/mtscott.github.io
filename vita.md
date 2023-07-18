@@ -83,6 +83,20 @@ body {
   </tr>
     </table>
     <h2> Conferences, Workshops, and Talks</h2>
+    <h4> Invited Talks </h4>
+    <ul>
+      <li>"Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition," Joint Mathematics Meetings, 2023, Boston, MA.</li>
+      <li>"It's Tensor Time!: A computational Framework for Analyzing Structured Matrices," Tufts Monday Math Meetings, 2022, Medford, MA.</li>
+    </ul>
+    <h4> Workshops and Confrences Attended </h4>
+    <ul>
+      <li>"Acceleration and Extrapolation Methods," ICERM, 2023, Providence, RI. </li>
+      <li>"Qiskit Global Summer School: Theory to Implementation," IBM, 2023, Virtual.  </li>
+      <li>"Geometry and Analysis Seminar for Boston Area Graduate Students," MIT Math, 2023, Cambridge, MA. </li>
+      <li>"Joint Mathematics Meetings," 2023, Boston, MA.</li>
+      <li>"Qiskit Global Summer School: Quantum Simulation," IBM, 2022, Virtual.  </li>
+      <li>"Geometry and Analysis Seminar for Boston Area Graduate Students," MIT Math, 2022, Cambridge, MA. </li>
+    </ul>
     <h2> Teaching Experience</h2>
     <h4> Tufts University </h4>
     <ul>
