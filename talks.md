@@ -70,6 +70,7 @@ body {
       </ul>
     <h3> Presentations</h3>
       <ul>
+        <li> 2023 - 10:<a  href = "BFGSPresentation.pdf" target="_blank"> Numerical Optimization Presentation for BFGS Algorithm </a></li>
         <li> 2022 - 04:<a  href = "LiptonQCReadingGroupCh7Notes.pdf" target="_blank"> Quantum Computing Reading Group Ch. 7 notes </a></li>
         <li> 2022 - 02:<a  href = "LiptonQCReadingGroupCh5Notes.pdf" target="_blank"> Quantum Computing Reading Group Ch. 5 notes </a></li>
       </ul>
