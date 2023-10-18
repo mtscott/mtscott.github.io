@@ -54,7 +54,7 @@ body {
   
   <article>
     <h1>Overview</h1>
-    <div style="width:auto;height:260px">
+    <div style="width:auto;height:260px; margin-below: 10px;">
       <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="text-align:center; max-height: 100%; max-width: 100%; object-fit: contain; margin-left:auto;">
     </div>
 <p>Mitchell Scott received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math and an MS degree (2023) in applied and computational mathematics from Tufts University, Graduate School of Arts and Sciences. Currently, he is working towards his Ph.D. (expected 2028) in mathematics and MS in computer science (expected 2025) from Emory University, with a concentration in computational mathematics. His research focus is numerical linear algebra, high performance computing, and scientific computing. He is the recipient of the Fuertes communication award. He is currently applying to summer research opportunities to continue applying numerical linear algebra to different fields. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
