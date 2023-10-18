@@ -54,7 +54,9 @@ body {
      <h1>Note Sets and Selected Projects</h1>
     <article>
       <h2>Note Sets</h2>
-      <p>Math can be too gatekeepy sometimes, so throughout the course of my academic career, I plan to upload note sets here that I have made as study materials, with the hope that it will help other people as well. </p>
+      <p>Math can be too gatekeepy sometimes, so I thought it might be nice to upload some notes that I prepared as I was studying for my qualifying examinations. </p>
+      <ul> 
+        <li> <a href = "AnalysisQualStudyGuide.pdf"> </a> Real and Complex Analysis Qualifying Exam Study Guide </li> </ul>
     </article>
     <article>
       <h2>Selected Projects</h2>
