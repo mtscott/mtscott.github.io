@@ -71,9 +71,9 @@ body {
     <article>
     <h3> Theses </h3>
     <ol>
-      <li><i>Master's Thesis</i><b> A Tale of Two Tensors: Using Hierarchical and Block Low Rank to Make Preconditioners and Save Storage</b> <br>
+      <li><i>Master's Thesis:</i><b> A Tale of Two Tensors: Using Hierarchical and Block Low Rank to Make Preconditioners and Save Storage</b> <br>
         Advisor: <a href = "https://mkilme01.pages.tufts.edu/"> Prof. Misha Kilmer</a></li>
-      <li><i>Bachelor's Thesis</i><b> <a href = "/ScottSeniorThesis.pdf">Designing and Optimizing a Protocol for Whole-Ovary Vitrification</a></b><br> 
+      <li><i>Bachelor's Thesis:</i><b> <a href = "/ScottSeniorThesis.pdf">Designing and Optimizing a Protocol for Whole-Ovary Vitrification</a></b><br> 
         Advisor: <a href = "https://cals.cornell.edu/ashim-k-datta"> Prof. Ashim Datta</a></li>
     </ol>
     </article>
