@@ -56,7 +56,7 @@ body {
       <h2>Note Sets</h2>
       <p>Math can be too gatekeepy sometimes, so I thought it might be nice to upload some notes that I prepared as I was studying for my qualifying examinations. I hope you find these helpful for your studying needs as well. </p>
       <ul> 
-        <li> 2023 - 10:<a  href = "AnalysisQualStudyGuide.pdf" target="_blank"> Real and Complex Analysis Qualifying Exam Study Guide </a></li>
+        <li><a  href = "AnalysisQualStudyGuide.pdf" target="_blank"> Real and Complex Analysis Qualifying Exam Study Guide </a></li>
       </ul> 
     </article>
     <article>
