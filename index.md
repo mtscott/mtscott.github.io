@@ -55,14 +55,14 @@ body {
   <article>
     <h1>Overview</h1>
 <img src="ProfessionalHeadshot.jpg" alt="Headshot" style="width:43.2px;height:64.8px;" style="text-align:center;">
-<p>Mitchell Scott received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math and an MS degree (2023) in applied and computational mathematics from Tufts University, Graduate School of Arts and Sciences. Currently, he is working towards his Ph.D. (expected 2028) in mathematics from Emory University, with a concentration in computational mathematics. His research focus is numerical linear algebra, high performance computing, and scientific computing. He is the recipient of the Fuertes communication award. He is currently applying to summer research opportunities to continue applying numerical linear algebra to different fields. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
+<p>Mitchell Scott received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math and an MS degree (2023) in applied and computational mathematics from Tufts University, Graduate School of Arts and Sciences. Currently, he is working towards his Ph.D. (expected 2028) in mathematics and MS in computer science (expected 2025) from Emory University, with a concentration in computational mathematics. His research focus is numerical linear algebra, high performance computing, and scientific computing. He is the recipient of the Fuertes communication award. He is currently applying to summer research opportunities to continue applying numerical linear algebra to different fields. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
   </article>
 <article>
   <h3>
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    <a href="https://icerm.brown.edu/topical_workshops/tw-23-aem/" target="_blank"> Acceleration and Extrapolation Methods, ICERM, July 24-28 </a>
+    <a href="https://www.math.purdue.edu/~xiaj/FastSolvers2023/index.html" target="_blank"> Conference on Fast Direct Solvers, Purdue University, November 4-5 </a>
   </p>
 </article>
 <article>
