@@ -54,7 +54,7 @@ body {
   
   <article>
     <h1>Overview</h1>
-    <div class = "center" style="width:auto;height:300px; margin-below: 15px;"text-align:center;">
+    <div style="width:auto;height:300px; margin-below: 15px; text-align:center; margin: auto;">
       <img src="ProfessionalHeadshot.jpg" alt="Headshot" class = "center" style = "text-align:center; max-height: 100%; max-width: 100%; object-fit: contain; margin-left:auto;">
     </div>
     
