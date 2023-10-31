@@ -64,7 +64,7 @@ body {
       </ul>
     <h3> Contributed Talks</h3>
       <ul>
-        <li> 2023 - 11: <a href = "https://www.math.purdue.edu/~xiaj/FastSolvers2023/index.html"> "Forming Preconditioners by Hierarchical Structure and Tensor Decompositions", </a> Conference on Fast Direct Solvers, Purdue University, 2023.
+        <li> 2023 - 11: <a href = "https://www.math.purdue.edu/~xiaj/FastSolvers2023/index.html"> "Constructing Hierarchical Matrices through Recursive Tensor Decompositions", </a> Conference on Fast Direct Solvers, Purdue University, 2023.
           <!--[<a href = "JMM2023.pdf">slides</a>]-->
         </li>
       </ul>
