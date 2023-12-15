@@ -66,7 +66,7 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    <a href="https://www.math.purdue.edu/~xiaj/FastSolvers2023/index.html" target="_blank"> Conference on Fast Direct Solvers, Purdue University, November 4 - 5 </a>
+    No upcoming travel
   </p>
 </article>
 <article>
@@ -86,7 +86,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: October 18, 2023
+  Last Updated: ODecember 20, 2024
 </footer>
 
 </body>
