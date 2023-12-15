@@ -90,7 +90,7 @@ body {
     </ul>
     <h4> Workshops and Confrences Attended </h4>
     <ul>
-      <li>"Conference on Fast Direct Solvers", Purdue University, November 4 - 5, 2023. </a>
+      <li>"Conference on Fast Direct Solvers", Purdue University, November 4 - 5, 2023.</li>
       <li>"Acceleration and Extrapolation Methods", ICERM, 2023, Providence, RI. </li>
       <li>"Qiskit Global Summer School: Theory to Implementation," IBM, 2023, Virtual.  </li>
       <li>"Geometry and Analysis Seminar for Boston Area Graduate Students," MIT Math, 2023, Cambridge, MA. </li>
