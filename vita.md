@@ -90,7 +90,8 @@ body {
     </ul>
     <h4> Workshops and Confrences Attended </h4>
     <ul>
-      <li>"Acceleration and Extrapolation Methods," ICERM, 2023, Providence, RI. </li>
+      <li>"Conference on Fast Direct Solvers", Purdue University, November 4 - 5, 2023. </a>
+      <li>"Acceleration and Extrapolation Methods", ICERM, 2023, Providence, RI. </li>
       <li>"Qiskit Global Summer School: Theory to Implementation," IBM, 2023, Virtual.  </li>
       <li>"Geometry and Analysis Seminar for Boston Area Graduate Students," MIT Math, 2023, Cambridge, MA. </li>
       <li>"Joint Mathematics Meetings," 2023, Boston, MA.</li>
@@ -98,6 +99,22 @@ body {
       <li>"Geometry and Analysis Seminar for Boston Area Graduate Students," MIT Math, 2022, Cambridge, MA. </li>
     </ul>
     <h2> Teaching Experience</h2>
+    <h4> Emory University </h4>
+    <ul>
+      <li>Teaching Assistant </li>
+      <ul>
+        <li>Math 315 - Numerical Analysis (Spring 2024)</li>
+      </ul>
+      <li>Directed Reading Program Mentor</li>
+      <ul>
+        <li>Introduction to Stochastic Processes (Fall 2023)</li>
+        <li>Introduction to Iterative Methods for Inverse Problems (Fall 2023)</li>
+      </ul>
+      <li> Course Assistant </li>
+      <ul>
+        <li>Math 351 - Partial Differential Equations (Fall 2023)</li>
+      </ul>
+    </ul>
     <h4> Tufts University </h4>
     <ul>
       <li>Teaching Assistant </li>
