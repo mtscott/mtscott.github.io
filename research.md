@@ -62,7 +62,7 @@ body {
     <h3> Numerical Linear Algebra</h3>
     <p> There are a lot of problems that require some sort of matrix - whether it is a covariance matrix in statistics, stochastic matrix in graph theory, or my favorite linear systems of discretized partial differential equations. All of these have some sort of structure in them, and using these properties, we can find ways to speed up problems that use them.</p>
     <h3> Numerical Partial Differential Equations </h3>
-    <p> When you look at all the possible Partial Differential Equations (PDEs) that are used to mode nature, the vast majority don't have an analytic solution. These harder to solve problems are the ones resulting from more detailed process, and should be solved. That is where numerical PDEs come in. We are finding ways to get started on solving problems that are of real world interest without waiting around for a closed form solution to be found.  </p>
+    <p> When you look at all the possible Partial Differential Equations (PDEs) that are used to model nature, the vast majority don't have an analytic solution. These harder to solve problems are the ones resulting from more detailed process, and should be solved. That is where numerical PDEs come in. We are finding ways to get started on solving problems that are of real world interest without waiting around for a closed form solution to be found.  </p>
       </article>
     <article>
     
