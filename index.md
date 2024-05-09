@@ -66,8 +66,8 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    Lawrence Berkeley National Laboratory, Summer 2024
-    SIAM Conference on Mathematics of Data Science (MDS24), October 21 - 25, 2024, Atlanta, GA
+    Summer 2024, Lawrence Berkeley National Laboratory, Berkeley, CA<br>
+    October 21 - 25, 2024, SIAM Conference on Mathematics of Data Science (MDS24), Atlanta, GA
   </p>
 </article>
 <article>
