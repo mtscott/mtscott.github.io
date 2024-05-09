@@ -66,7 +66,8 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    No upcoming travel
+    Lawrence Berkeley National Laboratory, Summer 2024
+    SIAM Conference on Mathematics of Data Science (MDS24), October 21 - 25, 2024, Atlanta, GA
   </p>
 </article>
 <article>
