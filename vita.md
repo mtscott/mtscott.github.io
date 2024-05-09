@@ -212,7 +212,7 @@ body {
     <td>Prof. Andreas Zufle </td>
     <td>Fall 2024</td>
   </tr> 
-</table> %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
+</table> 
 <h4>Tufts Math Courses </h4>
 <table>
   <tr>
