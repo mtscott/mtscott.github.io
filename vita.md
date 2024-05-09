@@ -150,6 +150,69 @@ body {
       <li> <a href = "http://lgbtmath.org/"> Spectra</a></li>
     </ul>
     <h2> Relevant Coursework</h2>
+<h4>Emory Math Courses </h4>
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Professor</th>
+    <th>Semester</th>
+  </tr>
+  <tr>
+    <td>CS 526 - Algorithms</td>
+    <td>Prof. Michelangelo Grigni</td>
+    <td>Fall 2023</td>
+  </tr>
+  <tr>
+    <td>Math 500 - Probability</td>
+    <td>Prof. David Borthwick</td>
+    <td>Fall 2023</td>
+  </tr>
+  <tr>
+    <td>Math 571 - Numerical Optimization</td>
+    <td>Prof. Matthias Chung</td>
+    <td>Fall 2023</td>
+  </tr>
+  <tr>
+    <td>Math 789 - Tensor Decompositions</td>
+    <td>Prof. Elizabeth Newman</td>
+    <td>Fall 2023</td>
+  </tr>
+  <tr>
+    <td>CS 524 - Theory of Computing</td>
+    <td>Prof. Michelangelo Grigni</td>
+    <td>Spring 2024</td>
+  </tr>
+  <tr>
+    <td>Math 517 - Iterative Methods</td>
+    <td>Prof. Yuanzhe Xi</td>
+    <td>Spring 2024</td>
+  </tr>
+  <tr>
+    <td>Math 550 - Functional Analysis</td>
+    <td>Prof. David Borthwick</td>
+    <td>Spring 2024</td>
+  </tr>
+  <tr>
+    <td>Phys 731 - Random Matrix Theory</td>
+    <td>Prof. Ilya Nemenman</td>
+    <td>Spring 2024</td>
+  </tr>
+  <tr>
+    <td>CS 534 - Machine Learning</td>
+    <td>Prof. Eugene Agichtein</td>
+    <td>Fall 2024</td>
+  </tr>
+  <tr>
+    <td>CS 551 - Systems Programming</td>
+    <td>Prof. Kenneth I Mandelberg </td>
+    <td>Fall 2024</td>
+  </tr> 
+  <tr>
+    <td>CS 584 - Spatial Data Algorithms</td>
+    <td>Prof. Andreas Zufle </td>
+    <td>Fall 2024</td>
+  </tr> 
+</table> %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
 <h4>Tufts Math Courses </h4>
 <table>
   <tr>
