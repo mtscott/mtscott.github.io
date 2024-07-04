@@ -54,7 +54,9 @@ body {
   
   <article>
     <h2>Hobbies</h2>
-<p>[Coming Soon] As I mentioned above, I love reading books and running. I have been reading a lot of Kazuo Ishiguro recently. I am always open to book recommendations. I am also training for a marathon soon, so please send podcast recommendations for my Saturday Long Runs! Lastly, I am getting into web programming (I mean you are reading this because of this new hobby), and I have taught myself HTML just for this website. Any advise or ways you think this website can be improved, please reach out to me.</p>
+<p> As I mentioned above, I love reading books, a hobby I picked back up during the pandemic. I have been reading a lot of Kazuo Ishiguro and Douglas Stewart recently. I would say my favorite author is John Steinbeck. My dream goal, or my "magnum opus" would be to read <i>Ulysses</i> by James Joyce and understand all of the allusions and references, but I am far away from that goal. I am always open to book recommendations. </p>
+<p> I am also training for the San Francisco half -marathon at the end of July 2024, so please send podcast recommendations for my Saturday Long Runs! If you want to follow my running journey, my Strava is <a href = "https://www.strava.com/athletes/112139544"> here</a>. </p>
+<p> Lastly, I am getting into web programming (I mean you are reading this because of the new hobby), and I have taught myself HTML just for this website. Any advise or ways you think this website can be improved, please reach out to me.</p>
   </article>
     
 
