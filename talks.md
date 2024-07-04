@@ -76,8 +76,7 @@ body {
       </ul>
     <h3> Class Presentations</h3>
       <ul>
-        <li> 2023 - 10:<a  href = "BFGSpresentation.pdf" target="_blank"> Numerical Optimization Presentation for BFGS Algorithm </a></li>
-        
+        <li> 2023 - 10:<a  href = "BFGSpresentation.pdf" target="_blank"> Numerical Optimization Presentation for BFGS Algorithm </a></li> 
       </ul>
   </article>
 
