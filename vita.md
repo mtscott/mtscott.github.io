@@ -1,7 +1,7 @@
 <html lang="en-US">
 <head>
 <style>
-th, td {
+th, td 
   border-style: none;
 
 body {
@@ -53,7 +53,7 @@ body {
   <section>
   <article>
     <h1>Curriculum Vitae</h1>
-    <p> Here is a downloadable .pdf copy of my <a  href = "CV_MitchellScott.pdf" target="_blank"> CV</a>. (last updated: Jan. 2024)</p>
+    <p> Here is a downloadable .pdf copy of my <a  href = "CV_MitchellScott.pdf" target="_blank"> CV</a>. (last updated: July. 2024)</p>
     <h2> Education</h2>
     <table>
       <tr>
@@ -83,6 +83,7 @@ body {
   </tr>
     </table>
     <h2> Conferences, Workshops, and Talks</h2>
+    <p> For a complete list of talks/poster, please see  <a>href="/talks.html">Talks</a></p>
     <h4> Invited Talks </h4>
     <ul>
       <li>"Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition," Joint Mathematics Meetings, 2023, Boston, MA.</li>
@@ -98,6 +99,11 @@ body {
       <li>"Qiskit Global Summer School: Quantum Simulation," IBM, 2022, Virtual.  </li>
       <li>"Geometry and Analysis Seminar for Boston Area Graduate Students," MIT Math, 2022, Cambridge, MA. </li>
     </ul>
+    <h2> Research Experience</h2>
+    <h4> Lawrence Berkeley National Laboratory </h4>
+      <ul>
+        <li> Visiting Graduate Student Researcher, May 2024 - August 2024 </li>
+      </ul>
     <h2> Teaching Experience</h2>
     <h4> Emory University </h4>
     <ul>
