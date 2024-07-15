@@ -33,7 +33,7 @@ body {
   background-color: #04AA6D;
   color: white;
 }
-
+}
 </style>
 </head>
 <body>
@@ -87,7 +87,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: July 5, 2024
+  Last Updated: July 16, 2024
 </footer>
 
 </body>
