@@ -75,13 +75,13 @@ body {
       </ul>
     <h3> Student Seminars </h3>
       <ul>
-        <li> 2024 - 04: RANT - Haar Measure Notes <a  href = "HaarMeasure.pdf" target="_blank"> [pdf]  </a></li>
-        <li> 2022 - 04: Quantum Computing Reading Group Ch. 7 notes <a  href = "LiptonQCReadingGroupCh7Notes.pdf" target="_blank"> [pdf] </a></li>
-        <li> 2022 - 02: Quantum Computing Reading Group Ch. 5 notes <a  href = "LiptonQCReadingGroupCh5Notes.pdf" target="_blank"> [pdf] </a></li>
+        <li> 2024 - 04: RANT - Haar Measure Notes [<a  href = "HaarMeasure.pdf" target="_blank"> pdf  </a>]</li>
+        <li> 2022 - 04: Quantum Computing Reading Group Ch. 7 notes [<a  href = "LiptonQCReadingGroupCh7Notes.pdf" target="_blank"> pdf </a>]</li>
+        <li> 2022 - 02: Quantum Computing Reading Group Ch. 5 notes [<a  href = "LiptonQCReadingGroupCh5Notes.pdf" target="_blank"> pdf </a>]</li>
       </ul>
     <h3> Class Presentations</h3>
       <ul>
-        <li> 2023 - 10: Numerical Optimization Presentation for BFGS Algorithm <a  href = "BFGSpresentation.pdf" target="_blank"> [pdf] </a></li> 
+        <li> 2023 - 10: Numerical Optimization Presentation for BFGS Algorithm [<a  href = "BFGSpresentation.pdf" target="_blank"> pdf </a>]</li> 
       </ul>
   </article>
 
