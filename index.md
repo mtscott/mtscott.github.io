@@ -59,7 +59,7 @@ body {
       <img src="Headshot_prof.jpg" alt="Headshot" class = "center" style = "text-align:center; max-height: 100%; max-width: 100%; object-fit: contain; margin-below:15px;">
     </div>
     <br>
-<p>Mitchell Scott received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math and an MS degree (2023) in applied and computational mathematics from Tufts University, Graduate School of Arts and Sciences. Currently, he is working towards his Ph.D. (expected 2028) in mathematics and MS in computer science (expected 2025) from Emory University, with a concentration in computational mathematics. His research focus is numerical linear algebra, high performance computing, and scientific computing. He is the recipient of the Fuertes communication award. He is currently a summer researcher at Lawrence Berkeley National Laboratory in the Scalable Solvers group. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
+<p>Mitchell Scott is a second year computational math Ph.D. student at Emory University working with <a href = "http://www.math.emory.edu/~yxi26/">Yuanzhe Xi</a>. His research focus is numerical linear algebra, high performance scientific computing, and nonlinear PDEs. At Emory, he is part of the Directed Reading Program (DRP) Steering Committee. He has been a summer research fellow at Lawrence Berkeley National Laboratory. Previously, he received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math and an MS degree (2023) in applied and computational mathematics from Tufts University, Graduate School of Arts and Sciences. At Tufts, Mitchell worked with <a href = "https://mkilme01.pages.tufts.edu/">Misha Kilmer</a>. He is the recipient of the Fuertes communication award. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
   </article>
 <article>
   <h3>
@@ -87,7 +87,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: July 16, 2024
+  Last Updated: July 19, 2024
 </footer>
 
 </body>
