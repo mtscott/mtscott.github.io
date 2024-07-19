@@ -51,13 +51,19 @@ body {
  </div>
 
 <section>
-     <h1>Note Sets and Selected Projects</h1>
+     <h1>Note Sets and Math-adjacent Projects</h1>
     <article>
       <h2>Note Sets</h2>
       <p>Math can be too gatekeepy sometimes, so I thought it might be nice to upload some notes that I prepared as I was studying for my qualifying examinations. I hope you find these helpful for your studying needs as well. </p>
       <ul> 
         <li><a  href = "files/AnalysisQualStudyGuide.pdf" target="_blank"> Real and Complex Analysis Qualifying Exam Study Guide </a></li>
       </ul> 
+    </article>
+    <article>
+      <h2>Directed Reading Program</h2>
+      <p> The Directed Reading Program (DRP) has become a staple in most math departments around the country. It is an opportunity for undergraduates to learn a more detailed subject that might not be taught at their universities. Additionally, it is a chance for graduate students to get more comfortable mentoring and explaining mathematical concepts. I have participated as both a mentee in undergrad and mentor at both Tufts and Emory. I think it is a great program for all involved and really have seen it blossom in smaller math departments where they can only teach the standard courses.
+    <p>In fact, I am so passionate about the DRP, I am on the steering committee of the <a href = "emory.math.edu/~drp">Emory DRP</a>. If you are interested in getting involved in Emory's DRP, please see the link above. If you are a graduate student looking to start a DRP at your university, I would be happy to share some of my experiences. I also recommend you seek out other resources, e.g. the <a href = "https://sites.google.com/view/drp-network/">DRP Network</a>. </p>
+      
     </article>
     <article>
       <h2>Selected Projects</h2>
