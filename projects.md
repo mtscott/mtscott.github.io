@@ -51,7 +51,7 @@ body {
  </div>
 
 <section>
-     <h1>Note Sets and Math-adjacent Projects</h1>
+     <h1>Note Sets and Math Projects</h1>
     <article>
       <h2>Note Sets</h2>
       <p>Math can be too gatekeepy sometimes, so I thought it might be nice to upload some notes that I prepared as I was studying for my qualifying examinations. I hope you find these helpful for your studying needs as well. </p>
