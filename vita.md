@@ -83,7 +83,7 @@ body {
   </tr>
     </table>
     <h2> Conferences, Workshops, and Talks</h2>
-    <p> For a complete list of talks/presentations, please see  <a href="/talks.html">Talks</a></p>
+    <p> For a complete list of talks/presentations, please see  <a href="/talks.html">Talks</a> page.</p>
     <h4> Invited Talks </h4>
     <ul>
       <li>"Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition," Joint Mathematics Meetings, 2023, Boston, MA.</li>
