@@ -81,7 +81,7 @@ body {
       </ul>
     <h3> Class Presentations</h3>
       <ul>
-        <li> 2023 - 10: Numerical Optimization Presentation for BFGS Algorithm [<a  href = "files/BFGSpresentation.pdf" target="_blank">slides</a>]</li> 
+        <li> 2023 - 10: Numerical Optimization Presentation for BFGS Algorithm [<a  href = "files/BFGSpresentation.pdf" target="_blank">pdf</a>]</li> 
       </ul>
   </article>
 
