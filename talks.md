@@ -89,7 +89,7 @@ body {
 
 <figure>
   <img src="photos/LBLPosterPresentation.jpg" alt="Poster Presentation at Berkeley Lab 2024" style="width:75%">
-  <figcaption>Poster Presentation, Berkeley Lab, Berkeley, CA, Aug. 2024</figcaption>
+  <figcaption class = "text-center">Poster Presentation, Berkeley Lab, Berkeley, CA, Aug. 2024</figcaption>
 </figure>
 
 </body>
