@@ -87,7 +87,10 @@ body {
 
 </section>
 
-
+<figure>
+  <img src="photos/LBLPosterPresentation.jpg" alt="Poster Presentation at Berkeley Lab 2024" style="width:100%">
+  <figcaption>Poster Presentation, Berkeley Lab, Berkeley, CA, 08-2024</figcaption>
+</figure>
 
 </body>
 </html>
