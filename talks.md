@@ -88,8 +88,8 @@ body {
 </section>
 
 <figure>
-  <img src="photos/LBLPosterPresentation.jpg" alt="Poster Presentation at Berkeley Lab 2024" style="width:75%">
-  <figcaption class = "text-center">Poster Presentation, Berkeley Lab, Berkeley, CA, Aug. 2024</figcaption>
+  <img src="photos/LBLPosterPresentation.jpg" alt="Poster Presentation at Berkeley Lab 2024" style="width:75%" class="center">
+  <figcaption class="figure-caption text-center">Poster Presentation, Berkeley Lab, Berkeley, CA, Aug. 2024</figcaption>
 </figure>
 
 </body>
