@@ -109,11 +109,12 @@ body {
     <ul>
       <li>Teaching Assistant </li>
       <ul>
-        <li>Math 210 - Advanced Calculus for Data Sciences (Fall2024)</li>
+        <li>Math 210 - Advanced Calculus for Data Sciences (Fall 2024)</li>
         <li>Math 315 - Numerical Analysis (Spring 2024)</li>
       </ul>
       <li>Directed Reading Program Mentor</li>
       <ul>
+        <li>Introduction to Functional Analysis (Fall 2024)</li>
         <li>Introduction to Stochastic Processes (Spring 2024)</li>
         <li>Introduction to Stochastic Processes (Fall 2023)</li>
         <li>Introduction to Iterative Methods for Inverse Problems (Fall 2023)</li>
