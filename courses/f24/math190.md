@@ -56,7 +56,7 @@ body {
 <h2>Contact</h2>
     <table>
   <tr>
-    <td>Week</td>
+    <th>Week</th>
     <th>Date</th>
     <th>Topics</th>
     <th>Homework</th>
@@ -64,7 +64,7 @@ body {
   <tr>
     <td>1</td>
     <td>8-29</td>
-    <td></td>
+    <td>Syllabus</td>
     <td></td>
   </tr>
   <tr>
