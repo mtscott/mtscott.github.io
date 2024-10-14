@@ -44,6 +44,7 @@ body {
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/vita.html">CV</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/research.html">Research</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/talks.html">Talks</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/teaching.html">Teaching</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/projects.html">Projects</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/hobbies.html">Hobbies</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/contact.html">Contact</a>

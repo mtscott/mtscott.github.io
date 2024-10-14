@@ -53,18 +53,8 @@ body {
 
 <section>
 <article>
-<h2>Contact Information</h2>
-    <p> Emory University<br>
-        Dept of Mathematics<br>
-        Math and Science Center<br>
-        400 Dowman Dr<br>
-        Atlanta, GA 30322</p>
-    <p> <a href="https://www.linkedin.com/in/mitchell-t-scott/" target="_blank"> LinkedIn</a>: Mitchell-T-Scott
-    </p>
-    <p> <a href="https://twitter.com/mitchmatician" target="_blank"> Twitter</a>: @ Mitchmatician
-    </p>
-    <p> <a href="mailto:mitchell.scott@emory.edu">Email</a>: mitchell [dot] scott [at] emory [dot] edu
-    </p>
+<h2>Contact</h2>
+    
   </article>
 </section>
 
