@@ -53,8 +53,8 @@ body {
 
 <section>
 <article>
-<h2>Contact</h2>
-    
+<h2>Emory Teaching</h2>
+    <p> <a href = /courses/f24/math190.html>Math 190 - Freshman Seminar</a> </p>
   </article>
 </section>
 
