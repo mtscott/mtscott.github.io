@@ -41,9 +41,9 @@ body {
   
  <div class= "topnav">
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="mtscott.github.io/courses/f24/math190.md">Home</a>
-  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/syllabus.html">Syllabus</a>
-  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/assignments.html">Assignments</a>
-  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="/readings.html">Readings</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./syllabus.html">Syllabus</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./assignments.html">Assignments</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./readings.html">Readings</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="https://canvas.emory.edu">Canvas</a>
   
  </div>
