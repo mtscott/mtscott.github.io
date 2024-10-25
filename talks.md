@@ -71,7 +71,7 @@ body {
       </ul>
     <h3> Poster Talks </h3>
       <ul> 
-        <li> 2024 - 10: <a href = "https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80908"> "Acceleration Methods for Scientific and Data Science Applications" </a> SIAM Mathematics of Data Science, MDS, Atlanta GA, 2024 </li>
+        <li> 2024 - 10: <a href = "https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80908"> "Acceleration Methods for Scientific and Data Science Applications" </a> SIAM Mathematics of Data Science, MDS, Atlanta GA, 2024[<a href = "files/nlTGCR_MDS24.pdf" target = "_blank">pdf</a>] </li>
         <li> 2024 - 08: "Quantized Tensor Trains for Solving Maxwell's Equations with Spectral Methods" Lawrence Berkeley National Lab Computing Sciences Poster Session, Berkeley, CA, 2024 [<a href = "files/LBNL24QTT.pdf" target = "_blank">pdf</a>]</li>
       </ul>
     <h3> Student Seminars </h3>
