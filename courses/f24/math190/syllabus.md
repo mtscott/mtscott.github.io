@@ -139,7 +139,7 @@ body {
   <tr>
     <td>8</td>
     <td>10-15</td>
-    <td></td>
+    <td>Fall Break (no class)</td>
     <td></td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@ body {
   <tr>
     <td></td>
     <td>11-28</td>
-    <td></td>
+    <td>Thanksgiving Break (no class)</td>
     <td></td>
   </tr>
   <tr>
@@ -236,6 +236,12 @@ body {
     <td>16</td>
     <td>12-10</td>
     <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Finals Week</td>
+    <td>12-17</td>
+    <td>11:30am to 02:00pm, MSC - N301</td>
     <td></td>
   </tr>
 </table>
