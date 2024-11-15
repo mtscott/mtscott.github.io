@@ -60,187 +60,187 @@ body {
   </tr>
   <tr>
     <td>1</td>
-    <td>8-29</td>
+    <td>R 8-29</td>
     <td>Syllabus</td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
-    <td>9-3</td>
+    <td>T 9-3</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>9-5</td>
+    <td>R 9-5</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>9-10</td>
+    <td>T 9-10</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>9-12</td>
+    <td>R 9-12</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
-    <td>9-17</td>
+    <td>T 9-17</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>9-19</td>
+    <td>R 9-19</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>5</td>
-    <td>9-24</td>
+    <td>T 9-24</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>9-26</td>
+    <td>R 9-26</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
-    <td>10-1</td>
+    <td>T 10-1</td>
     <td></td>
     <td></td>
   </tr> 
   <tr>
     <td></td>
-    <td>10-3</td>
+    <td>R 10-3</td>
     <td></td>
     <td></td>
   </tr> 
   <tr>
     <td>7</td>
-    <td>10-8</td>
+    <td>T 10-8</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>10-10</td>
+    <td>R 10-10</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>8</td>
-    <td>10-15</td>
+    <td>T 10-15</td>
     <td>Fall Break (no class)</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>10-17</td>
+    <td>R 10-17</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>9</td>
-    <td>10-22</td>
+    <td>T 10-22</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>10-24</td>
+    <td>R 10-24</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
-    <td>10-29</td>
+    <td>T 10-29</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>10-31</td>
+    <td>R 10-31</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>11</td>
-    <td>11-5</td>
+    <td>T 11-5</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>11-7</td>
+    <td>R 11-7</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>12</td>
-    <td>11-12</td>
+    <td>T 11-12</td>
     <td></td>
     <td></td>
   </tr> 
   <tr>
     <td></td>
-    <td>11-14</td>
+    <td>R 11-14</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>13</td>
-    <td>11-19</td>
+    <td>T 11-19</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>11-21</td>
+    <td>R 11-21</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>14</td>
-    <td>11-26</td>
+    <td>T 11-26</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>11-28</td>
+    <td>R 11-28</td>
     <td>Thanksgiving Break (no class)</td>
     <td></td>
   </tr>
   <tr>
     <td>15</td>
-    <td>12-3</td>
+    <td>T 12-3</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>12-5</td>
+    <td>R 12-5</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>16</td>
-    <td>12-10</td>
+    <td>T 12-10</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Finals Week</td>
-    <td>12-17</td>
+    <td>T 12-17</td>
     <td>11:30am to 02:00pm, MSC - N301</td>
     <td></td>
   </tr>
