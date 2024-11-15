@@ -61,7 +61,7 @@ body {
 
 
 <hr>
-<p>Disclaimer: This class is a fictious class created for the sole purpose of satisfying the  <a href = "https://sustainability.emory.edu/programs/the-piedmont-project/">Piedmont TATTO</a> curriculum for Fall 2024. It is modeled after Math 190: First-year Seminar, which is a real class. It uses that for date structure, start days, end days, holidays, etc. This will hopefully be taught at a later time, where the information above will be different, and this disclaimer will be removed.</p>
+<p><strong>Disclaimer:</strong> This class is a fictious class created for the sole purpose of satisfying the  <a href = "https://sustainability.emory.edu/programs/the-piedmont-project/">Piedmont TATTO</a> curriculum for Fall 2024. It is modeled after Math 190: First-year Seminar, which is a real class. It uses that for date structure, start days, end days, holidays, etc. This will hopefully be taught at a later time, where the information above will be different, and this disclaimer will be removed.</p>
 </article>
 </section>
 

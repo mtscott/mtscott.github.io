@@ -239,9 +239,9 @@ body {
     <td></td>
   </tr>
   <tr>
-    <td>Finals Week</td>
+    <td>Finals</td>
     <td>T 12-17</td>
-    <td>11:30am to 02:00pm, MSC - N301</td>
+    <td>11:30am - 02:00pm, MSC - N301</td>
     <td></td>
   </tr>
 </table>
