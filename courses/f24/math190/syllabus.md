@@ -61,49 +61,49 @@ body {
   <tr>
     <td>1</td>
     <td>R 8-29</td>
-    <td>Syllabus</td>
+    <td>Syllabus, Matrix Review</td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>T 9-3</td>
-    <td></td>
+    <td>Matrix Review</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 9-5</td>
-    <td></td>
+    <td>Single Person Games</td>
     <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>T 9-10</td>
-    <td></td>
+    <td>Decision Trees</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 9-12</td>
-    <td></td>
-    <td></td>
+    <td>Static Games</td>
+    <td>HW0 Due</td>
   </tr>
   <tr>
     <td>4</td>
     <td>T 9-17</td>
-    <td></td>
+    <td>Strategy Types</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 9-19</td>
-    <td></td>
+    <td>Nash Equilibria</td>
     <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>T 9-24</td>
-    <td></td>
+    <td>Dynamic Games</td>
     <td></td>
   </tr>
   <tr>
@@ -115,13 +115,13 @@ body {
   <tr>
     <td>6</td>
     <td>T 10-1</td>
-    <td></td>
+    <td>Game Theory Presentations</td>
     <td></td>
   </tr> 
   <tr>
     <td></td>
     <td>R 10-3</td>
-    <td></td>
+    <td>Linear Programming</td>
     <td></td>
   </tr> 
   <tr>
@@ -133,7 +133,7 @@ body {
   <tr>
     <td></td>
     <td>R 10-10</td>
-    <td></td>
+    <td>Geometry of Linear Programming I </td>
     <td></td>
   </tr>
   <tr>
@@ -145,73 +145,73 @@ body {
   <tr>
     <td></td>
     <td>R 10-17</td>
-    <td></td>
+    <td>Geometry of Linear Programming II</td>
     <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>T 10-22</td>
-    <td></td>
+    <td>Linear Programming 4</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 10-24</td>
-    <td></td>
+    <td>Linear Programmin 4</td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
     <td>T 10-29</td>
-    <td></td>
+    <td>Project Work Day</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 10-31</td>
-    <td></td>
+    <td>Chocolate Presentations</td>
     <td></td>
   </tr>
   <tr>
     <td>11</td>
     <td>T 11-5</td>
-    <td></td>
+    <td>Midterm Review</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 11-7</td>
-    <td></td>
+    <td>Midterm Exam</td>
     <td></td>
   </tr>
   <tr>
     <td>12</td>
     <td>T 11-12</td>
-    <td></td>
+    <td>Introduction to Markov Chains</td>
     <td></td>
   </tr> 
   <tr>
     <td></td>
     <td>R 11-14</td>
-    <td></td>
+    <td>Multistep Transitions</td>
     <td></td>
   </tr>
   <tr>
     <td>13</td>
     <td>T 11-19</td>
-    <td></td>
+    <td>State Classification</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 11-21</td>
-    <td></td>
+    <td>Stationary Distributions</td>
     <td></td>
   </tr>
   <tr>
     <td>14</td>
     <td>T 11-26</td>
-    <td></td>
+    <td>Limit Behavior</td>
     <td></td>
   </tr>
   <tr>
@@ -223,19 +223,19 @@ body {
   <tr>
     <td>15</td>
     <td>T 12-3</td>
-    <td></td>
+    <td>Special Examples</td>
     <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 12-5</td>
-    <td></td>
+    <td>Catch-up</td>
     <td></td>
   </tr>
   <tr>
     <td>16</td>
     <td>T 12-10</td>
-    <td></td>
+    <td>Catch-up</td>
     <td></td>
   </tr>
   <tr>
