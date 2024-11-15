@@ -67,7 +67,7 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    October 21 - 25, 2024, SIAM Conference on Mathematics of Data Science (MDS24), Atlanta, GA
+    No upcoming travels
   </p>
 </article>
 <article>
@@ -87,7 +87,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: October 1, 2024
+  Last Updated: October 31, 2024
 </footer>
 
 </body>

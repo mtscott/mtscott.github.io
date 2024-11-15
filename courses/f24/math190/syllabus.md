@@ -43,15 +43,15 @@ body {
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./home.html">Home</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./syllabus.html">Syllabus</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./assignments.html">Assignments</a>
-  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./readings.html">Readings</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="https://canvas.emory.edu">Canvas</a>
   
  </div>
 
 <section>
 <article>
-<h2>Contact</h2>
-    <table>
+<h2>Schedule</h2>
+<p>This schedule is tentative and subject to change.</p>
+  <table>
   <tr>
     <th>Week</th>
     <th>Date</th>
