@@ -54,10 +54,10 @@ body {
 <h4>Fall 2024</h4>
 <p><b>Location:</b> MSC ???</p>
 <p><b>Lecture: </b> TR 11:30 a - 12:45 p</p>
-<p><b>Professor:</b> Sreejani Chaudhury, Mitchell Scott</p>
+<p><b>Professor:</b> Sreejani Chaudhury, <a href = "https://mtscott.github.io/"> Mitchell Scott</a></p>
 <p><b>Office Hours:</b> MSC ???</p>
 
-<h3> Overview</h>
+<h3> Overview</h3>
 
 
 <hr>
