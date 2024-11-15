@@ -58,7 +58,7 @@ body {
 <p><strong>Office Hours:</strong> MSC ???</p>
 
 <h3> Overview</h3>
-
+<p> When you think about sustainability, there are many different academic fields that come to mind, but math is probably not one. This is a shame because the connections between math and sustainability are abundant. In this first year seminar, we hope to bridge that gap! We teach three selected math topics accessible to interested first year math majors. All three topics will be deeply mathematical in their core, but can be applied to sustainability topics. Hopefully, the connections become clear, and the definition of sustainability transcends just green spaces and recycling.</p>
 
 <hr>
 <p><strong>Disclaimer:</strong> This class is a fictious class created for the sole purpose of satisfying the  <a href = "https://sustainability.emory.edu/programs/the-piedmont-project/">Piedmont TATTO</a> curriculum for Fall 2024. It is modeled after Math 190: First-year Seminar, which is a real class. It uses that for date structure, start days, end days, holidays, etc. This will hopefully be taught at a later time, where the information above will be different, and this disclaimer will be removed.</p>
