@@ -164,7 +164,7 @@ body {
     <td>10</td>
     <td>T 10-29</td>
     <td>Project Work Day</td>
-    <td>HW4 Due</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -176,7 +176,7 @@ body {
     <td>11</td>
     <td>T 11-5</td>
     <td>Midterm Review</td>
-    <td></td>
+    <td>HW4 Due</td>
   </tr>
   <tr>
     <td></td>
