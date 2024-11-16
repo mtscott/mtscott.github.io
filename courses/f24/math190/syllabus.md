@@ -80,13 +80,13 @@ body {
     <td>3</td>
     <td>T 9-10</td>
     <td>Decision Trees</td>
-    <td></td>
+    <td>HW0 Due</td>
   </tr>
   <tr>
     <td></td>
     <td>R 9-12</td>
     <td>Static Games</td>
-    <td>HW0 Due</td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
@@ -104,12 +104,12 @@ body {
     <td>5</td>
     <td>T 9-24</td>
     <td>Dynamic Games</td>
-    <td></td>
+    <td>HW1 Due</td>
   </tr>
   <tr>
     <td></td>
     <td>R 9-26</td>
-    <td></td>
+    <td>Incomplete information</td>
     <td></td>
   </tr>
   <tr>
@@ -127,8 +127,8 @@ body {
   <tr>
     <td>7</td>
     <td>T 10-8</td>
-    <td></td>
-    <td></td>
+    <td>Matrix Notation of Linear Programming</td>
+    <td>HW2 Due</td>
   </tr>
   <tr>
     <td></td>
@@ -152,19 +152,19 @@ body {
     <td>9</td>
     <td>T 10-22</td>
     <td>Linear Programming 4</td>
-    <td></td>
+    <td>HW3 Due</td>
   </tr>
   <tr>
     <td></td>
     <td>R 10-24</td>
-    <td>Linear Programmin 4</td>
+    <td>Linear Programming 4</td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
     <td>T 10-29</td>
     <td>Project Work Day</td>
-    <td></td>
+    <td>HW4 Due</td>
   </tr>
   <tr>
     <td></td>
@@ -212,7 +212,7 @@ body {
     <td>14</td>
     <td>T 11-26</td>
     <td>Limit Behavior</td>
-    <td></td>
+    <td>HW5 Due</td>
   </tr>
   <tr>
     <td></td>
@@ -236,7 +236,7 @@ body {
     <td>16</td>
     <td>T 12-10</td>
     <td>Catch-up</td>
-    <td></td>
+    <td>HW6 Due</td>
   </tr>
   <tr>
     <td>Finals</td>
