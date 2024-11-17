@@ -49,6 +49,15 @@ body {
 
 <section>
 <article>
+<h2>Syllabus</h2>
+The syllabus information is seen below. This is a PDF copy of the <a href= /files/2024fa_m190_syllabus.pdf> syllabus </a>.
+<h3> Lecture Information</h3>
+
+<h3> Staff and Office Hours </h3>
+
+<h3> Catalog Information </h3>
+
+<h3> Prerequisites</h3>
 <h2>Schedule</h2>
 <p>This schedule is tentative and subject to change.</p>
   <table>

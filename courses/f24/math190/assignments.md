@@ -49,28 +49,20 @@ body {
 
 <section>
 <article>
-<h2>Contact</h2>
+<h2>Assignments</h2>
     <table>
   <tr>
-    <th>Week</th>
-    <th>Date</th>
-    <th>Topics</th>
-    <th>Homework</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>8-29</td>
-    <td>Syllabus</td>
-    <td></td>
+    <td><strong>Due Sep. 10</strong></td>
+    <td>HW0 [pdf]</td>
+    <td>[sol]</td>
   </tr>
   <tr>
     <td>2</td>
     <td>9-3</td>
     <td></td>
-    <td></td>
+
   </tr>
   <tr>
-    <td></td>
     <td>9-5</td>
     <td></td>
     <td></td>
@@ -79,114 +71,95 @@ body {
     <td>3</td>
     <td>9-10</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>9-12</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>9-17</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>9-19</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>9-24</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>9-26</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td>10-1</td>
     <td></td>
-    <td></td>
   </tr> 
   <tr>
     <td></td>
     <td>10-3</td>
-    <td></td>
     <td></td>
   </tr> 
   <tr>
     <td>7</td>
     <td>10-8</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>10-10</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>8</td>
     <td>10-15</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>10-17</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>10-22</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>10-24</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
     <td>10-29</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>10-31</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>11</td>
     <td>11-5</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>11-7</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>12</td>
     <td>11-12</td>
-    <td></td>
     <td></td>
   </tr> 
   <tr>
@@ -199,42 +172,35 @@ body {
     <td>13</td>
     <td>11-19</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>11-21</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>14</td>
     <td>11-26</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>11-28</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>15</td>
     <td>12-3</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>12-5</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>16</td>
     <td>12-10</td>
-    <td></td>
     <td></td>
   </tr>
 </table>
