@@ -49,15 +49,34 @@ body {
 
 <section>
 <article>
-<h2>Syllabus</h2>
+<h1>Syllabus</h1>
+<h2> Administrative Information </h2>
 The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2024fa_m190_syllabus.pdf"> syllabus </a>.
 <h3> Lecture Information</h3>
-
+<p> Lectures are Tuesday and Thursday, 11:30 am - 12:45 pm, MSC W201</p>
 <h3> Staff and Office Hours </h3>
-
+<p> Office Hours will be decided after the first week of class</p>
 <h3> Catalog Information </h3>
-
+<p> 3 credits. General Education Requirement for First-year students. No Prerequisites. Not cross listed. Topics will be announced each semester when class is scheduled.</p>
 <h3> Prerequisites</h3>
+<p> Assumed some knowledge of calculus, matrices, and basic probability. </p>
+<h2> Texts </h2>
+<h3> Recommended Texts </h3>
+<ul>
+  <li><a href = "./files/linear-programming-theory.pdf"><i>Game Theory: An Introduction</i>(GT)</a>, by Steven Tadelis</li>
+  <li><a href = "./files/Game_Theory_An_Introduction.pdf"><i>Elementary Linear Programming with Applications</i> (LP)</a>, by Kolam, Beck</li>
+  <li><a href = "./files/EOSP2E.pdf"><i>Essentials of Stochastic Processes </i>(SP)</a>, by Rick Durrett</li>
+</ul> 
+<h3> References </h3>
+
+<h2> Course Work </h2>
+<h3> Homework </h3>
+
+<h3> Projects </h3>
+
+<h3> Exams </h3>
+
+<h3> Grading </h3>
 <h2>Schedule</h2>
 <p>This schedule is tentative and subject to change.</p>
   <table>
