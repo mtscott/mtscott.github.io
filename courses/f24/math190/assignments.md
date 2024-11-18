@@ -79,7 +79,7 @@ body {
   </tr>
   <tr>
     <td><strong>Due Oct. 31</strong></td>
-    <td>Proj 2 [pdf]</td>
+    <td>Proj 2 [<a href = "./files/proj2.pdf">pdf</a>]</td>
     <td></td>
   </tr>
   <tr>
