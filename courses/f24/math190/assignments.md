@@ -58,150 +58,45 @@ body {
   </tr>
   <tr>
     <td><strong>Due Sep. 24</strong></td>
-    <td>HW0 [pdf]</td>
+    <td>HW1 [pdf]</td>
     <td>[sol]</td>
 
   </tr>
   <tr>
     <td><strong>Due Oct. 1</strong></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
+    <td>Proj 1 [pdf]</td>
+    <td></td>
   </tr>
   <tr>
     <td><strong>Due Oct. 8</strong></td>
-    <td>HW0 [pdf]</td>
+    <td>HW2 [pdf]</td>
     <td>[sol]</td>
   </tr>
   <tr>
+    <td><strong>Due Oct. 22</strong></td>
+    <td>HW3 [pdf]</td>
+    <td>[sol]</td>
+  </tr>
+  <tr>
+    <td><strong>Due Oct. 31</strong></td>
+    <td>Proj 2 [pdf]</td>
     <td></td>
-    <td>HW0 [pdf]</td>
+  </tr>
+  <tr>
+    <td><strong>Due Nov. 5</strong></td>
+    <td>HW4 [pdf]</td>
     <td>[sol]</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>9-17</td>
-    <td></td>
+    <td><strong>Due Nov. 26</strong></td>
+    <td>HW5 [<a href = "./files/hw5.pdf">pdf</a>]</td>
+    <td>[<a href = "./files/sol5.pdf">sol</a>]</td>
   </tr>
   <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>HW0 [pdf]</td>
+    <td><strong>Due Dec. 10</strong></td>
+    <td>HW6 [pdf]</td>
     <td>[sol]</td>
   </tr> 
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr> 
-  <tr>
-    <td>7</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>9</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr> 
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>15</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
 </table>
   </article>
 </section>
