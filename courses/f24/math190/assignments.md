@@ -94,9 +94,14 @@ body {
   </tr>
   <tr>
     <td><strong>Due Dec. 10</strong></td>
-    <td>HW6 [pdf]</td>
-    <td>[sol]</td>
-  </tr> 
+    <td>HW6 [<a href = "./files/hw6.pdf">pdf</a>]</td>
+    <td>[<a href = "./files/sol6.pdf">sol</a>]</td>
+  </tr>
+  <tr>
+    <td><strong>Due Dec. 17</strong></td>
+    <td>Proj 3 [pdf]</td>
+    <td></td>
+  </tr>
 </table>
   </article>
 </section>
