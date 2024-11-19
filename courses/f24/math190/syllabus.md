@@ -51,7 +51,7 @@ body {
 <article>
 <h1>Syllabus</h1>
 <h2> Administrative Information </h2>
-The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2024fa_m190_syllabus.pdf"> syllabus </a>.
+<p>The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2024fa_m190_syllabus.pdf"> syllabus </a>.</p>
 <h3> Lecture Information</h3>
 <p> Lectures are Tuesday and Thursday, 11:30 am - 12:45 pm, MSC W201</p>
 <h3> Staff and Office Hours </h3>
@@ -59,7 +59,7 @@ The syllabus information is seen below. This is a PDF copy of the <a href= "./fi
 <h3> Catalog Information </h3>
 <p> 3 credits. General Education Requirement for First-year students. No Prerequisites. Not cross listed. Topics will be announced each semester when class is scheduled.</p>
 <h3> Prerequisites</h3>
-<p> Assumed some knowledge of calculus, matrices, and basic probability. </p>
+<p> Assumed some knowledge of calculus, matrices, and basic probability. This will be reviewed the first week of classes. Anything harder than the basics will be computed via MATLAB, which will also be taught.</p>
 <h2> Texts </h2>
 <h3> Recommended Texts </h3>
 <ul>
@@ -67,7 +67,7 @@ The syllabus information is seen below. This is a PDF copy of the <a href= "./fi
   <li><a href = "./files/linear-programming-theory.pdf"><i>Elementary Linear Programming with Applications</i> (LP)</a>, by Kolam, Beck</li>
   <li><a href = "./files/EOSP2E.pdf"><i>Essentials of Stochastic Processes </i>(SP)</a>, by Rick Durrett</li>
 </ul> 
-<p> While this looks like a lot of reading and spending money on book, the course team has considered this. We are only going to cover GT Chap 1-3 (selected topics), LP Chap 1, and SP Chap 1. Also, all of the books are freely available online (at the links above).
+<p> While this looks like a lot of reading and spending money on book, the course team has considered this. We are only going to cover GT Chap 1-3 (selected topics), LP Chap 1, and SP Chap 1. Also, all of the books are freely available online (at the links above).</p>
 <h3> References </h3>
 
 <h2> Course Work </h2>
