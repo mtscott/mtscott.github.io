@@ -64,7 +64,7 @@ body {
   </tr>
   <tr>
     <td><strong>Due Oct. 1</strong></td>
-    <td>Proj 1 [pdf]</td>
+    <td>Proj1 [<a href = "./files/proj1.pdf">pdf</a>]</td>
     <td></td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ body {
   </tr>
   <tr>
     <td><strong>Due Oct. 31</strong></td>
-    <td>Proj 2 [<a href = "./files/proj2.pdf">pdf</a>]</td>
+    <td>Proj2 [<a href = "./files/proj2.pdf">pdf</a>]</td>
     <td></td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ body {
   </tr>
   <tr>
     <td><strong>Due Dec. 17</strong></td>
-    <td>Proj 3 [pdf]</td>
+    <td>Proj3 [<a href = "./files/proj3.pdf">pdf</a>]</td>
     <td></td>
   </tr>
 </table>

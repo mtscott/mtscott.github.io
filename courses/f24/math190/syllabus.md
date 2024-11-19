@@ -53,7 +53,7 @@ body {
 <h2> Administrative Information </h2>
 <p>The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2024fa_m190_syllabus.pdf"> syllabus </a>.</p>
 <h3> Lecture Information</h3>
-<p> Lectures are Tuesday and Thursday, 11:30 am - 12:45 pm, MSC W201</p>
+<p> Lectures are Tuesday and Thursday, 11:30 am - 12:45 pm, MSC W301</p>
 <h3> Staff and Office Hours </h3>
 <p> Office Hours will be decided after the first week of class</p>
 <h3> Catalog Information </h3>
@@ -63,9 +63,9 @@ body {
 <h2> Texts </h2>
 <h3> Recommended Texts </h3>
 <ul>
-  <li><a href = "./files/Game_Theory_An_Introduction.pdf"><i>Game Theory: An Introduction</i>(GT)</a>, by Steven Tadelis</li>
+  <li><a href = "./files/Game_Theory_An_Introduction.pdf"><i>Game Theory: An Introduction</i> (GT)</a>, by Steven Tadelis</li>
   <li><a href = "./files/linear-programming-theory.pdf"><i>Elementary Linear Programming with Applications</i> (LP)</a>, by Kolam, Beck</li>
-  <li><a href = "./files/EOSP2E.pdf"><i>Essentials of Stochastic Processes </i>(SP)</a>, by Rick Durrett</li>
+  <li><a href = "./files/EOSP2E.pdf"><i>Essentials of Stochastic Processes</i> (SP)</a>, by Rick Durrett</li>
 </ul> 
 <p> While this looks like a lot of reading and spending money on book, the course team has considered this. We are only going to cover GT Chap 1-3 (selected topics), LP Chap 1, and SP Chap 1. Also, all of the books are freely available online (at the links above).</p>
 <h3> References </h3>
