@@ -82,7 +82,7 @@ The syllabus information is seen below. This is a PDF copy of the <a href= "./fi
 <h3> Exams </h3>
 <p> There will be one midterm exam given in class, on Nov. 7. You will be given the full class period (75 minutes) to take the midterm.</p>
 <p> The final exam will be a final presentation to your Module 3 project. It will take place during finals week on Monday, Dec. 17, from 11:30 AM to 2:00 PM.</p>
-<p> Conflicts with the final exam time slot must be reported through the Office for Undergraduate Education (OUE). You must notify the instructor at least two weeks before the exam date if you have a conflict, or have a valid excuse verified by the Office of Undergraduate Education (<a href = "https://oue.college.emory.edu/">OUE</a>).
+<p> Conflicts with the final exam time slot must be reported through the Office for Undergraduate Education (OUE). You must notify the instructor at least two weeks before the exam date if you have a conflict, or have a valid excuse verified by the Office of Undergraduate Education (<a href = "https://oue.college.emory.edu/">OUE</a>).</p>
 <h3> Grading </h3>
 <h2>Schedule</h2>
 <p>This schedule is tentative and subject to change.</p>
