@@ -57,7 +57,7 @@ body {
       <h2>Note Sets</h2>
       <p>Math can be too gatekeepy sometimes, so I thought it might be nice to upload some notes that I prepared as I was studying for my qualifying examinations. I hope you find these helpful for your studying needs as well. </p>
       <ul> 
-        <li><a  href = "files/AnalysisQualStudyGuide.pdf" target="_blank"> Real and Complex Analysis Qualifying Exam Study Guide </a></li>
+        <li>Real and Complex Analysis Qualifying Exam Study Guide [<a  href = "files/AnalysisQualStudyGuide.pdf" target="_blank">pdf</a>]</li>
       </ul> 
     </article>
     <article>
@@ -69,7 +69,7 @@ body {
       <h2>Selected Projects</h2>
       <p>Sometimes I need a break from the math I should be doing, with some math/ math adjacent projects that I want to be doing. This spawns little projects that I find interesting, and I will upload them here, hoping you also find them interesting.</p>
       <ul> 
-        <li>DRP LaTeX Crash Course (Assignments and Beamers) [<a  href = "files/LaTeXCrashCourse.pdf" target="_blank"> pdf </a>]</li>
+        <li>DRP LaTeX Crash Course (Assignments and Beamers) [<a  href = "files/LaTeXCrashCourse.pdf" target="_blank"> pdf</a>]</li>
       </ul> 
     </article>
   
