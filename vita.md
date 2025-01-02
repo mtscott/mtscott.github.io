@@ -228,6 +228,16 @@ body {
     <td>Prof. Manuella Girotti</td>
     <td>Fall 2024</td>
   </tr>
+  <tr>
+    <td>Math 572 - Numerical PDEs</td>
+    <td>Prof. Alessandro Veneziani</td>
+    <td>Spring 2025</td>
+  </tr>
+  <tr>
+    <td>CS 581 - High Performance and Parallel Computing</td>
+    <td>Prof. Tianshi Xu</td>
+    <td>Spring 2025</td>
+  </tr>
 </table> 
 <h4>Tufts Math Courses </h4>
 <table>
