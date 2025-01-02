@@ -169,46 +169,6 @@ body {
     <th>Semester</th>
   </tr>
   <tr>
-    <td>Math 785 - Approximation Theory</td>
-    <td>Prof. Manuella Girotti</td>
-    <td>Fall 2024</td>
-  </tr>
-  <tr>
-    <td>CS 584 - Spatial Computing</td>
-    <td>Prof. Andreas Z&uuml;fle</td>
-    <td>Fall 2024</td>
-  </tr>
-  <tr>
-    <td>CS 551 - Systems Programming</td>
-    <td>Prof. Kenneth Mandelberg</td>
-    <td>Fall 2024</td>
-  </tr>
-  <tr>
-    <td>CS 534 - Machine Learning</td>
-    <td>Prof. Eugene Agichtein</td>
-    <td>Fall 2024</td>
-  </tr>
-  <tr>
-    <td>Phys 731R - Random Matrix Theory</td>
-    <td>Prof. Ilya Nemenman</td>
-    <td>Spring 2024</td>
-  </tr>
-  <tr>
-    <td>Math 517 - Iterative Methods</td>
-    <td>Prof. Yuanzhe Xi</td>
-    <td>Spring 2024</td>
-  </tr>
-  <tr>
-    <td>Math 550 - Functional Analysis</td>
-    <td>Prof. David Borthwick</td>
-    <td>Spring 2024</td>
-  </tr>
-  <tr>
-    <td>CS 524 - Theoretical Computer Science</td>
-    <td>Prof. Michelangelo Grigni</td>
-    <td>Spring 2024</td>
-  </tr>
-  <tr>
     <td>CS 526 - Algorithms</td>
     <td>Prof. Michelangelo Grigni</td>
     <td>Fall 2023</td>
@@ -255,14 +215,19 @@ body {
   </tr>
   <tr>
     <td>CS 551 - Systems Programming</td>
-    <td>Prof. Kenneth I Mandelberg </td>
+    <td>Prof. Kenneth Mandelberg </td>
     <td>Fall 2024</td>
   </tr> 
   <tr>
     <td>CS 584 - Spatial Data Algorithms</td>
-    <td>Prof. Andreas Zufle </td>
+    <td>Prof. Andreas Z&uuml;fle </td>
     <td>Fall 2024</td>
   </tr> 
+  <tr>
+    <td>Math 785 - Approximation Theory</td>
+    <td>Prof. Manuella Girotti</td>
+    <td>Fall 2024</td>
+  </tr>
 </table> 
 <h4>Tufts Math Courses </h4>
 <table>
