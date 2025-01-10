@@ -222,7 +222,7 @@ body {
   <tr>
     <td>12</td>
     <td>T 11-12</td>
-    <td>Introduction to Markov Chains</td>
+    <td><a href = "./files/markovChains.html">Introduction to Markov Chains</a></td>
     <td></td>
   </tr> 
   <tr>
