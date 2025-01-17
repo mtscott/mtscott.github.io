@@ -110,7 +110,7 @@ body {
     <ul>
       <li>Teaching Assistant </li>
       <ul>
-        <li>Math 210 - Advanced Calculus for Data Sciences (<b>Head TA</b>, Spring 2025)</li>
+        <li>Math 210 - Advanced Calculus for Data Sciences (Spring 2025, <b>Head TA</b>)</li>
         <li>Math 210 - Advanced Calculus for Data Sciences (Fall 2024)</li>
         <li>Math 315 - Numerical Analysis (Spring 2024)</li>
       </ul>
