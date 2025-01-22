@@ -87,7 +87,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: January 4, 2025
+  Last Updated: January 10, 2025
 </footer>
 
 </body>
