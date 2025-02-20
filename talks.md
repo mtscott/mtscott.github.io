@@ -78,7 +78,7 @@ body {
       <ul>
         <li> 2025 - 02: DISC - SpecQTT [<a  href = "files/HaarMeasure.pdf" target="_blank">pdf</a>]</li>
         <li> 2024 - 04: RANT - Haar Measure Notes [<a  href = "files/HaarMeasure.pdf" target="_blank">pdf</a>]</li>
-        <li> 2022 - 09: "It's Tensor Time!", Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meeting</a>. [<a  href = "EminarNotes.pdf" target="_blank">pdf</a>] </li>
+        <li> 2022 - 09: "It's Tensor Time!", Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meeting</a>. [<a  href = "files/TuftsMMM_Tensor_22.pdf" target="_blank">pdf</a>] </li>
         <li> 2022 - 04: Quantum Computing Reading Group Ch. 7 notes [<a  href = "files/LiptonQCReadingGroupCh7Notes.pdf" target="_blank">pdf</a>]</li>
         <li> 2022 - 02: Quantum Computing Reading Group Ch. 5 notes [<a  href = "files/LiptonQCReadingGroupCh5Notes.pdf" target="_blank">pdf</a>]</li>
       </ul>
