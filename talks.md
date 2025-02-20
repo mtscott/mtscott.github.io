@@ -61,7 +61,6 @@ body {
       <ul>
         <li> 2023 - 01: <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition", </a> SIAM mini-symposium on Numerical Linear Algebra, Joint Mathematics Meetings 2023. <!--[<a href = "JMM2023.pdf"> [pdf] </a>]-->
         </li>
-        <!--<li> 2022 - 09: "It's Tensor Time!", Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meeting</a>. [<a  href = "EminarNotes.pdf" target="_blank">pdf</a>] </li>-->
       </ul>
     <h3> Contributed Talks</h3>
       <ul>
@@ -71,12 +70,15 @@ body {
       </ul>
     <h3> Poster Talks </h3>
       <ul> 
+        <li> 2025 - 2: "Fisher-informed Nonlinear Truncated Generalized Conjugate Residual Optimizer" Georgia Scientific Computing Symposium, Atlanta GA, 2025 [<a href = "files/nlTGCR_MDS24.pdf" target = "_blank">pdf</a>] </li>
         <li> 2024 - 10: <a href = "https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80908"> "Acceleration Methods for Scientific and Data Science Applications" </a> SIAM Mathematics of Data Science, MDS, Atlanta GA, 2024 [<a href = "files/nlTGCR_MDS24.pdf" target = "_blank">pdf</a>] </li>
         <li> 2024 - 08: "Quantized Tensor Trains for Solving Maxwell's Equations with Spectral Methods" Lawrence Berkeley National Lab Computing Sciences Poster Session, Berkeley, CA, 2024 [<a href = "files/LBNL24QTT.pdf" target = "_blank">pdf</a>]</li>
       </ul>
     <h3> Student Seminars </h3>
       <ul>
+        <li> 2025 - 02: DISC - SpecQTT [<a  href = "files/HaarMeasure.pdf" target="_blank">pdf</a>]</li>
         <li> 2024 - 04: RANT - Haar Measure Notes [<a  href = "files/HaarMeasure.pdf" target="_blank">pdf</a>]</li>
+        <li> 2022 - 09: "It's Tensor Time!", Tufts University <a href = "https://sites.tufts.edu/mondaymathmeeting/"> Monday Math Meeting</a>. [<a  href = "EminarNotes.pdf" target="_blank">pdf</a>] </li>
         <li> 2022 - 04: Quantum Computing Reading Group Ch. 7 notes [<a  href = "files/LiptonQCReadingGroupCh7Notes.pdf" target="_blank">pdf</a>]</li>
         <li> 2022 - 02: Quantum Computing Reading Group Ch. 5 notes [<a  href = "files/LiptonQCReadingGroupCh5Notes.pdf" target="_blank">pdf</a>]</li>
       </ul>

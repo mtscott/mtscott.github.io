@@ -67,7 +67,7 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    No upcoming travels
+    Lawrence Livermore National Laboratory, Livermore, CA (Summer 2025)
   </p>
 </article>
 <article>
@@ -87,7 +87,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: January 10, 2025
+  Last Updated: February 25, 2025
 </footer>
 
 </body>
