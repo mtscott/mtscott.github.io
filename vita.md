@@ -101,6 +101,10 @@ body {
       <li>"Geometry and Analysis Seminar for Boston Area Graduate Students," MIT Math, 2022, Cambridge, MA. </li>
     </ul>
     <h2> Research Experience</h2>
+     <h4> Lawrence Livermore National Laboratory </h4>
+      <ul>
+        <li> Visiting Graduate Student Researcher, May 2025 - August 2025 </li>
+      </ul>
     <h4> Lawrence Berkeley National Laboratory </h4>
       <ul>
         <li> Visiting Graduate Student Researcher, May 2024 - August 2024 </li>
@@ -116,6 +120,7 @@ body {
       </ul>
       <li>Directed Reading Program Mentor</li>
       <ul>
+        <li>Introduction to Stochastic Calculus (Spring 2025)</li>
         <li>Introduction to Functional Analysis (Fall 2024)</li>
         <li>Introduction to Stochastic Processes (Spring 2024)</li>
         <li>Introduction to Stochastic Processes (Fall 2023)</li>
