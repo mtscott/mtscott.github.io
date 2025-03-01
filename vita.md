@@ -112,6 +112,10 @@ body {
     <h2> Teaching Experience</h2>
     <h4> Emory University </h4>
     <ul>
+      <li>Instructor</li>
+      <ul>
+        <li>Math 111 - Calculus I (Fall 2025)</li>
+      </ul>
       <li>Teaching Assistant </li>
       <ul>
         <li>Math 210 - Advanced Calculus for Data Sciences (Spring 2025, <b>Head TA</b>)</li>
