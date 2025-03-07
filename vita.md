@@ -54,7 +54,7 @@ body {
   <section>
   <article>
     <h1>Curriculum Vitae</h1>
-    <p> Here is a downloadable .pdf copy of my <a  href = "CV_MitchellScott.pdf" target="_blank"> CV</a>. (last updated: January 2025)</p>
+    <p> Here is a downloadable .pdf copy of my <a  href = "CV_MitchellScott.pdf" target="_blank"> CV</a>. (last updated: March 2025)</p>
     <h2> Education</h2>
     <table>
       <tr>
