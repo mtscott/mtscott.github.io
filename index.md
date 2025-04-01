@@ -90,7 +90,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: March 8, 2025
+  Last Updated: April 2, 2025
 </footer>
 
 </body>
