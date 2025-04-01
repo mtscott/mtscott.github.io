@@ -88,6 +88,7 @@ body {
       </ul>
     <h3> Class Presentations</h3>
       <ul>
+        <li> 2024 - 12: On the Spectrum of Beta and Dirichlet Random Matrices: With Applications to Compressed Sensing [<a  href = "files/DirichletRandomMatrices.pdf" target="_blank">pdf</a>]</li> 
         <li> 2023 - 10: Numerical Optimization Presentation for BFGS Algorithm [<a  href = "files/BFGSpresentation.pdf" target="_blank">pdf</a>]</li> 
       </ul>
   </article>
