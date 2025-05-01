@@ -61,7 +61,7 @@ body {
 <h3>Present</h3>
 <p> Currently, I am a third year Ph.D. candidate in computational math at Emory University. I have passed both of my coursework qualifying exams. I am also heavily involved in the Directed Reading Program (DRP) at Emory, having already mentored two students and taking a role on the steering committee. Through the Emory Laney Graduate School teaching curriculum, I have been a course assistant in partial differential equations and a teaching assistant in numerical analysis. </p>
 <h3>Future</h3>
-<p>After I complete my Ph.D. degree, I plan on continung in academia through postdoctoral fellowships in math, applied math, computer science, or engineering. My research interests are in scientific computing, numerical linear algebra, and numerical parital differential equations. However, more broadly, my research interests are discovering the governing dynamics of the world we live in, summarized by:</p>
+<p>After I complete my Ph.D. degree, I plan on continung in academia through postdoctoral fellowships in math, applied math, computer science, or engineering. My research interests are in scientific computing, numerical linear algebra, and numerical partial differential equations. However, more broadly, my research interests are discovering the governing dynamics of the world we live in, summarized by:</p>
 <blockquote cite="www.feynman.com">
 "Nature's great book is written in mathematical language, and it is not possible to understand it without knowing the language." -Galileo Galilei
 </blockquote>
