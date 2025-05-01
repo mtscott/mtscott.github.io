@@ -67,9 +67,6 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    Southeast Applied and Computational Math Student Workshop, Auburn, AL (April 5-6)
-  </p>
-  <p>
     Lawrence Livermore National Laboratory, Livermore, CA (Summer 2025)
   </p>
 </article>
@@ -90,7 +87,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: April 2, 2025
+  Last Updated: May 2, 2025
 </footer>
 
 </body>
