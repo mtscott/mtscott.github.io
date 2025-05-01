@@ -68,8 +68,6 @@ body {
     <article>
     
     <h2> Publications </h2>
-      </article>
-    <article>
     <h3> Theses </h3>
     <ol>
       <li><i>Master's Thesis:</i><b> A Tale of Two Tensors: Using Hierarchical and Block Low Rank to Make Preconditioners and Save Storage</b> <br>
