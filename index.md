@@ -69,6 +69,9 @@ body {
   <p>
     Lawrence Livermore National Laboratory, Livermore, CA (Summer 2025)
   </p>
+  <p>
+    RandNLA Research Workshop, IPAM, Los Angeles, CA (Aug. 11-16, 2025)
+  </p>
 </article>
 <article>
 <h2>Contact Information</h2>
@@ -87,7 +90,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: May 2, 2025
+  Last Updated: May 7, 2025
 </footer>
 
 </body>

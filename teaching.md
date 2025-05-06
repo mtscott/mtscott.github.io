@@ -62,7 +62,7 @@ body {
 </section>
 <h2> Emory Teaching Assistantship</h2>
 <h4> Spring 2025</h4>
-<p> Math 210 - Advanced Data Science Calculus: Practice Final Exam <a href = 'files/Math210ReviewExam.pdf'>[Questions]</a> <a href = 'files/Math210ReviewSols.pdf'>[Solutions]</a></p>
+<p> Math 210 - Advanced Data Science Calculus: Practice Final Exam [<a href = 'files/Math210ReviewExam.pdf'>Questions</a>] [<a href = 'files/Math210ReviewSols.pdf'>Solutions</a>]</p>
 
 
 </body>
