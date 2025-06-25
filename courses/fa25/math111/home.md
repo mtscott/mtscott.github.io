@@ -52,8 +52,8 @@ body {
 <h1>Math 111: Calculus I</h1>
 <h4>Fall 2025</h4>
 <p><strong>Location:</strong> MSC N302</p>
-<p><strong>Lecture: </strong> MW 8:30 a - 9:45 a</p>
-<p><strong>Professor:</strong> <a href = "https://mtscott.github.io/"> Mitchell Scott</a></p>
+<p><strong>Lecture: </strong> MW 8:30 a - 9:45 a (Section 1)</p>
+<p><strong>Instructor:</strong> <a href = "https://mtscott.github.io/"> Mitchell Scott</a></p>
 <p><strong>Office Hours:</strong> MSC ???</p>
 
 <h3>Course Description</h3>
