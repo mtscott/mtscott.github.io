@@ -49,8 +49,8 @@ body {
 
 <section>
 <article>
-<h1>Math 190: First-year Seminar</h1>
-<h2>Mathematics in Sustainability</h2>
+<h1>Math 485: Topics in Mathematics</h1>
+<h2>Numerical Methods for Climate Data</h2>
 <h4>Fall 2024</h4>
 <p><strong>Location:</strong> MSC ???</p>
 <p><strong>Lecture: </strong> TR 11:30 a - 12:45 p</p>
