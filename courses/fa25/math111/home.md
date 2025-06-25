@@ -56,11 +56,8 @@ body {
 <p><strong>Professor:</strong> <a href = "https://mtscott.github.io/"> Mitchell Scott</a></p>
 <p><strong>Office Hours:</strong> MSC ???</p>
 
-<h3> Overview</h3>
-<p> When you think about sustainability, there are many different academic fields that come to mind, but math is probably not one. This is a shame because the connections between math and sustainability are abundant. In this first year seminar, we hope to bridge that gap!  In this course, students will learn the complex dynamics of the environment in terms of ecological networks, economic games, linear programming optimization, and data visualization. This course is designed for first year students to get a taste of upper level mathematics that are not traditionally taught as math courses at Emory. The disparate topics will be connected by their focus on the environment as well as interdisciplinary studies. Hopefully, the connections become clear, and the definition of sustainability transcends just green spaces and recycling.</p>
-
-<hr>
-<p><strong>Disclaimer:</strong> This class is a fictious class created for the sole purpose of satisfying the  <a href = "https://sustainability.emory.edu/programs/the-piedmont-project/">Piedmont TATTO</a> curriculum for Fall 2024. It is modeled after Math 190: First-year Seminar, which is a real class. It uses that for date structure, start days, end days, holidays, etc. This will hopefully be taught at a later time, where the information above will be different, and this disclaimer will be removed.</p>
+<h3>Course Description</h3>
+<p> Limits, continuity, derivatives, antiderivatives, the definite integral.</p>
 </article>
 </section>
 
