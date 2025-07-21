@@ -54,15 +54,15 @@ body {
 
 <h4>Fall 2026</h4>
 <p><strong>Location:</strong> MSC ???</p>
-<p><strong>Lecture: </strong> TR 11:30 a - 12:45 p</p>
+<p><strong>Lecture: </strong> MW 11:30 a - 12:45 p</p>
 <p><strong>Professor:</strong> <a href = "https://mtscott.github.io/"> Mitchell Scott</a></p>
 <p><strong>Office Hours:</strong> MSC ???</p>
 
 <h3> Overview</h3>
-<p> When you think about sustainability, there are many different academic fields that come to mind, but math is probably not one. This is a shame because the connections between math and sustainability are abundant. In this first year seminar, we hope to bridge that gap!  In this course, students will learn the complex dynamics of the environment in terms of ecological networks, economic games, linear programming optimization, and data visualization. This course is designed for first year students to get a taste of upper level mathematics that are not traditionally taught as math courses at Emory. The disparate topics will be connected by their focus on the environment as well as interdisciplinary studies. Hopefully, the connections become clear, and the definition of sustainability transcends just green spaces and recycling.</p>
+<p> Climate data is inherently high dimensional. Think of wind data; it could be represented as a 6$\th$ dimensional data structure - latitude, longitude, elevation, velocity in the $x-,y-,z-$ direction. In a first course in numerical analysis, matrix methods are taught, so one could find a way to convert this 6D problem into a matrix. However, this would destroy higher level structure of the data. This is why it might be beneficial to handle the problem as it appears. In this course, we will introduce the students to tensors, generalization to matrices with higher dimensions. We start with learning the language of tensors, how to manipulate them, and operations one can perform on them. Then we spend the rest of the course talking about tensor decompositions. The frist one is the Tucker family of decompositions, which is very good at compression and lacks interpretability. On the other hand, the last unit on CANDECOMP/PARAFAC (CP) decomposition is exceptional at interpretability. We will then apply these techniques to a climate data final project. </p>
 
 <hr>
-<p><strong>Disclaimer:</strong> This class is a fictious class created for the sole purpose of satisfying the  <a href = "https://sustainability.emory.edu/programs/the-piedmont-project/">Piedmont TATTO</a> curriculum for Fall 2024. It is modeled after Math 190: First-year Seminar, which is a real class. It uses that for date structure, start days, end days, holidays, etc. This will hopefully be taught at a later time, where the information above will be different, and this disclaimer will be removed.</p>
+<p><strong>Disclaimer:</strong> This class is a fictious class created for the sole purpose of satisfying the  <a href = "https://sustainability.emory.edu/programs/the-piedmont-project/">Piedmont TATTO</a> curriculum for Summer 2025. It is modeled after Math 485: Topics in Mathematics, which is a real class. It uses that for date structure, start days, end days, holidays, etc. This will hopefully be taught at a later time, where the information above will be different, and this disclaimer will be removed.</p>
 </article>
 </section>
 

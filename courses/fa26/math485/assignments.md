@@ -52,54 +52,49 @@ body {
 <h2>Assignments</h2>
     <table>
   <tr>
-    <td><strong>Due Sep. 10</strong></td>
+    <td><strong>Due Sep. 9</strong></td>
     <td>HW0 [pdf]</td>
     <td>[sol]</td>
   </tr>
   <tr>
-    <td><strong>Due Sep. 24</strong></td>
+    <td><strong>Due Sep. 23</strong></td>
     <td>HW1 [pdf]</td>
     <td>[sol]</td>
 
   </tr>
   <tr>
-    <td><strong>Due Oct. 1</strong></td>
-    <td>Proj1 [<a href = "./files/proj1.pdf">pdf</a>]</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>Due Oct. 8</strong></td>
+    <td><strong>Due Oct. 7</strong></td>
     <td>HW2 [pdf]</td>
     <td>[sol]</td>
   </tr>
   <tr>
-    <td><strong>Due Oct. 22</strong></td>
+    <td><strong>Due Oct. 21</strong></td>
     <td>HW3 [pdf]</td>
     <td>[sol]</td>
   </tr>
   <tr>
-    <td><strong>Due Oct. 31</strong></td>
-    <td>Proj2 [<a href = "./files/proj2.pdf">pdf</a>]</td>
+    <td><strong>Due Nov. 2</strong></td>
+    <td>Proj2 [pdf]</td>
     <td></td>
   </tr>
   <tr>
-    <td><strong>Due Nov. 5</strong></td>
+    <td><strong>Due Nov. 4</strong></td>
     <td>HW4 [pdf]</td>
     <td>[sol]</td>
   </tr>
   <tr>
-    <td><strong>Due Nov. 26</strong></td>
-    <td>HW5 [<a href = "./files/hw5.pdf">pdf</a>]</td>
-    <td>[<a href = "./files/sol5.pdf">sol</a>]</td>
+    <td><strong>Due Nov. 18</strong></td>
+    <td>HW5 [pdf]</td>
+    <td>[sol]</td>
   </tr>
   <tr>
-    <td><strong>Due Dec. 10</strong></td>
-    <td>HW6 [<a href = "./files/hw6.pdf">pdf</a>]</td>
-    <td>[<a href = "./files/sol6.pdf">sol</a>]</td>
+    <td><strong>Due Dec. 7</strong></td>
+    <td>HW6 [pdf]</td>
+    <td>[sol]</td>
   </tr>
   <tr>
     <td><strong>Due Dec. 17</strong></td>
-    <td>Proj3 [<a href = "./files/proj3.pdf">pdf</a>]</td>
+    <td>Proj3 [pdf]</td>
     <td></td>
   </tr>
 </table>
