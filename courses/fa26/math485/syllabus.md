@@ -51,7 +51,7 @@ body {
 <article>
 <h1>Syllabus</h1>
 <h2> Administrative Information </h2>
-<p>The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2026fa_m485_syllabus.pdf"> syllabus </a>.</p>
+<p>The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2026fa_m485_syllabus.pdf"> syllabus</a>.</p>
 <h3> Lecture Information</h3>
 <p> Lectures are Monday and Wednesday, 11:30 am - 12:45 pm, MSC W301</p>
 <h3> Staff and Office Hours </h3>
