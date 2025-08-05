@@ -75,6 +75,9 @@ body {
   <p>
     Teaching Computation with MATLAB Workshop, Carleton College, Northfield, MN (October 26-28, 2025)
   </p>
+  <p>
+    Randomized Numerical Linear Algebra Workshop, ICERM, Providence, RI (February 2-6, 2026)
+  </p>
 </article>
 <article>
 <h2>Contact Information</h2>
@@ -93,7 +96,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: July 15, 2025
+  Last Updated: August 5, 2025
 </footer>
 
 </body>
