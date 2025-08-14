@@ -70,6 +70,7 @@ body {
       <p>Sometimes I need a break from the math I should be doing, with some math/ math adjacent projects that I want to be doing. This spawns little projects that I find interesting, and I will upload them here, hoping you also find them interesting.</p>
       <ul> 
         <li>DRP LaTeX Crash Course (Assignments and Beamers) [<a  href = "files/LaTeXCrashCourse.pdf" target="_blank"> pdf</a>]</li>
+        <li>Calculus II, Partial Fraction Decomposition Notes [<a href = "files/partialFractionDecomposition.pdf" target="_blank"> pdf</a>]</li>
       </ul> 
     </article>
   
