@@ -67,15 +67,6 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    Lawrence Livermore National Laboratory, Livermore, CA (Summer 2025)
-  </p>
-  <p>
-    RandNLA Research Workshop, IPAM, Los Angeles, CA (Aug. 11-16, 2025)
-  </p>
-  <p>
-    Teaching Computation with MATLAB Workshop, Carleton College, Northfield, MN (October 26-28, 2025)
-  </p>
-  <p>
     Randomized Numerical Linear Algebra Workshop, ICERM, Providence, RI (February 2-6, 2026)
   </p>
 </article>
@@ -96,7 +87,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: August 5, 2025
+  Last Updated: November 10, 2025
 </footer>
 
 </body>

@@ -62,7 +62,7 @@ body {
 <p> Currently, I am a third year Ph.D. candidate in computational math at Emory University. I have passed both of my coursework qualifying exams. I am also heavily involved in the Directed Reading Program (DRP) at Emory, having already mentored two students and taking a role on the steering committee. Through the Emory Laney Graduate School teaching curriculum, I have been a course assistant in partial differential equations and a teaching assistant in numerical analysis. </p>
 <h3>Future</h3>
 <p>After I complete my Ph.D. degree, I plan on continung in academia through postdoctoral fellowships in math, applied math, computer science, or engineering. My research interests are in scientific computing, numerical linear algebra, and numerical partial differential equations. However, more broadly, my research interests are discovering the governing dynamics of the world we live in, summarized by:</p>
-<blockquote cite="www.feynman.com">
+<blockquote>
 "Nature's great book is written in mathematical language, and it is not possible to understand it without knowing the language." -Galileo Galilei
 </blockquote>
 <p>While my research is very important to me, another goal of mine is to become a better conveyor of information. I was spoiled to grow up watching Grant Sanderson (3Blue1Brown) and Numberphile on Youtube, who explain math in a fun and approachable way. I have often felt overwhelmed in large classrooms and too self-conscious to ask questions, so I want to look into how to better present information and cultivate a culture of inclusion so that anyone can feel comfortable to ask the questions that they need to ask to learn. Math is intimidating enough, so anyone who wishes to study it should have all the support needed for them to prosper.</p>
