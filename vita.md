@@ -114,6 +114,7 @@ body {
     <ul>
       <li>Instructor</li>
       <ul>
+        <li>Math 190 - Mathematics of Sustainability (Spring 2026)</li>
         <li>Math 111 - Calculus I (Fall 2025)</li>
       </ul>
       <li>Teaching Assistant </li>
@@ -124,6 +125,7 @@ body {
       </ul>
       <li>Directed Reading Program Mentor</li>
       <ul>
+        <li>Advanced Game Theory: Algorithms and Voting Systems (Fall 2025)</li>
         <li>Introduction to Stochastic Calculus (Spring 2025)</li>
         <li>Introduction to Functional Analysis (Fall 2024)</li>
         <li>Introduction to Stochastic Processes (Spring 2024)</li>
