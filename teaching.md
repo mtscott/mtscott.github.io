@@ -56,7 +56,7 @@ body {
 <h2>Emory Teaching</h2>
 <h4> Fall 2025</h4>
   <p> <a href = "/courses/fa25/math111/home.html">Math 111 - Calculus I</a> </p>
-<h4> Spring 2026 </h> 
+<h4> Spring 2026 </h4> 
   <p> <a href = "/courses/sp26/math190/home.html">Math 190 - Mathematics of Sustainability</a> </p>  
 <h4> Piedmont Tatto Sustainability Course</h4>
     <p> <a href = "/courses/fa26/math485/home.html">Math 485 - Numerical Methods for Climate Data</a> </p>
