@@ -69,6 +69,9 @@ body {
   <p>
     Randomized Numerical Linear Algebra Workshop, ICERM, Providence, RI (February 2-6, 2026)
   </p>
+  <p>
+    International Linear Algebra Society 2026, Virginia Tech, Blacksburg, VA (May 18-22, 2026)
+  </p>
 </article>
 <article>
 <h2>Contact Information</h2>
@@ -87,7 +90,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: November 10, 2025
+  Last Updated: November 26, 2025
 </footer>
 
 </body>

@@ -43,7 +43,7 @@ body {
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./home.html">Home</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./syllabus.html">Syllabus</a>
   <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="./assignments.html">Assignments</a>
-  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="https://canvas.emory.edu">Canvas</a>
+  <a style = "color: #0E315F; font-size: 20px; border: 2px solid #E69F0A; padding: 5px; text-decoration: none;" href="https://canvas.emory.edu/courses/158602">Canvas</a>
   
  </div>
 
@@ -51,9 +51,9 @@ body {
 <article>
 <h1>Syllabus</h1>
 <h2> Administrative Information </h2>
-<p>The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2024fa_m190_syllabus.pdf"> syllabus </a>.</p>
+<p>The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2026sp_MA190_syllabus.pdf"> syllabus</a>.</p>
 <h3> Lecture Information</h3>
-<p> Lectures are Tuesday and Thursday, 11:30 am - 12:45 pm, MSC W301</p>
+<p> Lectures are Monday and Wednesday, 11:30 am - 12:45 pm, MSC N301</p>
 <h3> Staff and Office Hours </h3>
 <p> Office Hours will be decided after the first week of class</p>
 <h3> Catalog Information </h3>
