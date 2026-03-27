@@ -67,9 +67,6 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    Randomized Numerical Linear Algebra Workshop, ICERM, Providence, RI (February 2-6, 2026)
-  </p>
-  <p>
     International Linear Algebra Society 2026, Virginia Tech, Blacksburg, VA (May 18-22, 2026)
   </p>
   <p>
@@ -77,6 +74,12 @@ body {
   </p>
   <p>
     Colorado Conference On Iterative and Multigrid Methods, Boulder, CO (June 21-26, 2026)
+  </p>
+  <p>
+    SIAM Mathematics of Data Science 2026, Salt Lake City, UT (November 16–20, 2026)
+  </p>
+  <p>
+    Numerical Linear Algebra in the Era of AI Workshop, ICERM, Providence, RI (May 17-21, 2026)
   </p>
 </article>
 <article>
@@ -96,7 +99,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: January 31, 2026
+  Last Updated: March 27, 2026
 </footer>
 
 </body>
