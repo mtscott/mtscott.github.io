@@ -57,18 +57,22 @@ body {
 
   <article>
     <h1>Talks and Presentations</h1>
-    <h3> Invited Talks</h3>
+    <!---<h3> Invited Talks</h3>
       <ul>
-        <li> 2023 - 01: <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition", </a> SIAM mini-symposium on Numerical Linear Algebra, Joint Mathematics Meetings 2023. [<a href = "files/JMM2023.pdf">pdf</a>]
-        </li>
-      </ul>
+      </ul>--->
     <h3> Contributed Talks</h3>
       <ul>
-        <li> 2025 - 4: <a href = "https://webhome.auburn.edu/~tzh0059/2025ACMworkshop.html"> "Preconditioning Stochastic Gradient Descent: Theoretical Guarantees and Novel Frameworks", </a> Southeast Applied and Computational Math Student Workshop, Auburn University, 2025. <!--[<a href = "JMM2023.pdf"> pdf </a>]-->
+        <li> 2026 - 5: <a href = "https://www.math.emory.edu/~yxi26/ACM26/program.html"> "What makes a Good Preconditioner for Data Science?", </a> Preconditioning techniques for scientific and industrial applications, ICMS, Edinburgh, Scotland, UK, 2026. <!--[<a href = "JMM2023.pdf"> pdf </a>]-->
+        </li> 
+        <li> 2026 - 5: <a href = "https://ilas2026.math.vt.edu/index.html"> "Block Subset Selection based on Randomized QR with Column Pivoting: A Tensor Product Framework", </a> 27th Conference of the International Linear Algebra Society, Virginia Tech, 2026. [<a href = "files/BSSPwQRCP_ILAS26.pdf"> pdf </a>
+        </li> 
+        <li> 2026 - 4: <a href = "https://www.math.emory.edu/~yxi26/ACM26/program.html"> "What makes a Good Preconditioner for Data Science?", </a> Southeast Applied and Computational Math Student Workshop, Emory University, 2026. <!--[<a href = "JMM2023.pdf"> pdf </a>]-->
         </li> 
         <li> 2025 - 3: <a href = "https://webhome.auburn.edu/~tzh0059/2025ACMworkshop.html"> "Preconditioning Stochastic Gradient Descent: Theoretical Guarantees and Novel Frameworks", </a> Atlanta SIAM Student Conference, Georgia Institute of Technology, 2025. <!--[<a href = "JMM2023.pdf"> pdf </a>]-->
         </li> 
         <li> 2023 - 11: <a href = "https://www.math.purdue.edu/~xiaj/FastSolvers2023/index.html"> "Constructing Hierarchical Matrices through Recursive Tensor Decompositions", </a> Conference on Fast Direct Solvers, Purdue University, 2023. [<a href = "files/JMM2023.pdf">pdf</a>]
+        </li>
+        <li> 2023 - 01: <a href = "https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/19330"> "Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition", </a> SIAM mini-symposium on Numerical Linear Algebra, Joint Mathematics Meetings 2023. [<a href = "files/JMM2023.pdf">pdf</a>]
         </li>
       </ul>
     <h3> Poster Talks </h3>
