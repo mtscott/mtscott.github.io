@@ -92,6 +92,7 @@ body {
     </ul>
     <h4> Workshops and Confrences Attended </h4>
     <ul>
+      <li>"International Linear Algebra Society 2026", Virginia Tech, Blacksburg, VA,May 18-22, 2026.</li>
       <li>"Conference on Fast Direct Solvers", Purdue University, November 4 - 5, 2023.</li>
       <li>"Acceleration and Extrapolation Methods", ICERM, 2023, Providence, RI. </li>
       <li>"Qiskit Global Summer School: Theory to Implementation," IBM, 2023, Virtual.  </li>

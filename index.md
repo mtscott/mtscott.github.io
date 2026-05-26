@@ -67,13 +67,13 @@ body {
     <u>Upcoming Travels</u>
   </h3>
   <p>
-    International Linear Algebra Society 2026, Virginia Tech, Blacksburg, VA (May 18-22, 2026)
-  </p>
-  <p>
     Preconditioning 2026, ICMS, Bayes Centre, Edinburgh, Scotland (May 27-29, 2026)
   </p>
   <p>
     Colorado Conference On Iterative and Multigrid Methods, Boulder, CO (June 21-26, 2026)
+  </p>
+  <p>
+    SIAM Northeast Section Annual Meeting, Dartmouth, MA (August 21-22, 2026)
   </p>
   <p>
     SIAM Mathematics of Data Science 2026, Salt Lake City, UT (November 16–20, 2026)
@@ -99,7 +99,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: March 27, 2026
+  Last Updated: May 27, 2026
 </footer>
 
 </body>
