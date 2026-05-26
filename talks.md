@@ -64,7 +64,7 @@ body {
       <ul>
         <li> 2026 - 5: <a href = "https://www.math.emory.edu/~yxi26/ACM26/program.html"> "What makes a Good Preconditioner for Data Science?", </a> Preconditioning techniques for scientific and industrial applications, ICMS, Edinburgh, Scotland, UK, 2026. <!--[<a href = "JMM2023.pdf"> pdf </a>]-->
         </li> 
-        <li> 2026 - 5: <a href = "https://ilas2026.math.vt.edu/index.html"> "Block Subset Selection based on Randomized QR with Column Pivoting: A Tensor Product Framework", </a> 27th Conference of the International Linear Algebra Society, Virginia Tech, 2026. [<a href = "files/BSSPwQRCP_ILAS26.pdf"> pdf </a>
+        <li> 2026 - 5: <a href = "https://ilas2026.math.vt.edu/index.html"> "Block Subset Selection based on Randomized QR with Column Pivoting: A Tensor Product Framework", </a> 27th Conference of the International Linear Algebra Society, Virginia Tech, 2026. [<a href = "files/BSSPwQRCP_ILAS26.pdf">pdf</a>]
         </li> 
         <li> 2026 - 4: <a href = "https://www.math.emory.edu/~yxi26/ACM26/program.html"> "What makes a Good Preconditioner for Data Science?", </a> Southeast Applied and Computational Math Student Workshop, Emory University, 2026. <!--[<a href = "JMM2023.pdf"> pdf </a>]-->
         </li> 
