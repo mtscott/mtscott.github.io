@@ -84,6 +84,8 @@ body {
       </ul>
     <h3> Student Seminars </h3>
       <ul>
+        <li> 2026 - 02: UMN NA Seminar - Generalizable Preconditioners [<a  href = "files/genPrecondUMNSeminar2026.pdf" target="_blank">pdf</a>]</li>
+        <li> 2025 - 11: UMN NA Seminar - Introduction to RMT [<a  href = "files/rmtUMNSeminar2025.pdf" target="_blank">pdf</a>]</li>
         <li> 2025 - 02: DISC - SpecQTT [<a  href = "files/HaarMeasure.pdf" target="_blank">pdf</a>]</li>
         <li> 2024 - 04: RANT - Haar Measure Notes [<a  href = "files/HaarMeasure.pdf" target="_blank">pdf</a>]</li>
         <li> 2023 - 10: DISC - Hierarchical Matrices [<a  href = "files/HaarMeasure.pdf" target="_blank">pdf</a>]</li>
