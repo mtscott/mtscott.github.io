@@ -73,7 +73,10 @@ body {
     Colorado Conference On Iterative and Multigrid Methods, Boulder, CO (June 21-26, 2026)
   </p>
   <p>
-    SIAM Northeast Section Annual Meeting, Dartmouth, MA (August 21-22, 2026)
+    SIAM New England Section Annual Meeting, Dartmouth, MA (August 21-22, 2026)
+  </p>
+  <p>
+    MFEM Community Workshop, Atlanta, GA (September 22-25, 2026)
   </p>
   <p>
     SIAM Mathematics of Data Science 2026, Salt Lake City, UT (November 16–20, 2026)
