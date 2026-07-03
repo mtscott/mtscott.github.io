@@ -68,14 +68,14 @@ body {
   </tr>
   <tr>
     <td><strong>Final Exam: Integration</strong></td>
-    <td>Review [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSquestions.pdf'>questions</a>] 
-    <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCShandwrittenSolutions.pdf'>written sols</a>]</td>
-    <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSsolutions.pdf'>typed sols</a>]</td>
-    <td>[<a href='https://youtu.be/ZLfn5D2YOyM'>recorded review session</a>]</td>
+    <td>Review [<a href='./files/FinalIntegration/Math111finalExamReviewIntQuestions.pdf'>questions</a>]</td>
+    <td>[<a href='./files/FinalIntegration/Math111finalExamReviewIntHandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/FinalIntegration/Math111finalExamReviewIntSolutions.pdf'>typed sols</a>]</td>
+    <td>[<a href='https://youtu.be/8VS50DHGjW0'>recorded review session</a>]</td>
   </tr>
   <tr>
     <td><strong>Final Exam: L'Hopital, Linear Approximation, and Curve Sketching</strong></td>
-    <td>Review [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSquestions.pdf'>questions</a>] 
+    <td>Review [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSquestions.pdf'>questions</a>]</td>
     <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCShandwrittenSolutions.pdf'>written sols</a>]</td>
     <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSsolutions.pdf'>typed sols</a>]</td>
     <td>[<a href='https://youtu.be/ZLfn5D2YOyM'>recorded review session</a>]</td>
