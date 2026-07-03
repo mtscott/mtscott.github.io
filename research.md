@@ -70,7 +70,7 @@ body {
     <h2> Publications </h2>
     <h3> Journal Papers </h3>
     <ol>
-      <li><u>M.T. Scott</u>, T. Xu, Z. Tang, A. Pichette-Emmons, Q. Ye, Y. Saad, Y. Xi, "Design Criteria for SGD Preconditioners: Local Conditioning, Noise Floors, and Basin Stability"  [<a href = "https://arxiv.org/abs/2511.19716" target = "blank">arXiv</a>] [<a href = "https://openreview.net/forum?id=vo8FOBt6f6" target = "blank">openReview</a>] </li>
+      <li><u>M.T. Scott</u>, T. Xu, Z. Tang, A. Pichette-Emmons, Q. Ye, Y. Saad, Y. Xi, "Design Criteria for SGD Preconditioners: Local Conditioning, Noise Floors, and Basin Stability"  [<a href = "https://arxiv.org/abs/2511.19716" target = "blank">arXiv</a>] [<a href = "https://openreview.net/forum?id=vo8FOBt6f6" target = "blank">openReview</a>] [<a href = "https://youtu.be/jaQe_zAi1Gs" target = "blank">video</a>] </li>
     </ol>
     <h3> Theses </h3>
     <ol>

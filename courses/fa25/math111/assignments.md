@@ -49,7 +49,7 @@ body {
 
 <section>
 <article>
-<h2>Assignments</h2>
+<h2>Review Sessions</h2>
     <table>
   <tr>
     <td><strong>Due Sep. 9</strong></td>
@@ -68,9 +68,9 @@ body {
     <td>[sol]</td>
   </tr>
   <tr>
-    <td><strong>Due Oct. 21</strong></td>
-    <td>HW3 [pdf]</td>
-    <td>[sol]</td>
+    <td><strong>Final Exam: L'Hopital, Linear Approximation, and Curve Sketching</strong></td>
+    <td>Review [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSquestions.pdf'> questions</a>] [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCShandwrittenSolutions.pdf'> written sols</a>] [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSsolutions.pdf'> typed sols</a>]</td>
+    <td>[<a href='./files/FinalLALHCS/Math111FinalReviewLHLACSvideo.mp4'>recorded review session</a>]</td>
   </tr>
   <tr>
     <td><strong>Due Nov. 2</strong></td>

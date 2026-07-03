@@ -85,14 +85,15 @@ body {
     </table>
     <h2> Conferences, Workshops, and Talks</h2>
     <p> For a complete list of talks/presentations, please see  <a href="/talks.html">Talks</a> page.</p>
-    <h4> Invited Talks </h4>
+    <!--<h4> Invited Talks </h4>
     <ul>
       <li>"Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition," Joint Mathematics Meetings, 2023, Boston, MA.</li>
       <li>"It's Tensor Time!: A computational Framework for Analyzing Structured Matrices," Tufts Monday Math Meetings, 2022, Medford, MA.</li>
-    </ul>
+    </ul>-->
     <h4> Workshops and Confrences Attended </h4>
     <ul>
-      <li>"International Linear Algebra Society 2026", Virginia Tech, Blacksburg, VA,May 18-22, 2026.</li>
+      <li>"Preconditioning for Scientific and Industrial Applications 2026", ICMS, Edinburgh, Scotland, UK, May 27-29,2026.</li>
+      <li>"International Linear Algebra Society 2026", Virginia Tech, Blacksburg, VA, May 18-22, 2026.</li>
       <li>"Conference on Fast Direct Solvers", Purdue University, November 4 - 5, 2023.</li>
       <li>"Acceleration and Extrapolation Methods", ICERM, 2023, Providence, RI. </li>
       <li>"Qiskit Global Summer School: Theory to Implementation," IBM, 2023, Virtual.  </li>

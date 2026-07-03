@@ -55,7 +55,7 @@ body {
 <p><strong>Location:</strong> MSC N 302</p>
 <p><strong>Lecture: </strong> MW 8:30 a - 9:45 a (Section 1)</p>
 <p><strong>Professor:</strong> <a href = "https://mtscott.github.io/"> Mitchell Scott</a></p>
-<p><strong>Office Hours:</strong> MSC ???</p>
+<p><strong>Office Hours:</strong> MSC N412</p>
 
 <h3> Overview</h3>
 <p> Limits, continuity, derivatives, antiderivatives, the definite integral.</p>

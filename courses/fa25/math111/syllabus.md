@@ -51,11 +51,11 @@ body {
 <article>
 <h1>Syllabus</h1>
 <h2> Administrative Information </h2>
-<p>The syllabus information is seen below. This is a PDF copy of the <a href= "./files/2026fa_m485_syllabus.pdf"> syllabus</a>.</p>
+<p>The syllabus information is seen below. This is a PDF copy of the <a href= "./files/Math111SylabusF25.pdf"> syllabus</a>.</p>
 <h3> Lecture Information</h3>
-<p> Lectures are Monday and Wednesday, 8:30 am - 9:45 am, MSC W301</p>
+<p> Lectures are Monday and Wednesday, 8:30 am - 9:45 am, MSC N302</p>
 <h3> Staff and Office Hours </h3>
-<p> Office Hours will be decided after the first week of class</p>
+<p> Office Hours are Tuesday's from 1:00-2:00 pm on Zoom and Friday's from 12:30-1:30 in MSC N412.</p>
 <h3> Catalog Information </h3>
 <p> 3 credits. Quantitative Reasoning Credit. Students completing MATH 119 or equivalent cannot enroll for MATH 111. For concerns, please contact the Mathematics department.</p>
 <h3> Prerequisites</h3>

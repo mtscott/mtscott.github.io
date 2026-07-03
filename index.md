@@ -60,15 +60,12 @@ body {
       <img src="Headshot_prof.jpg" alt="Headshot" class = "center" style = "text-align:center; max-height: 100%; max-width: 100%; object-fit: contain; margin-below:15px;">
     </div>
     <br>
-<p>Mitchell Scott is a final year computational math Ph.D. candidate at Emory University, and is <strong>currently on the academic postdoctoral fellowship market</strong>, working with <a href = "http://www.math.emory.edu/~yxi26/">Yuanzhe Xi</a>. Mitchell's research focus is numerical linear algebra, high performance scientific computing, and stochastic preconditioning for data science and large scale scientific problems. At Emory, he is part of the Directed Reading Program (DRP) Steering Committee, and the president of Emory's SIAM student chapter. He has been a summer research fellow at Lawrence Berkeley National Laboratory and Lawrence Livermore National Laboratory. Previously, he received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math and an MS degree (2023) in applied and computational mathematics from Tufts University, Graduate School of Arts and Sciences. At Tufts, Mitchell worked with <a href = "https://mkilme01.pages.tufts.edu/">Misha Kilmer</a>. He is the recipient of the Fuertes communication award. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
+<p>Mitchell Scott is a final year computational math Ph.D. candidate at Emory University, and is <strong>currently on the academic postdoctoral fellowship market to start Fall 2027</strong>, working with <a href = "http://www.math.emory.edu/~yxi26/">Yuanzhe Xi</a>. Mitchell's research focus is numerical linear algebra, high performance scientific computing, and stochastic preconditioning for data science and large scale scientific problems. At Emory, he is part of the Directed Reading Program (DRP) Steering Committee, and the president of Emory's SIAM student chapter. He has been a summer research fellow at Lawrence Berkeley National Laboratory and Lawrence Livermore National Laboratory. Previously, he received a BS degree (2020) in biological engineering from Cornell University, College of Engineering, with minors in pure and applied math and an MS degree (2023) in applied and computational mathematics from Tufts University, Graduate School of Arts and Sciences. At Tufts, Mitchell worked with <a href = "https://mkilme01.pages.tufts.edu/">Misha Kilmer</a>. He is the recipient of the Fuertes communication award. When he is not working, Mitchell enjoys reading contemporary fiction over an americano or long distance running. </p>
   </article>
 <article>
   <h3>
     <u>Upcoming Travels</u>
   </h3>
-  <p>
-    Preconditioning 2026, ICMS, Bayes Centre, Edinburgh, Scotland (May 27-29, 2026)
-  </p>
   <p>
     Colorado Conference On Iterative and Multigrid Methods, Boulder, CO (June 21-26, 2026)
   </p>
@@ -102,7 +99,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: May 29, 2026
+  Last Updated: June 10, 2026
 </footer>
 
 </body>
