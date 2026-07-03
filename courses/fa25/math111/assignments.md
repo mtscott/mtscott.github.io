@@ -69,7 +69,7 @@ body {
   </tr>
   <tr>
     <td><strong>Final Exam: L'Hopital, Linear Approximation, and Curve Sketching</strong></td>
-    <td>Review [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSquestions.pdf'> questions</a>] [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCShandwrittenSolutions.pdf'> written sols</a>] [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSsolutions.pdf'> typed sols</a>]</td>
+    <td>Review [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSquestions.pdf'>questions</a>] [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCShandwrittenSolutions.pdf'>written sols</a>] [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSsolutions.pdf'>typed sols</a>]</td>
     <td>[<a href='./files/FinalLALHCS/Math111FinalReviewLHLACSvideo.mp4'>recorded review session</a>]</td>
   </tr>
   <tr>
