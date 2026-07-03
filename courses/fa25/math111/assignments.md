@@ -56,16 +56,22 @@ body {
     <td>HW0 [pdf]</td>
     <td>[sol]</td>
   </tr>
+   <tr>
+    <td><strong>Due Nov. 2</strong></td>
+    <td>Proj2 [pdf]</td>
+    <td></td>
+  </tr>
   <tr>
     <td><strong>Due Sep. 23</strong></td>
     <td>HW1 [pdf]</td>
     <td>[sol]</td>
-
   </tr>
   <tr>
-    <td><strong>Due Oct. 7</strong></td>
-    <td>HW2 [pdf]</td>
-    <td>[sol]</td>
+    <td><strong>Final Exam: Integration</strong></td>
+    <td>Review [<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSquestions.pdf'>questions</a>] 
+    <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCShandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSsolutions.pdf'>typed sols</a>]</td>
+    <td>[<a href='https://youtu.be/ZLfn5D2YOyM'>recorded review session</a>]</td>
   </tr>
   <tr>
     <td><strong>Final Exam: L'Hopital, Linear Approximation, and Curve Sketching</strong></td>
@@ -73,31 +79,6 @@ body {
     <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCShandwrittenSolutions.pdf'>written sols</a>]</td>
     <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSsolutions.pdf'>typed sols</a>]</td>
     <td>[<a href='https://youtu.be/ZLfn5D2YOyM'>recorded review session</a>]</td>
-  </tr>
-  <tr>
-    <td><strong>Due Nov. 2</strong></td>
-    <td>Proj2 [pdf]</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><strong>Due Nov. 4</strong></td>
-    <td>HW4 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td><strong>Due Nov. 18</strong></td>
-    <td>HW5 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td><strong>Due Dec. 7</strong></td>
-    <td>HW6 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-  <tr>
-    <td><strong>Due Dec. 17</strong></td>
-    <td>Proj3 [pdf]</td>
-    <td></td>
   </tr>
 </table>
   </article>
