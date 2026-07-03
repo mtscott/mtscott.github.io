@@ -50,7 +50,7 @@ body {
 <section>
 <article>
 <h2>Review Sessions</h2>
-    <table>
+  <table>
   <tr>
     <td><strong>Due Sep. 9</strong></td>
     <td>HW0 [pdf]</td>
@@ -80,8 +80,8 @@ body {
     <td>[<a href='./files/FinalLALHCS/Math111finalExamReviewLALHCSsolutions.pdf'>typed sols</a>]</td>
     <td>[<a href='https://youtu.be/ZLfn5D2YOyM'>recorded review session</a>]</td>
   </tr>
-</table>
-  </article>
+  </table>
+</article>
 </section>
 
 
