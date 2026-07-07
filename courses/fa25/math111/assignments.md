@@ -61,8 +61,8 @@ body {
   <tr>
     <td><strong>Exam 2: Advanced Differentiation</strong></td>
     <td>Review [<a href='./files/Exam2/math111Exam2ReviewQuestions.pdf'>questions</a>]</td>
-    <td>[<a href='./files/Exam2/math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
-    <td>[<a href='./files/Exam2/math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
+    <td>[<a href='./files/Exam2/math111Exam2ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/Exam2/math111Exam2ReviewSolutions.pdf'>typed sols</a>]</td>
     <td> </td>
   </tr>
   <tr>
