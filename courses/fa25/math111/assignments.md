@@ -53,23 +53,23 @@ body {
   <table>
   <tr>
     <td><strong>Exam 1: Rates of Change and Limits</strong></td>
-    <td>Review [<a href='./files/Exam1/Math111Exam1ReviewQuestions.pdf'>questions</a>]</td>
-    <td>[<a href='./files/Exam1/Math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
-    <td>[<a href='./files/Exam1/Math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
+    <td>Review [<a href='./files/Exam1/math111Exam1ReviewQuestions.pdf'>questions</a>]</td>
+    <td>[<a href='./files/Exam1/math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/Exam1/math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
     <td> </td>
   </tr>
   <tr>
     <td><strong>Exam 2: Advanced Differentiation</strong></td>
-    <td>Review [<a href='./files/Exam2/Math111Exam2ReviewQuestions.pdf'>questions</a>]</td>
-    <td>[<a href='./files/Exam2/Math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
-    <td>[<a href='./files/Exam2/Math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
+    <td>Review [<a href='./files/Exam2/math111Exam2ReviewQuestions.pdf'>questions</a>]</td>
+    <td>[<a href='./files/Exam2/math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/Exam2/math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
     <td> </td>
   </tr>
   <tr>
     <td><strong>Exam 3: Curve Sketching</strong></td>
-    <td>Review [<a href='./files/Exam3/Math111Exam3ReviewQuestions.pdf'>questions</a>]</td>
-    <td>[<a href='./files/Exam3/Math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
-    <td>[<a href='./files/Exam3/Math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
+    <td>Review [<a href='./files/Exam3/math111Exam3ReviewQuestions.pdf'>questions</a>]</td>
+    <td>[<a href='./files/Exam3/math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/Exam3/math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
     <td> </td>
   </tr>
   <tr>
