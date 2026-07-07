@@ -52,19 +52,25 @@ body {
 <h2>Review Sessions</h2>
   <table>
   <tr>
-    <td><strong>Due Sep. 9</strong></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
-  </tr>
-   <tr>
-    <td><strong>Due Nov. 2</strong></td>
-    <td>Proj2 [pdf]</td>
-    <td></td>
+    <td><strong>Exam 1: Rates of Change and Limits</strong></td>
+    <td>Review [<a href='./files/Exam1/Math111Exam1ReviewQuestions.pdf'>questions</a>]</td>
+    <td>[<a href='./files/Exam1/Math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/Exam1/Math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
+    <td> </td>
   </tr>
   <tr>
-    <td><strong>Due Sep. 23</strong></td>
-    <td>HW1 [pdf]</td>
-    <td>[sol]</td>
+    <td><strong>Exam 2: Advanced Differentiation</strong></td>
+    <td>Review [<a href='./files/Exam2/Math111Exam2ReviewQuestions.pdf'>questions</a>]</td>
+    <td>[<a href='./files/Exam2/Math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/Exam2/Math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><strong>Exam 3: Curve Sketching</strong></td>
+    <td>Review [<a href='./files/Exam3/Math111Exam3ReviewQuestions.pdf'>questions</a>]</td>
+    <td>[<a href='./files/Exam3/Math111Exam3ReviewHandwrittenSolutions.pdf'>written sols</a>]</td>
+    <td>[<a href='./files/Exam3/Math111Exam3ReviewSolutions.pdf'>typed sols</a>]</td>
+    <td> </td>
   </tr>
   <tr>
     <td><strong>Final Exam: Integration</strong></td>
