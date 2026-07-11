@@ -1,3 +1,8 @@
+---
+title: Calculus I
+description: Math 111 Fall 2025
+---
+
 <html lang="en-US">
 <head>
 <style>
