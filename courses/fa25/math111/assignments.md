@@ -37,9 +37,7 @@ body {
   color: white;
 }
 }
-</style>
-</head>
-<style>
+
 th, td {
   border-style: none;
 
