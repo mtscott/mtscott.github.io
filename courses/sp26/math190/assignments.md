@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mathematics of Sustainability
+header_title: Math 190
+header_tagline: Math of Sustainability at Emory Spring 2026
+---
+
 <html lang="en-US">
 <head>
 <style>
