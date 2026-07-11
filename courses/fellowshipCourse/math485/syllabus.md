@@ -1,3 +1,10 @@
+---
+layout: default
+title: Numerical Methods for Climate Data
+header_title: Math 485
+header_tagline: Numerical Climate Data at Emory 
+---
+
 <html lang="en-US">
 <head>
 <style>
