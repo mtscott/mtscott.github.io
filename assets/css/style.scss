@@ -225,23 +225,25 @@ header.inner {
   border-color: var(--emory-blue);
 }
 
-/* Headshot / inline images */
+/* Headshot / inline images — centered, not floated */
 #main_content img {
+  display: block;
   max-width: 220px;
+  width: 100%;
+  height: auto;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   border: 3px solid #fff;
   outline: 1px solid var(--border);
-  float: right;
-  margin: 0 0 1rem 1.75rem;
+  margin: 0 auto 1.5rem;
 }
 
-@media (max-width: 640px) {
-  #main_content img {
-    float: none;
-    display: block;
-    margin: 0 auto 1.5rem;
-  }
+/* Photos on the Talks page (presenting research, etc.) can run larger
+   since there's no text wrapping around them anymore */
+#main_content img[src*="talk"],
+#main_content img[src*="present"],
+#main_content img[src*="photo"] {
+  max-width: 420px;
 }
 
 /* Lists */
