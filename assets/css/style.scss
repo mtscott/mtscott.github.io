@@ -1,0 +1,350 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* =========================================================================
+   Emory-themed modernization of jekyll-theme-slate
+   Official Emory University brand colors (brand.emory.edu/color.html):
+     Emory Blue (primary) ..... #012169
+     Emory Navy .................. #0c2340
+     Emory Royal Blue .......... #0033a0
+     Emory Light Blue .......... #007dba
+     Emory Gold ...................... #f2a900
+     Emory Dark Gold .............. #b58500
+     Cool Gray ......................... #d9d9d6
+     Near-black ........................ #101820
+   ========================================================================= */
+
+:root {
+  --emory-blue: #012169;
+  --emory-navy: #0c2340;
+  --emory-royal: #0033a0;
+  --emory-light-blue: #007dba;
+  --emory-gold: #f2a900;
+  --emory-dark-gold: #b58500;
+  --emory-gray: #d9d9d6;
+  --emory-ink: #101820;
+
+  --bg: #f7f7f5;
+  --card-bg: #ffffff;
+  --text: #1c2226;
+  --text-muted: #4c5560;
+  --border: #e3e3e0;
+  --radius: 10px;
+  --shadow: 0 1px 3px rgba(1, 33, 105, 0.08), 0 8px 24px rgba(1, 33, 105, 0.06);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* -------------------------------------------------------------------------
+   HEADER
+   ------------------------------------------------------------------------- */
+#header_wrap {
+  background: linear-gradient(135deg, var(--emory-blue) 0%, var(--emory-navy) 100%);
+  border-bottom: 4px solid var(--emory-gold);
+}
+
+#header_wrap.outer {
+  padding: 0;
+}
+
+header.inner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3.2rem 2rem 2.4rem;
+  text-align: left;
+}
+
+#project_title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 2.6rem;
+  color: #ffffff;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.4rem;
+  border: none;
+}
+
+#project_tagline {
+  font-size: 1.15rem;
+  font-weight: 400;
+  color: var(--emory-gold);
+  opacity: 1;
+  margin: 0;
+}
+
+#forkme_banner {
+  background: var(--emory-gold);
+  color: var(--emory-ink);
+  font-weight: 600;
+  border-radius: 0 0 6px 6px;
+}
+
+#forkme_banner:hover {
+  background: var(--emory-dark-gold);
+  color: #fff;
+}
+
+#downloads .zip_download_link,
+#downloads .tar_download_link {
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+}
+
+#downloads .zip_download_link:hover,
+#downloads .tar_download_link:hover {
+  background: var(--emory-gold);
+  border-color: var(--emory-gold);
+  color: var(--emory-ink);
+}
+
+/* -------------------------------------------------------------------------
+   MAIN CONTENT
+   ------------------------------------------------------------------------- */
+#main_content_wrap {
+  background: var(--bg);
+  padding: 2.5rem 1rem 4rem;
+}
+
+#main_content_wrap.outer {
+  padding-top: 0;
+}
+
+#main_content.inner {
+  max-width: 900px;
+  margin: -2rem auto 0;
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 2.5rem 3rem 3rem;
+  border: 1px solid var(--border);
+}
+
+@media (max-width: 640px) {
+  header.inner {
+    padding: 2.2rem 1.25rem 1.75rem;
+  }
+  #project_title {
+    font-size: 2rem;
+  }
+  #main_content.inner {
+    margin-top: -1.25rem;
+    padding: 1.75rem 1.25rem 2rem;
+  }
+}
+
+/* Headings */
+#main_content h1,
+#main_content h2,
+#main_content h3,
+#main_content h4 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--emory-blue);
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.85rem;
+}
+
+#main_content h1 {
+  font-size: 1.9rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid var(--emory-gold);
+}
+
+#main_content h2 {
+  font-size: 1.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--emory-gray);
+}
+
+#main_content h3 {
+  font-size: 1.2rem;
+  color: var(--emory-navy);
+}
+
+/* Horizontal rules act as clean section dividers */
+#main_content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1.75rem 0;
+}
+
+/* Links */
+#main_content a {
+  color: var(--emory-royal);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0, 51, 160, 0.3);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+#main_content a:hover {
+  color: var(--emory-dark-gold);
+  border-bottom-color: var(--emory-dark-gold);
+}
+
+/* The row of nav links at the top of index.md renders as a paragraph of
+   links right after the H1/H2 — style it like a real nav bar. */
+#main_content > p:first-of-type {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.25rem;
+  padding: 0.5rem 0 1.25rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+#main_content > p:first-of-type a {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--emory-blue);
+  background: var(--bg);
+}
+
+#main_content > p:first-of-type a:hover {
+  background: var(--emory-blue);
+  color: #fff;
+  border-color: var(--emory-blue);
+}
+
+/* Headshot / inline images */
+#main_content img {
+  max-width: 220px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 3px solid #fff;
+  outline: 1px solid var(--border);
+  float: right;
+  margin: 0 0 1rem 1.75rem;
+}
+
+@media (max-width: 640px) {
+  #main_content img {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem;
+  }
+}
+
+/* Lists */
+#main_content ul,
+#main_content ol {
+  padding-left: 1.4rem;
+}
+
+#main_content li {
+  margin-bottom: 0.4rem;
+}
+
+/* Blockquotes (used for CV/talks entries in some themes) */
+#main_content blockquote {
+  border-left: 4px solid var(--emory-gold);
+  background: #fbf6ea;
+  margin: 1rem 0;
+  padding: 0.75rem 1.25rem;
+  color: var(--text-muted);
+}
+
+/* Tables */
+#main_content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0;
+  font-size: 0.95rem;
+}
+
+#main_content th {
+  background: var(--emory-blue);
+  color: #fff;
+  text-align: left;
+  padding: 0.6rem 0.85rem;
+}
+
+#main_content td {
+  padding: 0.6rem 0.85rem;
+  border-bottom: 1px solid var(--border);
+}
+
+#main_content tr:nth-child(even) td {
+  background: #f8f8f6;
+}
+
+/* Inline code / pre blocks */
+#main_content code {
+  background: #eef1f6;
+  color: var(--emory-navy);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+#main_content pre {
+  background: var(--emory-ink);
+  color: #f2f2f2;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+}
+
+#main_content pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+
+/* Strong emphasis (used for "currently on the job market" callouts, etc.) */
+#main_content strong {
+  color: var(--emory-navy);
+}
+
+/* -------------------------------------------------------------------------
+   FOOTER
+   ------------------------------------------------------------------------- */
+#footer_wrap {
+  background: var(--emory-navy);
+  border-top: 4px solid var(--emory-gold);
+}
+
+#footer_wrap.outer {
+  padding: 0;
+}
+
+footer.inner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.75rem 2rem;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+footer.inner a {
+  color: var(--emory-gold);
+}
+
+footer.inner a:hover {
+  color: #fff;
+}
+
+footer .copyright {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 600;
+}
