@@ -1,10 +1,44 @@
----
-title: Calculus I
-description: Math 111 Fall 2025
----
-
 <html lang="en-US">
 <head>
+<meta charset="utf-8">
+<title>{{ page.title }} | Mitchell Scott</title>
+<meta name="description" content="{{ page.description }}">
+<style>
+th, td {
+  border-style: none;
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #0E315F;
+  border:2px solid #E69F0A;
+  text-align: center;
+  padding: 20px 24px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+}
+</style>
+</head>
 <style>
 th, td {
   border-style: none;
