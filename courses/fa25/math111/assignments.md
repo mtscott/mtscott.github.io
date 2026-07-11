@@ -1,3 +1,10 @@
+---
+layout: default
+title: Calculus I | Mitchell Scott
+header_title: Math 111
+header_tagline: Calculus I at Emory Fall 2025
+---
+
 <html lang="en-US">
 <head>
 <style>
