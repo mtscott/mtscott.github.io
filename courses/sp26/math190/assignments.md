@@ -102,7 +102,7 @@ body {
   <tr>
     <td><strong>Due Apr. 27</strong></td>
     <td>HW6 [<a href = "./files/homeworks/hw6.pdf">pdf</a>]</td>
-    <td>[<a href = "./files/homeworks/sol6.pdf">sol</a>]</td>
+    <td>[<a href = "./files/solutions/sol6.pdf">sol</a>]</td>
   </tr>
   <tr>
     <td><strong>Due May 6</strong></td>
