@@ -77,12 +77,12 @@ body {
   <tr>
     <td><strong>Due Feb. 25</strong></td>
     <td>HW2 [<a href='./files/homeworks/hw2.pdf'>pdf</a>]</td>
-    <td>[<a href='./files/solutions/sol2.pdf'>pdf</a>]</td>
+    <td>[<a href='./files/solutions/sol2.pdf'>sol</a>]</td>
   </tr>
   <tr>
     <td><strong>Due Mar. 18</strong></td>
     <td>HW3 [<a href='./files/homeworks/hw3.pdf'>pdf</a>]</td>
-    <td>[<a href='./files/solutions/sol3.pdf'>pdf</a>]</td>
+    <td>[<a href='./files/solutions/sol3.pdf'>sol</a>]</td>
   </tr>
   <tr>
     <td><strong>Due Mar. 23</strong></td>
