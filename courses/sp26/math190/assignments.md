@@ -59,54 +59,54 @@ body {
 <h2>Assignments</h2>
     <table>
   <tr>
-    <td><strong>Due Sep. 10</strong></td>
-    <td>HW0 [pdf]</td>
-    <td>[sol]</td>
+    <td><strong>Due Jan. 28</strong></td>
+    <td>HW0 [<a href='./files/homeworks/hw0.pdf'>pdf</a>]</td>
+    <td>[<a href='./files/solutions/sol0.pdf'>sol</a>]</td>
   </tr>
   <tr>
-    <td><strong>Due Sep. 24</strong></td>
-    <td>HW1 [pdf]</td>
-    <td>[sol]</td>
+    <td><strong>Due Feb. 11</strong></td>
+    <td>HW1 [<a href='./files/homeworks/hw1.pdf'>pdf</a>]</td>
+    <td>[<a href='./files/solutions/sol1.pdf'>sol</a>]</td>
 
   </tr>
   <tr>
-    <td><strong>Due Oct. 1</strong></td>
+    <td><strong>Due Feb. 18</strong></td>
     <td>Proj1 [<a href = "./files/proj1.pdf">pdf</a>]</td>
     <td></td>
   </tr>
   <tr>
-    <td><strong>Due Oct. 8</strong></td>
-    <td>HW2 [pdf]</td>
-    <td>[sol]</td>
+    <td><strong>Due Feb. 25</strong></td>
+    <td>HW2 [<a href='./files/homeworks/hw2.pdf'>pdf</a>]</td>
+    <td>[<a href='./files/solutions/sol2.pdf'>pdf</a>]</td>
   </tr>
   <tr>
-    <td><strong>Due Oct. 22</strong></td>
-    <td>HW3 [pdf]</td>
-    <td>[sol]</td>
+    <td><strong>Due Mar. 18</strong></td>
+    <td>HW3 [<a href='./files/homeworks/hw3.pdf'>pdf</a>]</td>
+    <td>[<a href='./files/solutions/sol3.pdf'>pdf</a>]</td>
   </tr>
   <tr>
-    <td><strong>Due Oct. 31</strong></td>
+    <td><strong>Due Mar. 23</strong></td>
     <td>Proj2 [<a href = "./files/proj2.pdf">pdf</a>]</td>
     <td></td>
   </tr>
   <tr>
-    <td><strong>Due Nov. 5</strong></td>
-    <td>HW4 [pdf]</td>
+    <td><strong>Due Mar. 30</strong></td>
+    <td>HW4 [<a href='./files/homeworks/hw4.pdf'>pdf</a>]</td>
     <td>[sol]</td>
   </tr>
   <tr>
-    <td><strong>Due Nov. 26</strong></td>
-    <td>HW5 [<a href = "./files/hw5.pdf">pdf</a>]</td>
-    <td>[<a href = "./files/sol5.pdf">sol</a>]</td>
+    <td><strong>Due Apr. 15</strong></td>
+    <td>HW5 [<a href = "./files/homeworks/hw5.pdf">pdf</a>]</td>
+    <td>[<a href = "./files/solutions/sol5.pdf">sol</a>]</td>
   </tr>
   <tr>
-    <td><strong>Due Dec. 10</strong></td>
-    <td>HW6 [<a href = "./files/hw6.pdf">pdf</a>]</td>
-    <td>[<a href = "./files/sol6.pdf">sol</a>]</td>
+    <td><strong>Due Apr. 27</strong></td>
+    <td>HW6 [<a href = "./files/homeworks/hw6.pdf">pdf</a>]</td>
+    <td>[<a href = "./files/homeworks/sol6.pdf">sol</a>]</td>
   </tr>
   <tr>
-    <td><strong>Due Dec. 17</strong></td>
-    <td>Proj3 [<a href = "./files/math190p3.pdf">pdf</a>]</td>
+    <td><strong>Due May 6</strong></td>
+    <td>Proj3 [<a href = "./files/projects/proj3.pdf">pdf</a>]</td>
     <td></td>
   </tr>
 </table>

@@ -62,7 +62,7 @@ body {
 <h3> Lecture Information</h3>
 <p> Lectures are Monday and Wednesday, 11:30 am - 12:45 pm, MSC N301</p>
 <h3> Staff and Office Hours </h3>
-<p> Office Hours will be decided after the first week of class</p>
+<p> Office Hours will be T 1:00-2:30, F 3:00-4:30 both in MSC N436</p>
 <h3> Catalog Information </h3>
 <p> 3 credits. General Education Requirement for First-year students. No Prerequisites. Not cross listed. Topics will be announced each semester when class is scheduled.</p>
 <h3> Prerequisites</h3>
@@ -70,16 +70,16 @@ body {
 <h2> Texts </h2>
 <h3> Recommended Texts </h3>
 <ul>
-  <li><a href = "./files/Game_Theory_An_Introduction.pdf"><i>Game Theory: An Introduction</i> (GT)</a>, by Steven Tadelis</li>
-  <li><a href = "./files/linear-programming-theory.pdf"><i>Elementary Linear Programming with Applications</i> (LP)</a>, by Kolam, Beck</li>
-  <li><a href = "./files/EOSP2E.pdf"><i>Essentials of Stochastic Processes</i> (SP)</a>, by Rick Durrett</li>
+  <li><a href = "./files/books/Game_Theory_An_Introduction.pdf"><i>Game Theory: An Introduction</i> (GT)</a>, by Steven Tadelis</li>
+  <li><a href = "./files/books/linear-programming-theory.pdf"><i>Elementary Linear Programming with Applications</i> (LP)</a>, by Kolam, Beck</li>
+  <li><a href = "./files/books/EOSP2E.pdf"><i>Essentials of Stochastic Processes</i> (SP)</a>, by Rick Durrett</li>
 </ul> 
 <p> While this looks like a lot of reading and spending money on book, the course team has considered this. We are only going to cover GT Chap 1-3 (selected topics), LP Chap 1, and SP Chap 1. Also, all of the books are freely available online (at the links above).</p>
 <h3> References </h3>
 
 <h2> Course Work </h2>
 <h3> Homework </h3>
-<p> You will have two homeworks per module and one homework at the beginning to set expectations of the material. There will be 7 total homework assignments. The assignments will be posted on and submitted through Canvas. The homework will be due on Tuesday at 11:30 am, which is the beginning of class, (except for holidays) and will be posted no later than three classes beforehand (Thursday the week prior). The number of questions may vary week to week, but the assignments will not be very long. You will upload your written homework to Canvas in PDF format to grade.</p>
+<p> You will have two homeworks per module and one homework at the beginning to set expectations of the material. There will be 7 total homework assignments. The assignments will be posted on and submitted through Canvas. The homework will be due on Wednesday at 11:30 am, which is the beginning of class, (except for holidays) and will be posted no later than three classes beforehand (Monday the week prior). The number of questions may vary week to week, but the assignments will not be very long. You will upload your written homework to Gradescope in PDF format to grade.</p>
 <p>The lowest two homework grades will be dropped. No makeup assignments will be given. If you have to miss an assignment, it will be one that is dropped.</p>
 <p> Homework assignments will be graded on an individual basis. The instructor allows discussions with other students while solving the problems. The only requirement is that you acknowledge all contributors and sources used. Yes, this does include large language models such as ChatGPT. Identical solutions that are seen as Honors Code violations, will not be graded and will be reported to the Honor Council. The border between acceptable and unacceptable collaboration may be subtle. If you are uncertain whether a particular behavior is acceptable or not, please ask the instructor or teaching assistant as soon as possible.</p>
 <h3> Projects </h3>
@@ -102,7 +102,7 @@ body {
   </tr>
   <tr>
     <td>1</td>
-    <td>R 8-29</td>
+    <td>W 8-29</td>
     <td>Syllabus, Matrix Review</td>
     <td></td>
   </tr>
