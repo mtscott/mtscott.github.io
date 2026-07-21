@@ -98,18 +98,21 @@ body {
     <th>Week</th>
     <th>Date</th>
     <th>Topics</th>
+    <th>Material</th>
     <th>Homework</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>W 8-29</td>
+    <td>W 1-14</td>
     <td>Syllabus, Matrix Review</td>
     <td></td>
+    <td><a href='./files/homeworks/hw0.pdf'>HW0</a> released</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>T 9-3</td>
-    <td>Matrix Review</td>
+    <td>M 1-19</td>
+    <td>Martin Luther King, Jr. Day (no class)</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -117,11 +120,13 @@ body {
     <td>R 9-5</td>
     <td>Single Person Games</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>T 9-10</td>
     <td>Decision Trees</td>
+    <td></td>
     <td>HW0 Due</td>
   </tr>
   <tr>
@@ -129,11 +134,13 @@ body {
     <td>R 9-12</td>
     <td>Static Games</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>T 9-17</td>
     <td>Strategy Types</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -141,11 +148,13 @@ body {
     <td>R 9-19</td>
     <td>Nash Equilibria</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>T 9-24</td>
     <td>Dynamic Games</td>
+    <td></td>
     <td>HW1 Due</td>
   </tr>
   <tr>
@@ -153,11 +162,13 @@ body {
     <td>R 9-26</td>
     <td>Incomplete information</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td>T 10-1</td>
     <td>Game Theory Presentations</td>
+    <td></td>
     <td></td>
   </tr> 
   <tr>
@@ -165,11 +176,13 @@ body {
     <td>R 10-3</td>
     <td>Linear Programming</td>
     <td></td>
+    <td></td>
   </tr> 
   <tr>
     <td>7</td>
     <td>T 10-8</td>
     <td>Matrix Notation of Linear Programming</td>
+    <td></td>
     <td>HW2 Due</td>
   </tr>
   <tr>
@@ -177,11 +190,13 @@ body {
     <td>R 10-10</td>
     <td>Geometry of Linear Programming I </td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>8</td>
     <td>T 10-15</td>
     <td>Fall Break (no class)</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -189,11 +204,13 @@ body {
     <td>R 10-17</td>
     <td>Geometry of Linear Programming II</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>9</td>
     <td>T 10-22</td>
     <td>Linear Programming 4</td>
+    <td></td>
     <td>HW3 Due</td>
   </tr>
   <tr>
@@ -207,17 +224,20 @@ body {
     <td>T 10-29</td>
     <td>Project Work Day</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>R 10-31</td>
     <td>Chocolate Presentations</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>11</td>
     <td>T 11-5</td>
     <td>Midterm Review</td>
+    <td></td>
     <td>HW4 Due</td>
   </tr>
   <tr>
@@ -225,11 +245,13 @@ body {
     <td>R 11-7</td>
     <td>Midterm Exam</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>12</td>
     <td>T 11-12</td>
     <td><a href = "./files/markovChains.html">Introduction to Markov Chains</a></td>
+    <td></td>
     <td></td>
   </tr> 
   <tr>
@@ -237,11 +259,13 @@ body {
     <td>R 11-14</td>
     <td>Multistep Transitions</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>13</td>
     <td>T 11-19</td>
     <td>State Classification</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -249,11 +273,13 @@ body {
     <td>R 11-21</td>
     <td>Stationary Distributions</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>14</td>
     <td>T 11-26</td>
     <td>Limit Behavior</td>
+    <td></td>
     <td>HW5 Due</td>
   </tr>
   <tr>
@@ -261,11 +287,13 @@ body {
     <td>R 11-28</td>
     <td>Thanksgiving Break (no class)</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>15</td>
     <td>T 12-3</td>
     <td>Special Examples</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -273,16 +301,19 @@ body {
     <td>R 12-5</td>
     <td>Catch-up</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>16</td>
     <td>T 12-10</td>
     <td>Catch-up</td>
+    <td></td>
     <td>HW6 Due</td>
   </tr>
   <tr>
     <td>Finals</td>
     <td>T 12-17</td>
+    <td></td>
     <td>11:30am - 02:00pm, MSC - N301</td>
     <td></td>
   </tr>
