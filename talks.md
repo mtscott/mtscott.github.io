@@ -62,6 +62,10 @@ body {
       </ul>--->
     <h3> Contributed Talks</h3>
       <ul>
+        <li> 2026 - 8: <a href = "https://sites.google.com/view/nesectionsiam/annual-meeting/conference-details"> "Experiment Constrained Subset Selection based on Randomized QR with Column Pivoting:A Tensor Product Framework", </a> 1st Annual SIAM NE Section Meeting, UMass Dartmouth, 2026. [<a href = "files/BSSPwQRCP_SIAMNE26.pdf" target = "_blank">pdf</a>]
+        </li> 
+        <li> 2026 - 6: <a href = "https://coloradoconference.github.io/2026/"> "What makes a Good Preconditioner for Data Science?", </a> Colorado Conference on Iterative and Multigrid Methods. [<a href = "files/WMAGPFDS_Copper26.pdf" target = "_blank">pdf</a>]
+        </li> 
         <li> 2026 - 5: <a href = "https://www.math.emory.edu/~yxi26/ACM26/program.html"> "What makes a Good Preconditioner for Data Science?", </a> Preconditioning techniques for scientific and industrial applications, ICMS, Edinburgh, Scotland, UK, 2026. [<a href = "files/dataSciencePreconditionerPrecond26.pdf" target = "_blank">pdf</a>]
         </li> 
         <li> 2026 - 5: <a href = "https://ilas2026.math.vt.edu/index.html"> "Block Subset Selection based on Randomized QR with Column Pivoting: A Tensor Product Framework", </a> 27th Conference of the International Linear Algebra Society, Virginia Tech, 2026. [<a href = "files/BSSPwQRCP_ILAS26.pdf" target = "_blank">pdf</a>]

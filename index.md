@@ -66,12 +66,7 @@ body {
   <h3>
     <u>Upcoming Travels</u>
   </h3>
-  <p>
-    Colorado Conference On Iterative and Multigrid Methods, Boulder, CO (June 21-26, 2026)
-  </p>
-  <p>
-    SIAM New England Section Annual Meeting, Dartmouth, MA (August 21-22, 2026)
-  </p>
+  
   <p>
     MFEM Community Workshop, Atlanta, GA (September 22-25, 2026)
   </p>
@@ -79,7 +74,13 @@ body {
     SIAM Mathematics of Data Science 2026, Salt Lake City, UT (November 16–20, 2026)
   </p>
   <p>
+    SIAM  Conference on Computational Science and Engineering 2027, Pittsburgh, PA (February 22–26, 2027)
+  </p>
+  <p>
     Numerical Linear Algebra in the Era of AI Workshop, ICERM, Providence, RI (May 17-21, 2026)
+  </p>
+  <p>
+    SIAM Conference on Applied Linear Algebra, Long Beach, CA (May 24-28, 2027)
   </p>
 </article>
 <article>
@@ -99,7 +100,7 @@ body {
 </section>
 
 <footer>
-  Last Updated: June 10, 2026
+  Last Updated: September 10, 2026
 </footer>
 
 </body>
