@@ -68,7 +68,7 @@ body {
     <td>Emory University</td>
   </tr>
       <tr>
-    <td>2023-2028</td>
+    <td>2023-2026</td>
     <td>MS in Computer Science</td>
     <td>Emory University</td>
   </tr>
