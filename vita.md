@@ -90,8 +90,10 @@ body {
       <li>"Discovering Hierarchical Matrix Structure Through Recursive Tensor Decomposition," Joint Mathematics Meetings, 2023, Boston, MA.</li>
       <li>"It's Tensor Time!: A computational Framework for Analyzing Structured Matrices," Tufts Monday Math Meetings, 2022, Medford, MA.</li>
     </ul>-->
-    <h4> Workshops and Confrences Attended </h4>
+    <h4> Workshops and Conferences Attended </h4>
     <ul>
+      <li>"SIAM NE Section First annual meeting", UMass Dartmouth, USA, August 21-22, 2026.</li>
+      <li>"41st Colorado Conference On Iterative and Multigrid Methods 2026", Colorado Univesity, Boulder, USA, June 21-26, 2026.</li>
       <li>"Preconditioning for Scientific and Industrial Applications 2026", ICMS, Edinburgh, Scotland, UK, May 27-29,2026.</li>
       <li>"International Linear Algebra Society 2026", Virginia Tech, Blacksburg, VA, May 18-22, 2026.</li>
       <li>"Conference on Fast Direct Solvers", Purdue University, November 4 - 5, 2023.</li>
@@ -121,12 +123,17 @@ body {
       </ul>
       <li>Teaching Assistant </li>
       <ul>
+        <li>Math 210 - Advanced Calculus for Data Sciences (Fall 2026, <b>Head TA</b>)</li>
         <li>Math 210 - Advanced Calculus for Data Sciences (Spring 2025, <b>Head TA</b>)</li>
         <li>Math 210 - Advanced Calculus for Data Sciences (Fall 2024)</li>
         <li>Math 315 - Numerical Analysis (Spring 2024)</li>
       </ul>
       <li>Directed Reading Program Mentor</li>
       <ul>
+        <li>High Dimensional Probability (Fall 2026)</li>
+        <li>Introduction to Stochastic Calculus (Fall 2026)</li>
+        <li>Introduction to Stochastic Jump Processes (Spring 2026)</li>
+        <li>Introduction to Stochastic Processes (Spring 2026)</li>
         <li>Advanced Game Theory: Algorithms and Voting Systems (Fall 2025)</li>
         <li>Introduction to Stochastic Calculus (Spring 2025)</li>
         <li>Introduction to Functional Analysis (Fall 2024)</li>
